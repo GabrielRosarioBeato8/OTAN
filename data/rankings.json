@@ -7,7 +7,8 @@
       "players": [
         {
           "name": "MINUS ONE",
-          "points": 2493654
+          "points": 2493654,
+          "display_name": "MINUS ONE TOP 1 LAST EVENT"
         },
         {
           "name": "CENIZA",
@@ -43,7 +44,8 @@
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
-          "points": 238539
+          "points": 238539,
+          "display_name": "りﾉ丂ムﾑ乇ﾑ TOP 2 LAST EVENT (F)"
         },
         {
           "name": "Lutter",
@@ -71,7 +73,8 @@
         },
         {
           "name": "Resurgentee",
-          "points": 127432
+          "points": 127432,
+          "display_name": "Resurgentee EX TOP"
         },
         {
           "name": "destro",
@@ -142,10 +145,6 @@
           "points": 0
         },
         {
-          "name": "Resurgentee EX TOP",
-          "points": 0
-        },
-        {
           "name": "La sombra",
           "points": 0
         },
@@ -155,10 +154,6 @@
         },
         {
           "name": "lord erick",
-          "points": 0
-        },
-        {
-          "name": "りﾉ丂ムﾑ乇ﾑ TOP 2 LAST EVENT (F)",
           "points": 0
         },
         {
@@ -203,10 +198,6 @@
         },
         {
           "name": "Jerryar",
-          "points": 0
-        },
-        {
-          "name": "MINUS ONE TOP 1 LAST EVENT",
           "points": 0
         },
         {
