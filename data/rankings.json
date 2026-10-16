@@ -1,4 +1,145 @@
 {
-  "updated_at": null,
-  "events": {}
+  "game": "e4k",
+  "server": "EmpirefourkingdomsExGG_2",
+  "updated_at": "2026-10-16T22:31:40.361Z",
+  "events": {
+    "samurai": {
+      "players": [
+        {
+          "name": "MINUS ONE",
+          "points": 2493654
+        },
+        {
+          "name": "CENIZA",
+          "points": 2075755
+        },
+        {
+          "name": "RYU-KEN",
+          "points": 597141
+        },
+        {
+          "name": "MAVU",
+          "points": 554046
+        },
+        {
+          "name": "-PIKACHU-",
+          "points": 513000
+        },
+        {
+          "name": "wing",
+          "points": 395028
+        },
+        {
+          "name": "Félix Gabriel",
+          "points": 369114
+        },
+        {
+          "name": "Johandrys jr",
+          "points": 339718
+        },
+        {
+          "name": "Boot",
+          "points": 289484
+        },
+        {
+          "name": "りﾉ丂ムﾑ乇ﾑ",
+          "points": 238539
+        },
+        {
+          "name": "Lutter",
+          "points": 209904
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 201318
+        },
+        {
+          "name": "-KAERION-",
+          "points": 175013
+        },
+        {
+          "name": "spraj",
+          "points": 171475
+        },
+        {
+          "name": "- SIR - ED -",
+          "points": 138512
+        },
+        {
+          "name": "Onichan",
+          "points": 137482
+        },
+        {
+          "name": "Resurgentee",
+          "points": 127432
+        },
+        {
+          "name": "destro",
+          "points": 117409
+        },
+        {
+          "name": "-INMORTAL-",
+          "points": 111539
+        },
+        {
+          "name": "RonalE.Coopwer",
+          "points": 99304
+        },
+        {
+          "name": "joaitooo",
+          "points": 70564
+        },
+        {
+          "name": "spinspin",
+          "points": 63680
+        },
+        {
+          "name": "tongui.",
+          "points": 48817
+        },
+        {
+          "name": "MOAN",
+          "points": 34100
+        },
+        {
+          "name": "TUNDRA",
+          "points": 30656
+        },
+        {
+          "name": "Gamboaa",
+          "points": 30372
+        },
+        {
+          "name": "Joffre GS",
+          "points": 26427
+        },
+        {
+          "name": "SANGRE13",
+          "points": 17409
+        },
+        {
+          "name": "NMR",
+          "points": 5240
+        },
+        {
+          "name": "Velaryon",
+          "points": 3160
+        },
+        {
+          "name": "O T A N",
+          "points": 2127
+        },
+        {
+          "name": "Ricardoo1y02",
+          "points": 2041
+        },
+        {
+          "name": "DragoșDr",
+          "points": 579
+        }
+      ],
+      "source": "OTAN_Samurais_E4K_INT2 (1).csv",
+      "data_type": "manual_import"
+    }
+  }
 }
