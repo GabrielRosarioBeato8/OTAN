@@ -15,7 +15,7 @@ async function cargarClasificaciones(){
    eventos[nombre].datos=Array.isArray(registro?.players)?registro.players.map(p=>[String(p.name),Number(p.points)||0]):[];
   }
   render();
-  if(payload.updated_at)document.querySelector('#dataStatus').textContent+=' Última actualización: '+new Date(payload.updated_at).toLocaleString('es-DO');
+  if(payload.updated_at && eventos[actual].datos.length){document.querySelector('#dataStatus').textContent+=' · Datos consultados: '+new Date(payload.updated_at).toLocaleString('es-DO',{dateStyle:'short',timeStyle:'medium',timeZone:'America/Santo_Domingo'})+' (hora RD). No son puntos en vivo.';}
  }catch(error){document.querySelector('#dataStatus').textContent='Sin datos verificados disponibles. El diseño original permanece intacto.'}
 }
 cargarClasificaciones();setInterval(cargarClasificaciones,15*60*1000);
