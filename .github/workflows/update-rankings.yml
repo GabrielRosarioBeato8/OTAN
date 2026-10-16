@@ -27,7 +27,9 @@ jobs:
           python-version: '3.12'
       - name: Collect public rankings
         env:
-          GGE_SERVER: EmpireEx_2
+          GGE_GAME: e4k
+          GGE_SERVER: EmpirefourkingdomsExGG_2
+          GGE_API_URL: ${{ vars.E4K_API_URL }}
           GGE_ALLIANCE: OTAN
           GGE_EVENTS: 40,44,46
         run: python scripts/update_rankings.py
