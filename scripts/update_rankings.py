@@ -17,8 +17,9 @@ import urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "rankings.json"
-API = os.environ.get("GGE_API_URL", "https://empire-api.fly.dev").rstrip("/")
-SERVER = os.environ.get("GGE_SERVER", "EmpireEx_2")
+API = os.environ.get("GGE_API_URL", "").rstrip("/")
+GAME = os.environ.get("GGE_GAME", "e4k").strip().lower()
+SERVER = os.environ.get("GGE_SERVER", "EmpirefourkingdomsExGG_2")
 ALLIANCE = os.environ.get("GGE_ALLIANCE", "OTAN").strip().casefold()
 EVENT_IDS = [int(x.strip()) for x in os.environ.get("GGE_EVENTS", "40,44,46").split(",") if x.strip()]
 MAX_PAGES = int(os.environ.get("GGE_MAX_PAGES", "2000"))
@@ -93,7 +94,11 @@ def collect_category(event_id, category, offset):
 
 
 def main():
-    assets = get_json("https://raw.githubusercontent.com/danadum/ggs-assets/main/gge/events.json")
+    if GAME not in ("gge", "e4k"):
+        raise RuntimeError("Unknown game")
+    if not API.startswith("https://"):
+        raise RuntimeError("GGE_API_URL must point to a verified HTTPS API endpoint")
+    assets = get_json(f"https://raw.githubusercontent.com/danadum/ggs-assets/main/{GAME}/events.json")
     definitions = assets.get("player", {})
     events = {}
     for event_id in EVENT_IDS:
@@ -115,7 +120,7 @@ def main():
         print(f"Event {event_id}: {len(players)} OTAN players", flush=True)
     if not events:
         raise RuntimeError("No events processed")
-    snapshot = {"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "server": SERVER, "events": events}
+    snapshot = {"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "game": GAME, "server": SERVER, "events": events}
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     temp = OUTPUT.with_suffix(".tmp")
     temp.write_text(json.dumps(snapshot, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
