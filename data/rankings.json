@@ -8,17 +8,16 @@
         {
           "name": "MINUS ONE",
           "points": 2493654,
-          "display_name": "MINUS ONE TOP 1 LAST EVENT (F)"
+          "display_name": "MINUS ONE TOP 1 LAST EVENT"
         },
         {
           "name": "CENIZA",
           "points": 2176206,
-          "display_name": "CENIZA TOP 2 LAST EVENT (F)"
+          "display_name": "CENIZA TOP3 LAST EVENT"
         },
         {
           "name": "-PIKACHU-",
-          "points": 1597000,
-          "display_name": "-PIKACHU- TOP 3 LAST EVENT"
+          "points": 1597000
         },
         {
           "name": "RYU-KEN",
@@ -27,7 +26,7 @@
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
           "points": 761628,
-          "display_name": "りﾉ丂ムﾑ乇ﾑ EX TOP (F)"
+          "display_name": "りﾉ丂ムﾑ乇ﾑ TOP 2 LAST EVENT (F)"
         },
         {
           "name": "MAVU",
@@ -35,7 +34,8 @@
         },
         {
           "name": "wing",
-          "points": 419450
+          "points": 419450,
+          "display_name": "wing EX TOP"
         },
         {
           "name": "Félix Gabriel",
@@ -91,7 +91,8 @@
         },
         {
           "name": "Resurgentee",
-          "points": 127432
+          "points": 127432,
+          "display_name": "Resurgentee EX TOP"
         },
         {
           "name": "La sombra",
