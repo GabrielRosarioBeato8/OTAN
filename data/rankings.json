@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-18T06:24:00.000Z",
+  "updated_at": "2026-10-18T07:23:55.661Z",
   "events": {
     "samurai": {
       "players": [
@@ -319,11 +319,11 @@
         },
         {
           "name": "Resurgentee",
-          "points": 233154
+          "points": 233339
         },
         {
           "name": "La sombra",
-          "points": 5061
+          "points": 25322760
         },
         {
           "name": "-INMORTAL-",
@@ -331,7 +331,7 @@
         },
         {
           "name": "Lord.Carlos",
-          "points": 79466
+          "points": 654630
         },
         {
           "name": "Wilder98",
@@ -355,7 +355,7 @@
         },
         {
           "name": "DragoșDr",
-          "points": 403587
+          "points": 403905
         },
         {
           "name": "MOAN",
@@ -454,9 +454,9 @@
           "points": 14008
         }
       ],
-      "source": "Jugadores_OTAN (25).csv",
+      "source": "Jugadores_OTAN (30).csv",
       "data_type": "manual_import",
-      "note": "30 registros importados; jugadores ausentes en CSV con 0 puntos; insignias preservadas"
+      "note": "30 registros importados; jugadores ausentes con 0 puntos; insignias históricas conservadas"
     }
   }
 }
