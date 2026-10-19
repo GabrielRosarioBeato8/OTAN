@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-18T07:23:55.661Z",
+  "updated_at": "2026-10-19T02:52:48.928Z",
   "events": {
     "samurai": {
       "players": [
@@ -240,7 +240,7 @@
         },
         {
           "name": "CENIZA",
-          "points": 19160645,
+          "points": 19161069,
           "display_name": "CENIZA TOP 2 LAST EVENT (F)"
         },
         {
@@ -267,11 +267,11 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 1425756
+          "points": 1543542
         },
         {
           "name": "Boot",
-          "points": 0
+          "points": 21842
         },
         {
           "name": "A Q U I L E S",
@@ -279,7 +279,7 @@
         },
         {
           "name": "Lutter",
-          "points": 0
+          "points": 1282447
         },
         {
           "name": "Spraj",
@@ -287,7 +287,7 @@
         },
         {
           "name": "-KAERION-",
-          "points": 0
+          "points": 1835054
         },
         {
           "name": "Rittha",
@@ -303,35 +303,35 @@
         },
         {
           "name": "- SIR - ED -",
-          "points": 0
+          "points": 437230
         },
         {
           "name": "Onichan",
-          "points": 1337608
+          "points": 0
         },
         {
           "name": "Destro",
-          "points": 435808
+          "points": 438225
         },
         {
           "name": "ÊŘŇËŞŢØ",
-          "points": 2106214
+          "points": 2201031
         },
         {
           "name": "Resurgentee",
-          "points": 233339
+          "points": 3579033
         },
         {
           "name": "La sombra",
-          "points": 25322760
+          "points": 111646751
         },
         {
           "name": "-INMORTAL-",
-          "points": 46189
+          "points": 61436
         },
         {
           "name": "Lord.Carlos",
-          "points": 654630
+          "points": 849532
         },
         {
           "name": "Wilder98",
@@ -339,11 +339,11 @@
         },
         {
           "name": "Tongui.",
-          "points": 3031985
+          "points": 3058995
         },
         {
           "name": "Spinspin",
-          "points": 428060
+          "points": 505397
         },
         {
           "name": "Joaitooo",
@@ -355,11 +355,11 @@
         },
         {
           "name": "DragoșDr",
-          "points": 403905
+          "points": 590238
         },
         {
           "name": "MOAN",
-          "points": 25604
+          "points": 330695
         },
         {
           "name": "TUNDRA",
@@ -371,7 +371,7 @@
         },
         {
           "name": "SANGRE13",
-          "points": 9390
+          "points": 38689
         },
         {
           "name": "O T A N",
@@ -383,7 +383,7 @@
         },
         {
           "name": "NMR",
-          "points": 183
+          "points": 443
         },
         {
           "name": "Velaryon",
@@ -391,7 +391,7 @@
         },
         {
           "name": "BRAVO2-2",
-          "points": 0
+          "points": 1516678
         },
         {
           "name": "Ricardoo1y02",
@@ -399,7 +399,7 @@
         },
         {
           "name": "-Barines-",
-          "points": 0
+          "points": 2439256
         },
         {
           "name": "BUGHA",
@@ -407,7 +407,7 @@
         },
         {
           "name": "Sanchez",
-          "points": 0
+          "points": 29719
         },
         {
           "name": "BlastM",
@@ -423,11 +423,11 @@
         },
         {
           "name": "-Monkey-",
-          "points": 0
+          "points": 10304
         },
         {
           "name": "Lord erick",
-          "points": 0
+          "points": 157403
         },
         {
           "name": "The Mad King",
@@ -443,7 +443,7 @@
         },
         {
           "name": "V Λ L Σ Nッ",
-          "points": 8157
+          "points": 2277505
         },
         {
           "name": "Fred000",
@@ -451,12 +451,24 @@
         },
         {
           "name": "Gamer366",
-          "points": 14008
+          "points": 813681
+        },
+        {
+          "name": "mario06",
+          "points": 1416012
+        },
+        {
+          "name": "Goya",
+          "points": 319261
+        },
+        {
+          "name": "marta",
+          "points": 1456811
         }
       ],
-      "source": "Jugadores_OTAN (30).csv",
+      "source": "Jugadores_OTAN (31).csv",
       "data_type": "manual_import",
-      "note": "30 registros importados; jugadores ausentes con 0 puntos; insignias históricas conservadas"
+      "note": "42 registros importados; variante de espaciado de V Λ L Σ N unificada; ausentes con 0 puntos; insignias históricas conservadas"
     }
   }
 }
