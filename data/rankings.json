@@ -491,7 +491,7 @@
         },
         {
           "name": "Lutter",
-          "points": 79176622
+          "points": 85085495
         },
         {
           "name": "Sanchez",
@@ -507,7 +507,7 @@
         },
         {
           "name": "Gamboaa",
-          "points": 132235653
+          "points": 139787175
         },
         {
           "name": "CENIZA",
@@ -540,7 +540,7 @@
         },
         {
           "name": "MOAN",
-          "points": 109768619
+          "points": 130285595
         },
         {
           "name": "- SIR - ED -",
@@ -665,7 +665,7 @@
           "points": 0
         }
       ],
-      "source": "ranking (3).csv, ranking (4).csv y ranking (5).csv",
+      "source": "Jugadores_OTAN (34).csv, puntos confirmados para Gamboaa, MOAN y Lutter; resto de puntuaciones anteriores conservadas",
       "data_type": "manual_import",
       "note": "Puntos parciales, lista de 52 miembros oficiales de Nómadas. -valentino- excluido por no estar en la lista oficial."
     }
