@@ -449,6 +449,224 @@
       "source": "42nepz7q.csv, última fila 19 octubre 2026; lista oficial previa conservada",
       "data_type": "manual_import",
       "note": "Solo Nómadas actualizado; Samuráis intacto. Jugadores ausentes en CSV mantienen su valor previo."
+    },
+    "foreigners": {
+      "players": [
+        {
+          "name": "Jerryar",
+          "points": 0
+        },
+        {
+          "name": "Félix Gabriel",
+          "points": 221675586
+        },
+        {
+          "name": "ÊŘŇËŞŢØ",
+          "points": 0
+        },
+        {
+          "name": "Lord.Carlos",
+          "points": 0
+        },
+        {
+          "name": "Spinspin",
+          "points": 0
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 0
+        },
+        {
+          "name": "Tongui.",
+          "points": 348327255
+        },
+        {
+          "name": "Ricardoo1y02",
+          "points": 0
+        },
+        {
+          "name": "-PIKACHU-",
+          "points": 0,
+          "display_name": "-PIKACHU- TOP 3 LAST EVENT"
+        },
+        {
+          "name": "Lutter",
+          "points": 0
+        },
+        {
+          "name": "Sanchez",
+          "points": 0
+        },
+        {
+          "name": "Boot",
+          "points": 0
+        },
+        {
+          "name": "BRAVO2-2",
+          "points": 0
+        },
+        {
+          "name": "Gamboaa",
+          "points": 0
+        },
+        {
+          "name": "CENIZA",
+          "points": 322042616,
+          "display_name": "CENIZA TOP 2 LAST EVENT (F)"
+        },
+        {
+          "name": "-KAERION-",
+          "points": 419731948
+        },
+        {
+          "name": "Wing",
+          "points": 202872750
+        },
+        {
+          "name": "Belekas",
+          "points": 0
+        },
+        {
+          "name": "TUNDRA",
+          "points": 219064307
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 0
+        },
+        {
+          "name": "Rittha",
+          "points": 0
+        },
+        {
+          "name": "MOAN",
+          "points": 0
+        },
+        {
+          "name": "- SIR - ED -",
+          "points": 412920995
+        },
+        {
+          "name": "-INMORTAL-",
+          "points": 0
+        },
+        {
+          "name": "Resurgentee",
+          "points": 0
+        },
+        {
+          "name": "RYU-KEN",
+          "points": 0
+        },
+        {
+          "name": "MAVU",
+          "points": 203122702
+        },
+        {
+          "name": "La sombra",
+          "points": 0
+        },
+        {
+          "name": "NMR",
+          "points": 0
+        },
+        {
+          "name": "りﾉ丂ムﾑ乇ﾑ",
+          "points": 0,
+          "display_name": "りﾉ丂ムﾑ乇ﾑ EX TOP (F)"
+        },
+        {
+          "name": "Wilder98",
+          "points": 234482129
+        },
+        {
+          "name": "Spraj",
+          "points": 0
+        },
+        {
+          "name": "marta",
+          "points": 0
+        },
+        {
+          "name": "mario06",
+          "points": 0
+        },
+        {
+          "name": "Lord erick",
+          "points": 0
+        },
+        {
+          "name": "Joaitooo",
+          "points": 0
+        },
+        {
+          "name": "Destro",
+          "points": 0
+        },
+        {
+          "name": "V Λ L Σ Nッ",
+          "points": 0
+        },
+        {
+          "name": "The Mad King",
+          "points": 0
+        },
+        {
+          "name": "O T A N",
+          "points": 0
+        },
+        {
+          "name": "MINUS ONE",
+          "points": 337548680,
+          "display_name": "MINUS ONE TOP 1 LAST EVENT (F)"
+        },
+        {
+          "name": "Juanmi",
+          "points": 0
+        },
+        {
+          "name": "Joffre GS",
+          "points": 0
+        },
+        {
+          "name": "Jaix",
+          "points": 0
+        },
+        {
+          "name": "Gamer366",
+          "points": 0
+        },
+        {
+          "name": "Fred000",
+          "points": 0
+        },
+        {
+          "name": "DragoșDr",
+          "points": 0
+        },
+        {
+          "name": "CATACLISMA",
+          "points": 0
+        },
+        {
+          "name": "BlastM",
+          "points": 0
+        },
+        {
+          "name": "BUGHA",
+          "points": 0
+        },
+        {
+          "name": "-Monkey-",
+          "points": 0
+        },
+        {
+          "name": "-Barines-",
+          "points": 0
+        }
+      ],
+      "source": "ranking (3).csv",
+      "data_type": "manual_import"
     }
   }
 }
