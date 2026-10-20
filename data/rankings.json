@@ -462,7 +462,7 @@
         },
         {
           "name": "ÊŘŇËŞŢØ",
-          "points": 0
+          "points": 106888812
         },
         {
           "name": "Lord.Carlos",
@@ -482,16 +482,16 @@
         },
         {
           "name": "Ricardoo1y02",
-          "points": 0
+          "points": 87222158
         },
         {
           "name": "-PIKACHU-",
-          "points": 0,
+          "points": 10623148,
           "display_name": "-PIKACHU- TOP 3 LAST EVENT"
         },
         {
           "name": "Lutter",
-          "points": 0
+          "points": 79176622
         },
         {
           "name": "Sanchez",
@@ -499,15 +499,15 @@
         },
         {
           "name": "Boot",
-          "points": 0
+          "points": 41141880
         },
         {
           "name": "BRAVO2-2",
-          "points": 0
+          "points": 38734191
         },
         {
           "name": "Gamboaa",
-          "points": 0
+          "points": 132235653
         },
         {
           "name": "CENIZA",
@@ -540,7 +540,7 @@
         },
         {
           "name": "MOAN",
-          "points": 0
+          "points": 109768619
         },
         {
           "name": "- SIR - ED -",
@@ -552,7 +552,7 @@
         },
         {
           "name": "Resurgentee",
-          "points": 0
+          "points": 188525753
         },
         {
           "name": "RYU-KEN",
@@ -568,7 +568,7 @@
         },
         {
           "name": "NMR",
-          "points": 0
+          "points": 110279646
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
@@ -581,19 +581,19 @@
         },
         {
           "name": "Spraj",
-          "points": 0
+          "points": 61127974
         },
         {
           "name": "marta",
-          "points": 0
+          "points": 141592658
         },
         {
           "name": "mario06",
-          "points": 0
+          "points": 15670350
         },
         {
           "name": "Lord erick",
-          "points": 0
+          "points": 75348962
         },
         {
           "name": "Joaitooo",
@@ -601,7 +601,7 @@
         },
         {
           "name": "Destro",
-          "points": 0
+          "points": 57028520
         },
         {
           "name": "V Λ L Σ Nッ",
@@ -613,7 +613,7 @@
         },
         {
           "name": "O T A N",
-          "points": 0
+          "points": 5534549
         },
         {
           "name": "MINUS ONE",
@@ -634,7 +634,7 @@
         },
         {
           "name": "Gamer366",
-          "points": 0
+          "points": 26115544
         },
         {
           "name": "Fred000",
@@ -642,7 +642,7 @@
         },
         {
           "name": "DragoșDr",
-          "points": 0
+          "points": 22412761
         },
         {
           "name": "CATACLISMA",
@@ -665,8 +665,9 @@
           "points": 0
         }
       ],
-      "source": "ranking (3).csv",
-      "data_type": "manual_import"
+      "source": "ranking (3).csv, ranking (4).csv y ranking (5).csv",
+      "data_type": "manual_import",
+      "note": "Puntos parciales, lista de 52 miembros oficiales de Nómadas. -valentino- excluido por no estar en la lista oficial."
     }
   }
 }
