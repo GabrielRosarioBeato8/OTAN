@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-19T02:52:48.928Z",
+  "updated_at": "2026-10-20T00:20:59.428Z",
   "events": {
     "samurai": {
       "players": [
@@ -240,12 +240,12 @@
         },
         {
           "name": "CENIZA",
-          "points": 19161069,
+          "points": 19248720,
           "display_name": "CENIZA TOP 2 LAST EVENT (F)"
         },
         {
           "name": "-PIKACHU-",
-          "points": 1653794,
+          "points": 1654464,
           "display_name": "-PIKACHU- TOP 3 LAST EVENT"
         },
         {
@@ -254,12 +254,12 @@
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
-          "points": 181010,
+          "points": 776817,
           "display_name": "りﾉ丂ムﾑ乇ﾑ EX TOP (F)"
         },
         {
           "name": "MAVU",
-          "points": 786140
+          "points": 830945
         },
         {
           "name": "Wing",
@@ -267,7 +267,7 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 1543542
+          "points": 2309797
         },
         {
           "name": "Boot",
@@ -279,7 +279,7 @@
         },
         {
           "name": "Spraj",
-          "points": 10705
+          "points": 1053567
         },
         {
           "name": "-KAERION-",
@@ -299,7 +299,7 @@
         },
         {
           "name": "- SIR - ED -",
-          "points": 437230
+          "points": 512451
         },
         {
           "name": "Onichan",
@@ -327,7 +327,7 @@
         },
         {
           "name": "Lord.Carlos",
-          "points": 849532
+          "points": 1153532
         },
         {
           "name": "Wilder98",
@@ -335,7 +335,7 @@
         },
         {
           "name": "Tongui.",
-          "points": 3058995
+          "points": 3303977
         },
         {
           "name": "Spinspin",
@@ -343,23 +343,23 @@
         },
         {
           "name": "Joaitooo",
-          "points": 47087
+          "points": 80564
         },
         {
           "name": "Joffre GS",
-          "points": 207773
+          "points": 1836319
         },
         {
           "name": "DragoșDr",
-          "points": 590238
+          "points": 590407
         },
         {
           "name": "MOAN",
-          "points": 330695
+          "points": 705233
         },
         {
           "name": "TUNDRA",
-          "points": 555476
+          "points": 556859
         },
         {
           "name": "Gamboaa",
@@ -367,7 +367,7 @@
         },
         {
           "name": "SANGRE13",
-          "points": 38689
+          "points": 0
         },
         {
           "name": "O T A N",
@@ -403,7 +403,7 @@
         },
         {
           "name": "Sanchez",
-          "points": 29719
+          "points": 36885
         },
         {
           "name": "BlastM",
@@ -423,7 +423,7 @@
         },
         {
           "name": "Lord erick",
-          "points": 157403
+          "points": 600028
         },
         {
           "name": "The Mad King",
@@ -431,7 +431,7 @@
         },
         {
           "name": "Jerryar",
-          "points": 0
+          "points": 422538
         },
         {
           "name": "Belekas",
@@ -439,15 +439,15 @@
         },
         {
           "name": "V Λ L Σ Nッ",
-          "points": 2277505
+          "points": 8157
         },
         {
           "name": "Fred000",
-          "points": 0
+          "points": 148196
         },
         {
           "name": "Gamer366",
-          "points": 813681
+          "points": 925363
         },
         {
           "name": "mario06",
@@ -455,16 +455,20 @@
         },
         {
           "name": "Goya",
-          "points": 319261
+          "points": 0
         },
         {
           "name": "marta",
-          "points": 1456811
+          "points": 1465295
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 2336277
         }
       ],
-      "source": "Jugadores_OTAN (31).csv",
+      "source": "Jugadores_OTAN (32).csv",
       "data_type": "manual_import",
-      "note": "42 registros importados; variante de espaciado de V Λ L Σ N unificada; ausentes con 0 puntos; insignias históricas conservadas"
+      "note": "42 registros; dos cuentas V Λ L Σ N conservadas por separado; insignias y otros eventos sin modificar; ausentes con 0 puntos"
     }
   }
 }
