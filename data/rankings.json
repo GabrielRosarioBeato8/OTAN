@@ -512,7 +512,7 @@
         {
           "name": "CENIZA",
           "points": 322042616,
-          "display_name": "CENIZA TOP 2 LAST EVENT (F)"
+          "display_name": "CENIZA TOP 3 LAST EVENT (SF)"
         },
         {
           "name": "-KAERION-",
@@ -564,7 +564,8 @@
         },
         {
           "name": "La sombra",
-          "points": 0
+          "points": 0,
+          "display_name": "La sombra TOP 1 LAST EVENT"
         },
         {
           "name": "NMR",
@@ -573,7 +574,7 @@
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
           "points": 0,
-          "display_name": "りﾉ丂ムﾑ乇ﾑ EX TOP (F)"
+          "display_name": "りﾉ丂ムﾑ乇ﾑ EX TOP"
         },
         {
           "name": "Wilder98",
@@ -613,12 +614,13 @@
         },
         {
           "name": "O T A N",
-          "points": 5534549
+          "points": 5534549,
+          "display_name": "O T A N TOP 2 LAST EVENT"
         },
         {
           "name": "MINUS ONE",
           "points": 337548680,
-          "display_name": "MINUS ONE TOP 1 LAST EVENT (F)"
+          "display_name": "MINUS ONE EX TOP (F)"
         },
         {
           "name": "Juanmi",
