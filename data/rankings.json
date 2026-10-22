@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-20T21:39:26.283Z",
+  "updated_at": "2026-10-22T04:08:50.338Z",
   "events": {
     "samurai": {
       "players": [
@@ -458,15 +458,15 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 221675586
+          "points": 241567144
         },
         {
           "name": "ÊŘŇËŞŢØ",
-          "points": 106888812
+          "points": 183650696
         },
         {
           "name": "Lord.Carlos",
-          "points": 0
+          "points": 76154677
         },
         {
           "name": "Spinspin",
@@ -474,7 +474,7 @@
         },
         {
           "name": "V Λ L Σ N ッ",
-          "points": 0
+          "points": 31616847
         },
         {
           "name": "Tongui.",
@@ -491,11 +491,11 @@
         },
         {
           "name": "Lutter",
-          "points": 85085495
+          "points": 154793054
         },
         {
           "name": "Sanchez",
-          "points": 0
+          "points": 34880865
         },
         {
           "name": "Boot",
@@ -503,11 +503,11 @@
         },
         {
           "name": "BRAVO2-2",
-          "points": 38734191
+          "points": 141200018
         },
         {
           "name": "Gamboaa",
-          "points": 139787175
+          "points": 156253169
         },
         {
           "name": "CENIZA",
@@ -516,11 +516,11 @@
         },
         {
           "name": "-KAERION-",
-          "points": 419731948
+          "points": 513742908
         },
         {
           "name": "Wing",
-          "points": 202872750
+          "points": 226622036
         },
         {
           "name": "Belekas",
@@ -540,11 +540,11 @@
         },
         {
           "name": "MOAN",
-          "points": 130285595
+          "points": 215509983
         },
         {
           "name": "- SIR - ED -",
-          "points": 412920995
+          "points": 509881397
         },
         {
           "name": "-INMORTAL-",
@@ -552,7 +552,7 @@
         },
         {
           "name": "Resurgentee",
-          "points": 188525753
+          "points": 309588983
         },
         {
           "name": "RYU-KEN",
@@ -560,7 +560,7 @@
         },
         {
           "name": "MAVU",
-          "points": 203122702
+          "points": 256209732
         },
         {
           "name": "La sombra",
@@ -578,7 +578,7 @@
         },
         {
           "name": "Wilder98",
-          "points": 234482129
+          "points": 253929001
         },
         {
           "name": "Spraj",
@@ -586,7 +586,7 @@
         },
         {
           "name": "marta",
-          "points": 141592658
+          "points": 145327422
         },
         {
           "name": "mario06",
@@ -594,7 +594,7 @@
         },
         {
           "name": "Lord erick",
-          "points": 75348962
+          "points": 273417016
         },
         {
           "name": "Joaitooo",
@@ -614,7 +614,7 @@
         },
         {
           "name": "O T A N",
-          "points": 5534549,
+          "points": 118261148,
           "display_name": "O T A N TOP 2 LAST EVENT"
         },
         {
@@ -628,7 +628,7 @@
         },
         {
           "name": "Joffre GS",
-          "points": 0
+          "points": 3238238
         },
         {
           "name": "Jaix",
@@ -636,15 +636,15 @@
         },
         {
           "name": "Gamer366",
-          "points": 26115544
+          "points": 68310891
         },
         {
           "name": "Fred000",
-          "points": 0
+          "points": 20800966
         },
         {
           "name": "DragoșDr",
-          "points": 22412761
+          "points": 44083970
         },
         {
           "name": "CATACLISMA",
@@ -665,11 +665,23 @@
         {
           "name": "-Barines-",
           "points": 0
+        },
+        {
+          "name": "-valentino-",
+          "points": 193581701
+        },
+        {
+          "name": "super insecto",
+          "points": 256463297
+        },
+        {
+          "name": "Gojo Satoru",
+          "points": 13336389
         }
       ],
-      "source": "Jugadores_OTAN (34).csv, puntos confirmados para Gamboaa, MOAN y Lutter; resto de puntuaciones anteriores conservadas",
+      "source": "Jugadores_OTAN (35).csv; puntos ausentes conservados",
       "data_type": "manual_import",
-      "note": "Puntos parciales, lista de 52 miembros oficiales de Nómadas. -valentino- excluido por no estar en la lista oficial."
+      "note": "Actualización incremental de Extranjeros; nuevos jugadores añadidos; demás eventos intactos."
     }
   }
 }
