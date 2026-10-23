@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-23T00:59:48.781Z",
+  "updated_at": "2026-10-23T15:12:00Z",
   "events": {
     "samurai": {
       "players": [
@@ -458,7 +458,7 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 420737120
+          "points": 456928468
         },
         {
           "name": "ÊŘŇËŞŢØ",
@@ -470,7 +470,7 @@
         },
         {
           "name": "Spinspin",
-          "points": 13236463
+          "points": 40157440
         },
         {
           "name": "V Λ L Σ N ッ",
@@ -486,12 +486,12 @@
         },
         {
           "name": "-PIKACHU-",
-          "points": 21828569,
+          "points": 41722001,
           "display_name": "-PIKACHU- EX TOP"
         },
         {
           "name": "Lutter",
-          "points": 154793054
+          "points": 162169247
         },
         {
           "name": "Sanchez",
@@ -499,7 +499,7 @@
         },
         {
           "name": "Boot",
-          "points": 58027158
+          "points": 87515887
         },
         {
           "name": "BRAVO2-2",
@@ -524,7 +524,7 @@
         },
         {
           "name": "Belekas",
-          "points": 0
+          "points": 5826969
         },
         {
           "name": "TUNDRA",
@@ -552,7 +552,7 @@
         },
         {
           "name": "Resurgentee",
-          "points": 309588983
+          "points": 377470515
         },
         {
           "name": "RYU-KEN",
@@ -564,7 +564,7 @@
         },
         {
           "name": "La sombra",
-          "points": 0,
+          "points": 94488404,
           "display_name": "La sombra TOP 1 LAST EVENT"
         },
         {
@@ -594,7 +594,7 @@
         },
         {
           "name": "Lord erick",
-          "points": 273417016
+          "points": 351135795
         },
         {
           "name": "Joaitooo",
@@ -624,7 +624,7 @@
         },
         {
           "name": "Juanmi",
-          "points": 0
+          "points": 191051454
         },
         {
           "name": "Joffre GS",
@@ -636,7 +636,7 @@
         },
         {
           "name": "Gamer366",
-          "points": 140327968
+          "points": 171112242
         },
         {
           "name": "Fred000",
@@ -644,7 +644,7 @@
         },
         {
           "name": "DragoșDr",
-          "points": 44083970
+          "points": 54524038
         },
         {
           "name": "CATACLISMA",
@@ -664,7 +664,7 @@
         },
         {
           "name": "-Barines-",
-          "points": 0
+          "points": 49104350
         },
         {
           "name": "-valentino-",
@@ -681,11 +681,15 @@
         {
           "name": "-Cain-",
           "points": 124085575
+        },
+        {
+          "name": "Æsr",
+          "points": 45501924
         }
       ],
-      "source": "Jugadores_OTAN (36).csv; puntos ausentes conservados",
+      "source": "fonbb1kr.csv; última fila 22 octubre 2026 (puntos finales)",
       "data_type": "manual_import",
-      "note": "Solo Extranjeros actualizado; otros eventos intactos. Nuevos jugadores añadidos."
+      "note": "Solo Extranjeros actualizado; insignias conservadas; otros eventos intactos. Ausentes del CSV conservan sus puntos previos."
     }
   }
 }
