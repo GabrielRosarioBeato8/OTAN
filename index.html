@@ -25,15 +25,26 @@ cargarClasificaciones();setInterval(cargarClasificaciones,15*60*1000);
 
 async function cargarHistorial(){
  const destino=document.getElementById('historyContent');
+ const escapar=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
+ const registros=[];
  try{
-  const respuesta=await fetch('./data/history/samurais-2026-10-17.json',{cache:'no-store'});
-  if(!respuesta.ok)throw new Error('No disponible');
-  const archivo=await respuesta.json();
-  const lista=archivo.players;
-  const suma=lista.reduce((s,p)=>s+p.points,0);
-  const escapar=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
-  destino.innerHTML='<h3>'+escapar(archivo.title)+' · '+archivo.saved_on+'</h3><p>Registro final guardado · '+lista.length+' jugadores · '+fmt(suma)+' puntos</p><div class="scroll"><table><thead><tr><th>TOP</th><th>JUGADOR</th><th>PUNTOS</th><th>LIGA</th><th>% DEL TOTAL</th><th>ESTADO</th></tr></thead><tbody>'+lista.map((p,i)=>'<tr class="'+league(i).toLowerCase()+' '+(i<3?'top'+(i+1):'')+'"><td>'+(i+1)+'</td><td>'+escapar(p.name)+'</td><td>'+fmt(p.points)+'</td><td>'+league(i)+'</td><td>'+(suma?(100*p.points/suma).toFixed(1):'0.0')+'%</td><td>'+(p.points?'ACTIVO':'SIN PUNTOS')+'</td></tr>').join('')+'</tbody></table></div>';
- }catch(e){destino.textContent='No se pudo cargar el registro guardado.'}
+  const [antiguo,actuales]=await Promise.all([
+   fetch('./data/history/samurais-2026-10-17.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
+   fetch('./data/rankings.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
+  ]);
+  if(antiguo?.players?.length)registros.push({titulo:antiguo.title,fecha:antiguo.saved_on,players:antiguo.players,clase:'Registro histórico guardado'});
+  const nombres={nomads:'Invasión Nómada',foreigners:'Invasión Extranjera'};
+  const fechas={nomads:'19/10/2026',foreigners:'22/10/2026'};
+  for(const id of ['nomads','foreigners']){
+   const evento=actuales?.events?.[id];
+   if(evento?.players?.length)registros.push({titulo:nombres[id],fecha:fechas[id],players:evento.players.map(p=>({name:p.display_name||p.name,points:Number(p.points)||0})),clase:id==='foreigners'?'Puntos finales registrados':'Última clasificación acumulada'});
+  }
+  if(!registros.length)throw Error('Sin registros');
+  destino.innerHTML=registros.map(reg=>{
+   const lista=[...reg.players].sort((a,b)=>b.points-a.points),suma=lista.reduce((s,p)=>s+p.points,0);
+   return '<details style="margin:12px 0;border:1px solid #cbd5e1;border-radius:5px;background:white" '+(reg.titulo==='Invasión Extranjera'?'open':'')+'><summary style="cursor:pointer;padding:14px;font-weight:bold;background:#e8f1f9">'+escapar(reg.titulo)+' · '+escapar(reg.fecha)+' · '+reg.players.length+' jugadores</summary><div style="padding:12px"><p>'+escapar(reg.clase)+' · '+fmt(suma)+' puntos</p><div class="scroll"><table><thead><tr><th>TOP</th><th>JUGADOR</th><th>PUNTOS</th><th>LIGA</th><th>% DEL TOTAL</th><th>ESTADO</th></tr></thead><tbody>'+lista.map((p,i)=>'<tr class="'+league(i).toLowerCase()+' '+(i<3?'top'+(i+1):'')+'"><td>'+(i+1)+'</td><td>'+escapar(p.name)+'</td><td>'+fmt(p.points)+'</td><td>'+league(i)+'</td><td>'+(suma?(100*p.points/suma).toFixed(1):'0.0')+'%</td><td>'+(p.points?'ACTIVO':'SIN PUNTOS')+'</td></tr>').join('')+'</tbody></table></div></div></details>';
+  }).join('');
+ }catch(e){destino.textContent='No se pudieron cargar los registros disponibles.'}
 }
 cargarHistorial();
 </script></body></html>
