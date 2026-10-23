@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-22T04:08:50.338Z",
+  "updated_at": "2026-10-23T00:59:48.781Z",
   "events": {
     "samurai": {
       "players": [
@@ -458,23 +458,23 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 241567144
+          "points": 420737120
         },
         {
           "name": "ÊŘŇËŞŢØ",
-          "points": 183650696
+          "points": 192131282
         },
         {
           "name": "Lord.Carlos",
-          "points": 76154677
+          "points": 191861328
         },
         {
           "name": "Spinspin",
-          "points": 0
+          "points": 13236463
         },
         {
           "name": "V Λ L Σ N ッ",
-          "points": 31616847
+          "points": 194185877
         },
         {
           "name": "Tongui.",
@@ -482,11 +482,11 @@
         },
         {
           "name": "Ricardoo1y02",
-          "points": 87222158
+          "points": 99682005
         },
         {
           "name": "-PIKACHU-",
-          "points": 10623148,
+          "points": 21828569,
           "display_name": "-PIKACHU- EX TOP"
         },
         {
@@ -495,15 +495,15 @@
         },
         {
           "name": "Sanchez",
-          "points": 34880865
+          "points": 44819715
         },
         {
           "name": "Boot",
-          "points": 41141880
+          "points": 58027158
         },
         {
           "name": "BRAVO2-2",
-          "points": 141200018
+          "points": 204649248
         },
         {
           "name": "Gamboaa",
@@ -536,7 +536,7 @@
         },
         {
           "name": "Rittha",
-          "points": 0
+          "points": 275423380
         },
         {
           "name": "MOAN",
@@ -544,7 +544,7 @@
         },
         {
           "name": "- SIR - ED -",
-          "points": 509881397
+          "points": 601946355
         },
         {
           "name": "-INMORTAL-",
@@ -590,7 +590,7 @@
         },
         {
           "name": "mario06",
-          "points": 15670350
+          "points": 47970724
         },
         {
           "name": "Lord erick",
@@ -606,7 +606,7 @@
         },
         {
           "name": "V Λ L Σ Nッ",
-          "points": 0
+          "points": 31616847
         },
         {
           "name": "The Mad King",
@@ -614,7 +614,7 @@
         },
         {
           "name": "O T A N",
-          "points": 118261148,
+          "points": 153403572,
           "display_name": "O T A N TOP 2 LAST EVENT"
         },
         {
@@ -636,11 +636,11 @@
         },
         {
           "name": "Gamer366",
-          "points": 68310891
+          "points": 140327968
         },
         {
           "name": "Fred000",
-          "points": 20800966
+          "points": 33315078
         },
         {
           "name": "DragoșDr",
@@ -672,16 +672,20 @@
         },
         {
           "name": "super insecto",
-          "points": 256463297
+          "points": 337875853
         },
         {
           "name": "Gojo Satoru",
-          "points": 13336389
+          "points": 41445049
+        },
+        {
+          "name": "-Cain-",
+          "points": 124085575
         }
       ],
-      "source": "Jugadores_OTAN (35).csv; puntos ausentes conservados",
+      "source": "Jugadores_OTAN (36).csv; puntos ausentes conservados",
       "data_type": "manual_import",
-      "note": "Actualización incremental de Extranjeros; nuevos jugadores añadidos; demás eventos intactos."
+      "note": "Solo Extranjeros actualizado; otros eventos intactos. Nuevos jugadores añadidos."
     }
   }
 }
