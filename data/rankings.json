@@ -1,174 +1,206 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-23T15:12:00Z",
+  "updated_at": "2026-10-24T01:00:00Z",
   "events": {
     "samurai": {
       "players": [
         {
-          "name": "MINUS ONE",
-          "points": 2493654,
-          "display_name": "MINUS ONE TOP 1 LAST EVENT"
-        },
-        {
-          "name": "CENIZA",
-          "points": 2176206,
-          "display_name": "CENIZA TOP3 LAST EVENT"
-        },
-        {
-          "name": "-PIKACHU-",
-          "points": 1597000
-        },
-        {
-          "name": "RYU-KEN",
-          "points": 1577446
-        },
-        {
-          "name": "りﾉ丂ムﾑ乇ﾑ",
-          "points": 761628,
-          "display_name": "りﾉ丂ムﾑ乇ﾑ TOP 2 LAST EVENT (F)"
-        },
-        {
-          "name": "MAVU",
-          "points": 554046
-        },
-        {
           "name": "wing",
-          "points": 419450,
+          "points": 950021,
           "display_name": "wing EX TOP"
         },
         {
-          "name": "Félix Gabriel",
-          "points": 406172
-        },
-        {
-          "name": "Boot",
-          "points": 289484
-        },
-        {
-          "name": "A Q U I L E S",
-          "points": 233479
-        },
-        {
-          "name": "Lutter",
-          "points": 209904
-        },
-        {
-          "name": "spraj",
-          "points": 197432
-        },
-        {
-          "name": "-KAERION-",
-          "points": 175013
-        },
-        {
-          "name": "Rittha",
-          "points": 145492
-        },
-        {
-          "name": "Juanmi",
-          "points": 141527
-        },
-        {
-          "name": "RonalE.Coopwer",
-          "points": 140541
-        },
-        {
-          "name": "- SIR - ED -",
-          "points": 138512
-        },
-        {
-          "name": "Onichan",
-          "points": 137482
-        },
-        {
-          "name": "destro",
-          "points": 136694
-        },
-        {
-          "name": "ÊŘŇËŞŢØ",
-          "points": 133657
+          "name": "MAVU",
+          "points": 285216
         },
         {
           "name": "Resurgentee",
-          "points": 127432,
+          "points": 261352,
           "display_name": "Resurgentee EX TOP"
         },
         {
-          "name": "La sombra",
-          "points": 123403
+          "name": "-KAERION-",
+          "points": 233382
         },
         {
-          "name": "-INMORTAL-",
-          "points": 111539
+          "name": "super insecto",
+          "points": 231184
+        },
+        {
+          "name": "spraj",
+          "points": 218052
+        },
+        {
+          "name": "Lutter",
+          "points": 169803
+        },
+        {
+          "name": "RYU-KEN",
+          "points": 163462
+        },
+        {
+          "name": "Juanmi",
+          "points": 157792
         },
         {
           "name": "Lord.Carlos",
-          "points": 110925
+          "points": 147757
+        },
+        {
+          "name": "Félix Gabriel",
+          "points": 142307
+        },
+        {
+          "name": "ÊŘŇËŞŢØ",
+          "points": 132097
         },
         {
           "name": "wilder98",
-          "points": 82830
+          "points": 130258
         },
         {
-          "name": "tongui.",
-          "points": 77155
+          "name": "-valentino-",
+          "points": 128189
         },
         {
-          "name": "spinspin",
-          "points": 71098
+          "name": "marta",
+          "points": 102645
         },
         {
-          "name": "joaitooo",
-          "points": 70564
+          "name": "Rittha",
+          "points": 90871
         },
         {
-          "name": "Joffre GS",
-          "points": 62289
-        },
-        {
-          "name": "DragoșDr",
-          "points": 46315
+          "name": "destro",
+          "points": 54875
         },
         {
           "name": "MOAN",
-          "points": 34100
+          "points": 47092
+        },
+        {
+          "name": "tongui.",
+          "points": 43204
+        },
+        {
+          "name": "Joffre GS",
+          "points": 39312
+        },
+        {
+          "name": "mario06",
+          "points": 35785
         },
         {
           "name": "TUNDRA",
-          "points": 30656
+          "points": 31953
+        },
+        {
+          "name": "spinspin",
+          "points": 29020
         },
         {
           "name": "Gamboaa",
-          "points": 30372
+          "points": 26939
         },
         {
-          "name": "SANGRE13",
-          "points": 17409
+          "name": "Fred000",
+          "points": 19922
         },
         {
-          "name": "O T A N",
-          "points": 15163
+          "name": "Ricardoo1y02",
+          "points": 12954
         },
         {
-          "name": "SULTHAN ASHIQ",
-          "points": 14583
+          "name": "-ZEUS-",
+          "points": 8587
         },
         {
-          "name": "NMR",
-          "points": 5240
+          "name": "Gojo Satoru",
+          "points": 8502
         },
         {
-          "name": "Velaryon",
-          "points": 3160
+          "name": "Boot",
+          "points": 6920
+        },
+        {
+          "name": "sanchez",
+          "points": 4738
+        },
+        {
+          "name": "CENIZA",
+          "points": 3891,
+          "display_name": "CENIZA TOP3 LAST EVENT"
         },
         {
           "name": "BRAVO2-2",
           "points": 2727
         },
         {
-          "name": "Ricardoo1y02",
-          "points": 2041
+          "name": "DragoșDr",
+          "points": 1922
+        },
+        {
+          "name": "MINUS ONE",
+          "points": 0,
+          "display_name": "MINUS ONE TOP 1 LAST EVENT"
+        },
+        {
+          "name": "-PIKACHU-",
+          "points": 0
+        },
+        {
+          "name": "りﾉ丂ムﾑ乇ﾑ",
+          "points": 0,
+          "display_name": "りﾉ丂ムﾑ乇ﾑ TOP 2 LAST EVENT (F)"
+        },
+        {
+          "name": "A Q U I L E S",
+          "points": 0
+        },
+        {
+          "name": "RonalE.Coopwer",
+          "points": 0
+        },
+        {
+          "name": "- SIR - ED -",
+          "points": 0
+        },
+        {
+          "name": "Onichan",
+          "points": 0
+        },
+        {
+          "name": "La sombra",
+          "points": 0
+        },
+        {
+          "name": "-INMORTAL-",
+          "points": 0
+        },
+        {
+          "name": "joaitooo",
+          "points": 0
+        },
+        {
+          "name": "SANGRE13",
+          "points": 0
+        },
+        {
+          "name": "O T A N",
+          "points": 0
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 0
+        },
+        {
+          "name": "NMR",
+          "points": 0
+        },
+        {
+          "name": "Velaryon",
+          "points": 0
         },
         {
           "name": "-Barines-",
@@ -176,10 +208,6 @@
         },
         {
           "name": "BUGHA",
-          "points": 0
-        },
-        {
-          "name": "sanchez",
           "points": 0
         },
         {
@@ -216,10 +244,6 @@
         },
         {
           "name": "V Λ L Σ Nッ",
-          "points": 0
-        },
-        {
-          "name": "Fred000",
           "points": 0
         },
         {
