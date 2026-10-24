@@ -1,0 +1,467 @@
+{
+  "saved_on": "2026-10-23",
+  "source_updated_at": "2026-10-23T15:12:00Z",
+  "server": "EmpirefourkingdomsExGG_2",
+  "events": {
+    "nomads": {
+      "players": [
+        {
+          "name": "Jerryar",
+          "points": 422538
+        },
+        {
+          "name": "Félix Gabriel",
+          "points": 2579771
+        },
+        {
+          "name": "ÊŘŇËŞŢØ",
+          "points": 2304744
+        },
+        {
+          "name": "Lord.Carlos",
+          "points": 1153532
+        },
+        {
+          "name": "Spinspin",
+          "points": 505397
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 2440617
+        },
+        {
+          "name": "Tongui.",
+          "points": 3336883
+        },
+        {
+          "name": "Ricardoo1y02",
+          "points": 0
+        },
+        {
+          "name": "-PIKACHU-",
+          "points": 1654464,
+          "display_name": "-PIKACHU- TOP 3 LAST EVENT"
+        },
+        {
+          "name": "Lutter",
+          "points": 1333129
+        },
+        {
+          "name": "Sanchez",
+          "points": 36885
+        },
+        {
+          "name": "Boot",
+          "points": 21842
+        },
+        {
+          "name": "BRAVO2-2",
+          "points": 1516678
+        },
+        {
+          "name": "Gamboaa",
+          "points": 31152
+        },
+        {
+          "name": "CENIZA",
+          "points": 19415337,
+          "display_name": "CENIZA TOP 2 LAST EVENT (F)"
+        },
+        {
+          "name": "-KAERION-",
+          "points": 1835054
+        },
+        {
+          "name": "Wing",
+          "points": 4311338
+        },
+        {
+          "name": "Belekas",
+          "points": 17923
+        },
+        {
+          "name": "TUNDRA",
+          "points": 556859
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 0
+        },
+        {
+          "name": "Rittha",
+          "points": 3255165
+        },
+        {
+          "name": "MOAN",
+          "points": 1404588
+        },
+        {
+          "name": "- SIR - ED -",
+          "points": 512451
+        },
+        {
+          "name": "-INMORTAL-",
+          "points": 61436
+        },
+        {
+          "name": "Resurgentee",
+          "points": 3579033
+        },
+        {
+          "name": "RYU-KEN",
+          "points": 140628
+        },
+        {
+          "name": "MAVU",
+          "points": 830945
+        },
+        {
+          "name": "La sombra",
+          "points": 111646751
+        },
+        {
+          "name": "NMR",
+          "points": 565
+        },
+        {
+          "name": "りﾉ丂ムﾑ乇ﾑ",
+          "points": 1574354,
+          "display_name": "りﾉ丂ムﾑ乇ﾑ EX TOP (F)"
+        },
+        {
+          "name": "Wilder98",
+          "points": 441409
+        },
+        {
+          "name": "Spraj",
+          "points": 1122239
+        },
+        {
+          "name": "marta",
+          "points": 1583700
+        },
+        {
+          "name": "mario06",
+          "points": 1416012
+        },
+        {
+          "name": "Lord erick",
+          "points": 600028
+        },
+        {
+          "name": "Joaitooo",
+          "points": 80564
+        },
+        {
+          "name": "Destro",
+          "points": 438225
+        },
+        {
+          "name": "V Λ L Σ Nッ",
+          "points": 4066569
+        },
+        {
+          "name": "The Mad King",
+          "points": 0
+        },
+        {
+          "name": "O T A N",
+          "points": 75377960
+        },
+        {
+          "name": "MINUS ONE",
+          "points": 0,
+          "display_name": "MINUS ONE TOP 1 LAST EVENT (F)"
+        },
+        {
+          "name": "Juanmi",
+          "points": 0
+        },
+        {
+          "name": "Joffre GS",
+          "points": 1836319
+        },
+        {
+          "name": "Jaix",
+          "points": 42993
+        },
+        {
+          "name": "Gamer366",
+          "points": 925363
+        },
+        {
+          "name": "Fred000",
+          "points": 148196
+        },
+        {
+          "name": "DragoșDr",
+          "points": 590407
+        },
+        {
+          "name": "CATACLISMA",
+          "points": 0
+        },
+        {
+          "name": "BlastM",
+          "points": 0
+        },
+        {
+          "name": "BUGHA",
+          "points": 0
+        },
+        {
+          "name": "-Monkey-",
+          "points": 10304
+        },
+        {
+          "name": "-Barines-",
+          "points": 2439256
+        }
+      ],
+      "source": "42nepz7q.csv, última fila 19 octubre 2026; lista oficial previa conservada",
+      "data_type": "manual_import",
+      "note": "Solo Nómadas actualizado; Samuráis intacto. Jugadores ausentes en CSV mantienen su valor previo."
+    },
+    "foreigners": {
+      "players": [
+        {
+          "name": "Jerryar",
+          "points": 0
+        },
+        {
+          "name": "Félix Gabriel",
+          "points": 456928468
+        },
+        {
+          "name": "ÊŘŇËŞŢØ",
+          "points": 192131282
+        },
+        {
+          "name": "Lord.Carlos",
+          "points": 191861328
+        },
+        {
+          "name": "Spinspin",
+          "points": 40157440
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 194185877
+        },
+        {
+          "name": "Tongui.",
+          "points": 348327255
+        },
+        {
+          "name": "Ricardoo1y02",
+          "points": 99682005
+        },
+        {
+          "name": "-PIKACHU-",
+          "points": 41722001,
+          "display_name": "-PIKACHU- EX TOP"
+        },
+        {
+          "name": "Lutter",
+          "points": 162169247
+        },
+        {
+          "name": "Sanchez",
+          "points": 44819715
+        },
+        {
+          "name": "Boot",
+          "points": 87515887
+        },
+        {
+          "name": "BRAVO2-2",
+          "points": 204649248
+        },
+        {
+          "name": "Gamboaa",
+          "points": 156253169
+        },
+        {
+          "name": "CENIZA",
+          "points": 322042616,
+          "display_name": "CENIZA TOP 3 LAST EVENT (SF)"
+        },
+        {
+          "name": "-KAERION-",
+          "points": 513742908
+        },
+        {
+          "name": "Wing",
+          "points": 226622036
+        },
+        {
+          "name": "Belekas",
+          "points": 5826969
+        },
+        {
+          "name": "TUNDRA",
+          "points": 219064307
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 0
+        },
+        {
+          "name": "Rittha",
+          "points": 275423380
+        },
+        {
+          "name": "MOAN",
+          "points": 215509983
+        },
+        {
+          "name": "- SIR - ED -",
+          "points": 601946355
+        },
+        {
+          "name": "-INMORTAL-",
+          "points": 0
+        },
+        {
+          "name": "Resurgentee",
+          "points": 377470515
+        },
+        {
+          "name": "RYU-KEN",
+          "points": 0
+        },
+        {
+          "name": "MAVU",
+          "points": 256209732
+        },
+        {
+          "name": "La sombra",
+          "points": 94488404,
+          "display_name": "La sombra TOP 1 LAST EVENT"
+        },
+        {
+          "name": "NMR",
+          "points": 110279646
+        },
+        {
+          "name": "りﾉ丂ムﾑ乇ﾑ",
+          "points": 0,
+          "display_name": "りﾉ丂ムﾑ乇ﾑ EX TOP"
+        },
+        {
+          "name": "Wilder98",
+          "points": 253929001
+        },
+        {
+          "name": "Spraj",
+          "points": 61127974
+        },
+        {
+          "name": "marta",
+          "points": 145327422
+        },
+        {
+          "name": "mario06",
+          "points": 47970724
+        },
+        {
+          "name": "Lord erick",
+          "points": 351135795
+        },
+        {
+          "name": "Joaitooo",
+          "points": 0
+        },
+        {
+          "name": "Destro",
+          "points": 57028520
+        },
+        {
+          "name": "V Λ L Σ Nッ",
+          "points": 31616847
+        },
+        {
+          "name": "The Mad King",
+          "points": 0
+        },
+        {
+          "name": "O T A N",
+          "points": 153403572,
+          "display_name": "O T A N TOP 2 LAST EVENT"
+        },
+        {
+          "name": "MINUS ONE",
+          "points": 337548680,
+          "display_name": "MINUS ONE EX TOP (F)"
+        },
+        {
+          "name": "Juanmi",
+          "points": 191051454
+        },
+        {
+          "name": "Joffre GS",
+          "points": 3238238
+        },
+        {
+          "name": "Jaix",
+          "points": 0
+        },
+        {
+          "name": "Gamer366",
+          "points": 171112242
+        },
+        {
+          "name": "Fred000",
+          "points": 33315078
+        },
+        {
+          "name": "DragoșDr",
+          "points": 54524038
+        },
+        {
+          "name": "CATACLISMA",
+          "points": 0
+        },
+        {
+          "name": "BlastM",
+          "points": 0
+        },
+        {
+          "name": "BUGHA",
+          "points": 0
+        },
+        {
+          "name": "-Monkey-",
+          "points": 0
+        },
+        {
+          "name": "-Barines-",
+          "points": 49104350
+        },
+        {
+          "name": "-valentino-",
+          "points": 193581701
+        },
+        {
+          "name": "super insecto",
+          "points": 337875853
+        },
+        {
+          "name": "Gojo Satoru",
+          "points": 41445049
+        },
+        {
+          "name": "-Cain-",
+          "points": 124085575
+        },
+        {
+          "name": "Æsr",
+          "points": 45501924
+        }
+      ],
+      "source": "fonbb1kr.csv; última fila 22 octubre 2026 (puntos finales)",
+      "data_type": "manual_import",
+      "note": "Solo Extranjeros actualizado; insignias conservadas; otros eventos intactos. Ausentes del CSV conservan sus puntos previos."
+    }
+  }
+}
