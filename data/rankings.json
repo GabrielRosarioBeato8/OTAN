@@ -7,8 +7,7 @@
       "players": [
         {
           "name": "wing",
-          "points": 950021,
-          "display_name": "wing EX TOP"
+          "points": 950021
         },
         {
           "name": "MAVU",
@@ -16,12 +15,12 @@
         },
         {
           "name": "Resurgentee",
-          "points": 261352,
-          "display_name": "Resurgentee EX TOP"
+          "points": 261352
         },
         {
           "name": "-KAERION-",
-          "points": 233382
+          "points": 233382,
+          "display_name": "-KAERION- TOP 2 LAST EVENT"
         },
         {
           "name": "super insecto",
@@ -49,7 +48,8 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 142307
+          "points": 142307,
+          "display_name": "Félix Gabriel TOP 3 LAST EVENT"
         },
         {
           "name": "ÊŘŇËŞŢØ",
@@ -130,7 +130,7 @@
         {
           "name": "CENIZA",
           "points": 3891,
-          "display_name": "CENIZA TOP3 LAST EVENT"
+          "display_name": "CENIZA EX TOP (F)"
         },
         {
           "name": "BRAVO2-2",
@@ -143,7 +143,7 @@
         {
           "name": "MINUS ONE",
           "points": 0,
-          "display_name": "MINUS ONE TOP 1 LAST EVENT"
+          "display_name": "MINUS ONE EX TOP"
         },
         {
           "name": "-PIKACHU-",
@@ -151,8 +151,7 @@
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
-          "points": 0,
-          "display_name": "りﾉ丂ムﾑ乇ﾑ TOP 2 LAST EVENT (F)"
+          "points": 0
         },
         {
           "name": "A Q U I L E S",
@@ -164,7 +163,8 @@
         },
         {
           "name": "- SIR - ED -",
-          "points": 0
+          "points": 0,
+          "display_name": "- SIR - ED - TOP 1 LAST EVENT"
         },
         {
           "name": "Onichan",
@@ -172,7 +172,8 @@
         },
         {
           "name": "La sombra",
-          "points": 0
+          "points": 0,
+          "display_name": "La sombra EX TOP"
         },
         {
           "name": "-INMORTAL-",
@@ -188,7 +189,8 @@
         },
         {
           "name": "O T A N",
-          "points": 0
+          "points": 0,
+          "display_name": "O T A N EX TOP"
         },
         {
           "name": "SULTHAN ASHIQ",
