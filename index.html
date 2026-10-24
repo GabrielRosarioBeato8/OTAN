@@ -30,11 +30,11 @@ async function cargarHistorial(){
  try{
   const [antiguo,actuales]=await Promise.all([
    fetch('./data/history/samurais-2026-10-17.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
-   fetch('./data/rankings.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
+   fetch('./data/history/registros-2026-10-23.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
   ]);
   if(antiguo?.players?.length)registros.push({titulo:antiguo.title,fecha:antiguo.saved_on,players:antiguo.players,clase:'Registro histórico guardado'});
   const nombres={nomads:'Invasión Nómada',foreigners:'Invasión Extranjera'};
-  const fechas={nomads:'19/10/2026',foreigners:'22/10/2026'};
+  const fechas={nomads:'23/10/2026 (registro del 19/10)',foreigners:'23/10/2026 (final del 22/10)'};
   for(const id of ['nomads','foreigners']){
    const evento=actuales?.events?.[id];
    if(evento?.players?.length)registros.push({titulo:nombres[id],fecha:fechas[id],players:evento.players.map(p=>({name:p.display_name||p.name,points:Number(p.points)||0})),clase:id==='foreigners'?'Puntos finales registrados':'Última clasificación acumulada'});
