@@ -245,11 +245,13 @@
       "players": [
         {
           "name": "BRAVO2-2",
-          "points": 1552681
+          "points": 1552681,
+          "display_name": "BRAVO2-2 TOP 3 LAST EVENT"
         },
         {
           "name": "wing",
-          "points": 134351
+          "points": 134351,
+          "display_name": "wing TOP 1 LAST EVENT"
         },
         {
           "name": "marta",
@@ -266,7 +268,7 @@
         {
           "name": "-KAERION-",
           "points": 1939567,
-          "display_name": "-KAERION- TOP 2 LAST EVENT"
+          "display_name": "-KAERION- EX TOP"
         },
         {
           "name": "wilder98",
@@ -287,7 +289,7 @@
         {
           "name": "SIRED",
           "points": 316938,
-          "display_name": "- SIR - ED - TOP 1 LAST EVENT"
+          "display_name": "SIRED EX TOP"
         },
         {
           "name": "Æsr",
@@ -327,7 +329,8 @@
         },
         {
           "name": "-ZEUS-",
-          "points": 972663
+          "points": 972663,
+          "display_name": "-ZEUS- TOP 2 LAST EVENT"
         },
         {
           "name": "Resurgentee",
@@ -395,13 +398,12 @@
         },
         {
           "name": "-PIKACHU-",
-          "points": 0,
-          "display_name": "-PIKACHU- TOP 3 LAST EVENT"
+          "points": 0
         },
         {
           "name": "Félix Gabriel",
           "points": 928765,
-          "display_name": "Félix Gabriel TOP 3 LAST EVENT"
+          "display_name": "Félix Gabriel EX TOP"
         },
         {
           "name": "sanchez",
@@ -409,8 +411,7 @@
         },
         {
           "name": "La sombra",
-          "points": 0,
-          "display_name": "La sombra EX TOP"
+          "points": 0
         },
         {
           "name": "destro",
@@ -443,12 +444,11 @@
         {
           "name": "CENIZA",
           "points": 252,
-          "display_name": "CENIZA TOP 2 LAST EVENT (F)"
+          "display_name": "CENIZA EX TOP"
         },
         {
           "name": "MINUS ONE",
-          "points": 0,
-          "display_name": "MINUS ONE TOP 1 LAST EVENT (F)"
+          "points": 0
         },
         {
           "name": "ÊŘŇËŞŢØ",
@@ -456,8 +456,7 @@
         },
         {
           "name": "O T A N",
-          "points": 342273,
-          "display_name": "O T A N EX TOP"
+          "points": 342273
         },
         {
           "name": "Boot",
@@ -465,8 +464,7 @@
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
-          "points": 0,
-          "display_name": "りﾉ丂ムﾑ乇ﾑ EX TOP (F)"
+          "points": 0
         },
         {
           "name": "-INMORTAL-",
