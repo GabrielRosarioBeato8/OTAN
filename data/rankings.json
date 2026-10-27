@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-26T00:00:00Z",
+  "updated_at": "2026-10-27T21:00:00Z",
   "events": {
     "samurai": {
       "players": [
@@ -250,12 +250,12 @@
         },
         {
           "name": "wing",
-          "points": 3141567,
+          "points": 3300561,
           "display_name": "wing TOP 1 LAST EVENT"
         },
         {
           "name": "marta",
-          "points": 1515762
+          "points": 1674959
         },
         {
           "name": "Jaix",
@@ -267,7 +267,7 @@
         },
         {
           "name": "-KAERION-",
-          "points": 1939567,
+          "points": 2649693,
           "display_name": "-KAERION- EX TOP"
         },
         {
@@ -276,7 +276,7 @@
         },
         {
           "name": "Juanmi",
-          "points": 0
+          "points": 490511
         },
         {
           "name": "Jerryar",
@@ -293,7 +293,7 @@
         },
         {
           "name": "Æsr",
-          "points": 0
+          "points": 569725
         },
         {
           "name": "RYU-KEN",
@@ -301,11 +301,11 @@
         },
         {
           "name": "Lutter",
-          "points": 2330746
+          "points": 2331498
         },
         {
           "name": "V Λ L Σ N ッ",
-          "points": 1442946
+          "points": 1549772
         },
         {
           "name": "Fred000",
@@ -317,7 +317,7 @@
         },
         {
           "name": "Gamboaa",
-          "points": 0
+          "points": 318311
         },
         {
           "name": "lord erick",
@@ -338,7 +338,7 @@
         },
         {
           "name": "spinspin",
-          "points": 1546919
+          "points": 1552208
         },
         {
           "name": "TUNDRA",
@@ -350,15 +350,15 @@
         },
         {
           "name": "The Mad King",
-          "points": 0
+          "points": 708
         },
         {
           "name": "Gamer366",
-          "points": 298894
+          "points": 363082
         },
         {
           "name": "Lord.Carlos",
-          "points": 1362322
+          "points": 1400102
         },
         {
           "name": "-Cain-",
@@ -374,7 +374,7 @@
         },
         {
           "name": "DragoșDr",
-          "points": 755161
+          "points": 773625
         },
         {
           "name": "CATACLISMA",
@@ -402,7 +402,7 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 4115457,
+          "points": 4176827,
           "display_name": "Félix Gabriel EX TOP"
         },
         {
@@ -419,7 +419,7 @@
         },
         {
           "name": "NMR",
-          "points": 26971
+          "points": 126653
         },
         {
           "name": "Ricardoo1y02",
@@ -439,7 +439,7 @@
         },
         {
           "name": "super insecto",
-          "points": 3123826
+          "points": 3127301
         },
         {
           "name": "CENIZA",
@@ -453,7 +453,7 @@
         },
         {
           "name": "ÊŘŇËŞŢØ",
-          "points": 1526558
+          "points": 1778280
         },
         {
           "name": "O T A N",
@@ -461,7 +461,7 @@
         },
         {
           "name": "Boot",
-          "points": 55275
+          "points": 68785
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
@@ -473,12 +473,12 @@
         },
         {
           "name": "Rittha",
-          "points": 22313
+          "points": 29729
         }
       ],
-      "source": "Jugadores_OTAN (43).csv",
+      "source": "ba694ba9.csv — puntos finales 27 octubre 2026",
       "data_type": "manual_import",
-      "note": "Solo puntos de Nómadas actualizados para 45 jugadores; los demás puntos, miembros e insignias se conservan; historial intacto."
+      "note": "Clasificación final de Nómadas; 56 miembros, insignias preservadas; otros eventos e historial intactos."
     },
     "foreigners": {
       "players": [
