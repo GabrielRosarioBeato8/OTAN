@@ -720,6 +720,244 @@
       "source": "fonbb1kr.csv; última fila 22 octubre 2026 (puntos finales)",
       "data_type": "manual_import",
       "note": "Solo Extranjeros actualizado; insignias conservadas; otros eventos intactos. Ausentes del CSV conservan sus puntos previos."
+    },
+    "ravens": {
+      "players": [
+        {
+          "name": "BRAVO2-2",
+          "points": 0,
+          "display_name": "BRAVO2-2 TOP 3 LAST EVENT"
+        },
+        {
+          "name": "wing",
+          "points": 0,
+          "display_name": "wing TOP 1 LAST EVENT"
+        },
+        {
+          "name": "marta",
+          "points": 0
+        },
+        {
+          "name": "Jaix",
+          "points": 0
+        },
+        {
+          "name": "-valentino-",
+          "points": 0
+        },
+        {
+          "name": "-KAERION-",
+          "points": 0,
+          "display_name": "-KAERION- EX TOP"
+        },
+        {
+          "name": "wilder98",
+          "points": 0
+        },
+        {
+          "name": "Juanmi",
+          "points": 0
+        },
+        {
+          "name": "Jerryar",
+          "points": 0
+        },
+        {
+          "name": "MAVU",
+          "points": 0
+        },
+        {
+          "name": "SIRED",
+          "points": 0,
+          "display_name": "SIRED EX TOP"
+        },
+        {
+          "name": "Æsr",
+          "points": 0
+        },
+        {
+          "name": "RYU-KEN",
+          "points": 0
+        },
+        {
+          "name": "Lutter",
+          "points": 0
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 0
+        },
+        {
+          "name": "Fred000",
+          "points": 0
+        },
+        {
+          "name": "-Monkey-",
+          "points": 0
+        },
+        {
+          "name": "Gamboaa",
+          "points": 0
+        },
+        {
+          "name": "lord erick",
+          "points": 0
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 0
+        },
+        {
+          "name": "-ZEUS-",
+          "points": 0,
+          "display_name": "-ZEUS- TOP 2 LAST EVENT"
+        },
+        {
+          "name": "Resurgentee",
+          "points": 0
+        },
+        {
+          "name": "spinspin",
+          "points": 0
+        },
+        {
+          "name": "TUNDRA",
+          "points": 0
+        },
+        {
+          "name": "MOAN",
+          "points": 0
+        },
+        {
+          "name": "The Mad King",
+          "points": 0
+        },
+        {
+          "name": "Gamer366",
+          "points": 0
+        },
+        {
+          "name": "Lord.Carlos",
+          "points": 0
+        },
+        {
+          "name": "-Cain-",
+          "points": 0
+        },
+        {
+          "name": "spraj",
+          "points": 0
+        },
+        {
+          "name": "Joffre GS",
+          "points": 0
+        },
+        {
+          "name": "DragoșDr",
+          "points": 0
+        },
+        {
+          "name": "CATACLISMA",
+          "points": 0
+        },
+        {
+          "name": "Gojo Satoru",
+          "points": 0
+        },
+        {
+          "name": "BlastM",
+          "points": 0
+        },
+        {
+          "name": "-Barines-",
+          "points": 0
+        },
+        {
+          "name": "mario06",
+          "points": 0
+        },
+        {
+          "name": "-PIKACHU-",
+          "points": 0
+        },
+        {
+          "name": "Félix Gabriel",
+          "points": 0,
+          "display_name": "Félix Gabriel EX TOP"
+        },
+        {
+          "name": "sanchez",
+          "points": 0
+        },
+        {
+          "name": "La sombra",
+          "points": 0
+        },
+        {
+          "name": "destro",
+          "points": 0
+        },
+        {
+          "name": "NMR",
+          "points": 0
+        },
+        {
+          "name": "Ricardoo1y02",
+          "points": 0
+        },
+        {
+          "name": "BUGHA",
+          "points": 0
+        },
+        {
+          "name": "belekas",
+          "points": 0
+        },
+        {
+          "name": "tongui.",
+          "points": 0
+        },
+        {
+          "name": "super insecto",
+          "points": 0
+        },
+        {
+          "name": "CENIZA",
+          "points": 0,
+          "display_name": "CENIZA EX TOP"
+        },
+        {
+          "name": "MINUS ONE",
+          "points": 0,
+          "display_name": "MINUS ONE PAPI DE PAPIS"
+        },
+        {
+          "name": "ÊŘŇËŞŢØ",
+          "points": 0
+        },
+        {
+          "name": "O T A N",
+          "points": 0
+        },
+        {
+          "name": "Boot",
+          "points": 0
+        },
+        {
+          "name": "りﾉ丂ムﾑ乇ﾑ",
+          "points": 0
+        },
+        {
+          "name": "-INMORTAL-",
+          "points": 0
+        },
+        {
+          "name": "Rittha",
+          "points": 0
+        }
+      ],
+      "source": "Plantilla inicial de Cuervos basada exclusivamente en los 56 miembros de Nómadas final del 27/10/2026; puntos pendientes",
+      "data_type": "roster_initialization"
     }
   }
 }
