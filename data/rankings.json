@@ -725,17 +725,17 @@
       "players": [
         {
           "name": "BRAVO2-2",
-          "points": 0,
+          "points": 59522622,
           "display_name": "BRAVO2-2 TOP 3 LAST EVENT"
         },
         {
           "name": "wing",
-          "points": 0,
+          "points": 215230523,
           "display_name": "wing TOP 1 LAST EVENT"
         },
         {
           "name": "marta",
-          "points": 0
+          "points": 53269219
         },
         {
           "name": "Jaix",
@@ -743,20 +743,20 @@
         },
         {
           "name": "-valentino-",
-          "points": 0
+          "points": 109980709
         },
         {
           "name": "-KAERION-",
-          "points": 0,
+          "points": 211980257,
           "display_name": "-KAERION- EX TOP"
         },
         {
           "name": "wilder98",
-          "points": 0
+          "points": 289047642
         },
         {
           "name": "Juanmi",
-          "points": 0
+          "points": 135671823
         },
         {
           "name": "Jerryar",
@@ -768,7 +768,7 @@
         },
         {
           "name": "SIRED",
-          "points": 0,
+          "points": 357764503,
           "display_name": "SIRED EX TOP"
         },
         {
@@ -805,7 +805,7 @@
         },
         {
           "name": "SULTHAN ASHIQ",
-          "points": 0
+          "points": 149449
         },
         {
           "name": "-ZEUS-",
@@ -814,7 +814,7 @@
         },
         {
           "name": "Resurgentee",
-          "points": 0
+          "points": 90197042
         },
         {
           "name": "spinspin",
@@ -822,11 +822,11 @@
         },
         {
           "name": "TUNDRA",
-          "points": 0
+          "points": 26057189
         },
         {
           "name": "MOAN",
-          "points": 0
+          "points": 18892266
         },
         {
           "name": "The Mad King",
@@ -834,19 +834,19 @@
         },
         {
           "name": "Gamer366",
-          "points": 0
+          "points": 18064876
         },
         {
           "name": "Lord.Carlos",
-          "points": 0
+          "points": 459087176
         },
         {
           "name": "-Cain-",
-          "points": 0
+          "points": 36726658
         },
         {
           "name": "spraj",
-          "points": 0
+          "points": 20015084
         },
         {
           "name": "Joffre GS",
@@ -854,7 +854,7 @@
         },
         {
           "name": "DragoșDr",
-          "points": 0
+          "points": 46520547
         },
         {
           "name": "CATACLISMA",
@@ -862,7 +862,7 @@
         },
         {
           "name": "Gojo Satoru",
-          "points": 0
+          "points": 26034824
         },
         {
           "name": "BlastM",
@@ -882,7 +882,7 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 0,
+          "points": 203827458,
           "display_name": "Félix Gabriel EX TOP"
         },
         {
@@ -891,11 +891,11 @@
         },
         {
           "name": "La sombra",
-          "points": 0
+          "points": 23721264
         },
         {
           "name": "destro",
-          "points": 0
+          "points": 4359158
         },
         {
           "name": "NMR",
@@ -911,7 +911,7 @@
         },
         {
           "name": "belekas",
-          "points": 0
+          "points": 8588197
         },
         {
           "name": "tongui.",
@@ -919,7 +919,7 @@
         },
         {
           "name": "super insecto",
-          "points": 0
+          "points": 100076655
         },
         {
           "name": "CENIZA",
@@ -933,15 +933,15 @@
         },
         {
           "name": "ÊŘŇËŞŢØ",
-          "points": 0
+          "points": 192388700
         },
         {
           "name": "O T A N",
-          "points": 0
+          "points": 8406701
         },
         {
           "name": "Boot",
-          "points": 0
+          "points": 15337539
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
@@ -956,8 +956,9 @@
           "points": 0
         }
       ],
-      "source": "Plantilla inicial de Cuervos basada exclusivamente en los 56 miembros de Nómadas final del 27/10/2026; puntos pendientes",
-      "data_type": "roster_initialization"
+      "source": "Jugadores_OTAN (44).csv — Cuervos, actualización parcial",
+      "data_type": "manual_import",
+      "note": "26 jugadores actualizados; demás jugadores, insignias y eventos sin cambios."
     }
   }
 }
