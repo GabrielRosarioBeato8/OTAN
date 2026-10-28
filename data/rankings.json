@@ -725,13 +725,11 @@
       "players": [
         {
           "name": "BRAVO2-2",
-          "points": 59522622,
-          "display_name": "BRAVO2-2 TOP 3 LAST EVENT"
+          "points": 59522622
         },
         {
           "name": "wing",
-          "points": 215230523,
-          "display_name": "wing TOP 1 LAST EVENT"
+          "points": 215230523
         },
         {
           "name": "marta",
@@ -747,8 +745,7 @@
         },
         {
           "name": "-KAERION-",
-          "points": 211980257,
-          "display_name": "-KAERION- EX TOP"
+          "points": 211980257
         },
         {
           "name": "wilder98",
@@ -768,8 +765,7 @@
         },
         {
           "name": "SIRED",
-          "points": 357764503,
-          "display_name": "SIRED EX TOP"
+          "points": 357764503
         },
         {
           "name": "Æsr",
@@ -809,8 +805,7 @@
         },
         {
           "name": "-ZEUS-",
-          "points": 0,
-          "display_name": "-ZEUS- TOP 2 LAST EVENT"
+          "points": 0
         },
         {
           "name": "Resurgentee",
@@ -882,8 +877,7 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 203827458,
-          "display_name": "Félix Gabriel EX TOP"
+          "points": 203827458
         },
         {
           "name": "sanchez",
@@ -915,7 +909,8 @@
         },
         {
           "name": "tongui.",
-          "points": 0
+          "points": 0,
+          "display_name": "tongui. TOP 2 LAST EVENT"
         },
         {
           "name": "super insecto",
@@ -923,13 +918,12 @@
         },
         {
           "name": "CENIZA",
-          "points": 0,
-          "display_name": "CENIZA EX TOP"
+          "points": 0
         },
         {
           "name": "MINUS ONE",
           "points": 0,
-          "display_name": "MINUS ONE PAPI DE PAPIS"
+          "display_name": "MINUS ONE TOP 1 LAST EVENT"
         },
         {
           "name": "ÊŘŇËŞŢØ",
