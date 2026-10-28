@@ -27,10 +27,12 @@ async function cargarHistorial(){
  const escapar=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
  const registros=[];
  try{
-  const [antiguo,actuales]=await Promise.all([
+  const [antiguo,actuales,nuevoSamurai]=await Promise.all([
    fetch('./data/history/samurais-2026-10-17.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
-   fetch('./data/history/registros-2026-10-23.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
+   fetch('./data/history/registros-2026-10-23.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
+   fetch('./data/history/samurais-2026-10-27.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
   ]);
+  if(nuevoSamurai?.players?.length)registros.push({titulo:nuevoSamurai.title,fecha:nuevoSamurai.saved_on,players:nuevoSamurai.players,clase:'Última clasificación disponible'});
   if(antiguo?.players?.length)registros.push({titulo:antiguo.title,fecha:antiguo.saved_on,players:antiguo.players,clase:'Registro histórico guardado'});
   const nombres={nomads:'Invasión Nómada',foreigners:'Invasión Extranjera'};
   const fechas={nomads:'27/10/2026 (clasificación final)',foreigners:'23/10/2026 (final del 22/10)'};
@@ -54,7 +56,7 @@ async function cargarEstadisticas(){
  try{
   const [saved,sam]=await Promise.all([
    fetch('./data/history/registros-2026-10-23.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Historial no disponible');return r.json()}),
-   fetch('./data/history/samurais-2026-10-17.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Samuráis no disponible');return r.json()})
+   fetch('./data/history/samurais-2026-10-27.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Samuráis no disponible');return r.json()})
   ]);
   const groups=[
    {id:'samurai',name:'Samuráis',date:sam.saved_on,players:sam.players},
