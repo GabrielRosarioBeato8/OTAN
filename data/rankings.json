@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-27T21:00:00Z",
+  "updated_at": "2026-10-29T01:19:00Z",
   "events": {
     "samurai": {
       "players": [
@@ -725,7 +725,7 @@
       "players": [
         {
           "name": "BRAVO2-2",
-          "points": 59522622
+          "points": 158849166
         },
         {
           "name": "wing",
@@ -733,7 +733,7 @@
         },
         {
           "name": "marta",
-          "points": 53269219
+          "points": 62656737
         },
         {
           "name": "Jaix",
@@ -741,19 +741,19 @@
         },
         {
           "name": "-valentino-",
-          "points": 109980709
+          "points": 184044506
         },
         {
           "name": "-KAERION-",
-          "points": 211980257
+          "points": 350310692
         },
         {
           "name": "wilder98",
-          "points": 289047642
+          "points": 418309616
         },
         {
           "name": "Juanmi",
-          "points": 135671823
+          "points": 241125315
         },
         {
           "name": "Jerryar",
@@ -765,7 +765,7 @@
         },
         {
           "name": "SIRED",
-          "points": 357764503
+          "points": 564467972
         },
         {
           "name": "Æsr",
@@ -777,7 +777,7 @@
         },
         {
           "name": "Lutter",
-          "points": 0
+          "points": 110040229
         },
         {
           "name": "V Λ L Σ N ッ",
@@ -797,32 +797,32 @@
         },
         {
           "name": "lord erick",
-          "points": 0
+          "points": 39470717
         },
         {
           "name": "SULTHAN ASHIQ",
-          "points": 149449
+          "points": 359580
         },
         {
           "name": "-ZEUS-",
-          "points": 0
+          "points": 10803125
         },
         {
           "name": "Resurgentee",
-          "points": 90197042,
+          "points": 320897793,
           "display_name": "Resurgentee TOP 3 LAST EVENT"
         },
         {
           "name": "spinspin",
-          "points": 0
+          "points": 17700874
         },
         {
           "name": "TUNDRA",
-          "points": 26057189
+          "points": 44431232
         },
         {
           "name": "MOAN",
-          "points": 18892266
+          "points": 40432576
         },
         {
           "name": "The Mad King",
@@ -830,27 +830,27 @@
         },
         {
           "name": "Gamer366",
-          "points": 18064876
+          "points": 119605372
         },
         {
           "name": "Lord.Carlos",
-          "points": 459087176
+          "points": 516151887
         },
         {
           "name": "-Cain-",
-          "points": 36726658
+          "points": 77694018
         },
         {
           "name": "spraj",
-          "points": 20015084
+          "points": 40648286
         },
         {
           "name": "Joffre GS",
-          "points": 0
+          "points": 1981147
         },
         {
           "name": "DragoșDr",
-          "points": 46520547
+          "points": 74639640
         },
         {
           "name": "CATACLISMA",
@@ -858,7 +858,7 @@
         },
         {
           "name": "Gojo Satoru",
-          "points": 26034824
+          "points": 82293322
         },
         {
           "name": "BlastM",
@@ -882,7 +882,7 @@
         },
         {
           "name": "sanchez",
-          "points": 0
+          "points": 36485752
         },
         {
           "name": "La sombra",
@@ -906,20 +906,20 @@
         },
         {
           "name": "belekas",
-          "points": 8588197
+          "points": 14067650
         },
         {
           "name": "tongui.",
-          "points": 0,
+          "points": 208952204,
           "display_name": "tongui. TOP 2 LAST EVENT"
         },
         {
           "name": "super insecto",
-          "points": 100076655
+          "points": 190297246
         },
         {
           "name": "CENIZA",
-          "points": 0
+          "points": 11360502
         },
         {
           "name": "MINUS ONE",
@@ -932,11 +932,11 @@
         },
         {
           "name": "O T A N",
-          "points": 8406701
+          "points": 129175066
         },
         {
           "name": "Boot",
-          "points": 15337539
+          "points": 31296199
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
@@ -948,12 +948,12 @@
         },
         {
           "name": "Rittha",
-          "points": 0
+          "points": 57440210
         }
       ],
-      "source": "Jugadores_OTAN (44).csv — Cuervos, actualización parcial",
+      "source": "Jugadores_OTAN (45).csv — Cuervos",
       "data_type": "manual_import",
-      "note": "26 jugadores actualizados; demás jugadores, insignias y eventos sin cambios."
+      "note": "35 jugadores actualizados; otros puntos e insignias conservados."
     }
   }
 }
