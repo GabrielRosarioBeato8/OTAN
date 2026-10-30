@@ -18,7 +18,7 @@ async function cargarClasificaciones(){
   }
   render();
   if(payload.updated_at && eventos[actual].datos.length){document.querySelector('#dataStatus').textContent+=' · Datos consultados: '+new Date(payload.updated_at).toLocaleString('es-DO',{dateStyle:'short',timeStyle:'medium',timeZone:'America/Santo_Domingo'})+' (hora RD). No son puntos en vivo.';}
- }catch(error){document.querySelector('#dataStatus').textContent='Sin datos verificados disponibles. El diseño original permanece intacto.'}
+ }catch(error){document.querySelector('#dataStatus').textContent='Error al cargar las puntuaciones: '+String(error.message||error)+'.';}
 }
 cargarClasificaciones();setInterval(cargarClasificaciones,15*60*1000);
 
