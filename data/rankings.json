@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-30T05:39:55.874Z",
+  "updated_at": "2026-10-31T01:17:45.239Z",
   "events": {
     "samurai": {
       "players": [
@@ -850,7 +850,7 @@
         },
         {
           "name": "DragoșDr",
-          "points": 92428076
+          "points": 101413815
         },
         {
           "name": "CATACLISMA",
@@ -874,7 +874,7 @@
         },
         {
           "name": "-PIKACHU-",
-          "points": 0
+          "points": 9312217
         },
         {
           "name": "Félix Gabriel",
@@ -949,11 +949,19 @@
         {
           "name": "Rittha",
           "points": 157320909
+        },
+        {
+          "name": "Félix Gab II",
+          "points": 0
+        },
+        {
+          "name": "Sinner",
+          "points": 0
         }
       ],
-      "source": "Jugadores_OTAN (45).csv — Cuervos",
+      "source": "e36tjsgul.csv — clasificación final de Cuervos 30 octubre 2026",
       "data_type": "manual_import",
-      "note": "35 jugadores actualizados; otros puntos e insignias conservados."
+      "note": "Puntos finales importados; Félix Gabriel y Félix Gab II son jugadores diferentes; insignias y otros eventos conservados."
     }
   }
 }
