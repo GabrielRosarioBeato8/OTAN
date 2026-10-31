@@ -1,119 +1,13 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-31T01:38:37.979Z",
+  "updated_at": "2026-10-31T17:36:00Z",
   "events": {
     "samurai": {
       "players": [
         {
-          "name": "BRAVO2-2",
-          "points": 192450
-        },
-        {
-          "name": "wing",
-          "points": 411211
-        },
-        {
-          "name": "marta",
-          "points": 116794
-        },
-        {
-          "name": "Jaix",
-          "points": 0
-        },
-        {
-          "name": "-valentino-",
-          "points": 118455
-        },
-        {
-          "name": "-KAERION-",
-          "points": 233382
-        },
-        {
-          "name": "wilder98",
-          "points": 130258
-        },
-        {
-          "name": "Juanmi",
-          "points": 157792
-        },
-        {
-          "name": "Jerryar",
-          "points": 0
-        },
-        {
-          "name": "MAVU",
-          "points": 60027
-        },
-        {
-          "name": "SIRED",
-          "points": 65107,
-          "display_name": "SIRED TOP 2 LAST EVENT"
-        },
-        {
-          "name": "Æsr",
-          "points": 0
-        },
-        {
-          "name": "RYU-KEN",
-          "points": 252365
-        },
-        {
-          "name": "Lutter",
-          "points": 164822
-        },
-        {
-          "name": "V Λ L Σ N ッ",
-          "points": 1118
-        },
-        {
-          "name": "Fred000",
-          "points": 19922
-        },
-        {
-          "name": "-Monkey-",
-          "points": 0
-        },
-        {
-          "name": "Gamboaa",
-          "points": 2254
-        },
-        {
-          "name": "lord erick",
-          "points": 0
-        },
-        {
-          "name": "SULTHAN ASHIQ",
-          "points": 0
-        },
-        {
-          "name": "-ZEUS-",
-          "points": 757684
-        },
-        {
-          "name": "Resurgentee",
-          "points": 523875,
-          "display_name": "Resurgentee TOP 3 LAST EVENT (F)"
-        },
-        {
-          "name": "spinspin",
-          "points": 82926
-        },
-        {
-          "name": "TUNDRA",
-          "points": 8868
-        },
-        {
-          "name": "MOAN",
-          "points": 7503
-        },
-        {
-          "name": "The Mad King",
-          "points": 0
-        },
-        {
-          "name": "Gamer366",
-          "points": 0
+          "name": "-PIKACHU-",
+          "points": 912036
         },
         {
           "name": "Lord.Carlos",
@@ -121,76 +15,102 @@
           "display_name": "Lord.Carlos TOP 1 LAST EVENT"
         },
         {
-          "name": "-Cain-",
-          "points": 13898
+          "name": "Resurgentee",
+          "points": 523875,
+          "display_name": "Resurgentee TOP 3 LAST EVENT (F)"
         },
         {
-          "name": "spraj",
-          "points": 4904
+          "name": "wing",
+          "points": 411211
         },
         {
-          "name": "Joffre GS",
-          "points": 141990
+          "name": "BRAVO2-2",
+          "points": 262195
         },
         {
-          "name": "DragoșDr",
-          "points": 1922
+          "name": "ÊŘŇËŞŢØ",
+          "points": 208288
         },
         {
-          "name": "CATACLISMA",
-          "points": 83
+          "name": "NMR",
+          "points": 179065
         },
         {
-          "name": "Gojo Satoru",
-          "points": 26956
-        },
-        {
-          "name": "BlastM",
-          "points": 0
-        },
-        {
-          "name": "-Barines-",
-          "points": 0
-        },
-        {
-          "name": "mario06",
-          "points": 35785
-        },
-        {
-          "name": "-PIKACHU-",
-          "points": 405000
-        },
-        {
-          "name": "Félix Gabriel",
-          "points": 122695
-        },
-        {
-          "name": "sanchez",
-          "points": 2640
-        },
-        {
-          "name": "La sombra",
-          "points": 41691
+          "name": "Lutter",
+          "points": 164822
         },
         {
           "name": "destro",
           "points": 151686
         },
         {
-          "name": "NMR",
-          "points": 118271
+          "name": "SIRED",
+          "points": 146749,
+          "display_name": "SIRED TOP 2 LAST EVENT"
         },
         {
-          "name": "Ricardoo1y02",
-          "points": 1580
+          "name": "Joffre GS",
+          "points": 141990
         },
         {
-          "name": "BUGHA",
-          "points": 0
+          "name": "Rittha",
+          "points": 139479
         },
         {
-          "name": "belekas",
-          "points": 11207
+          "name": "-KAERION-",
+          "points": 129931
+        },
+        {
+          "name": "Félix Gabriel",
+          "points": 122695
+        },
+        {
+          "name": "-valentino-",
+          "points": 118455
+        },
+        {
+          "name": "marta",
+          "points": 116794
+        },
+        {
+          "name": "spraj",
+          "points": 110372
+        },
+        {
+          "name": "Boot",
+          "points": 106254
+        },
+        {
+          "name": "spinspin",
+          "points": 82926
+        },
+        {
+          "name": "-INMORTAL-",
+          "points": 61735
+        },
+        {
+          "name": "Gamer366",
+          "points": 60680
+        },
+        {
+          "name": "MAVU",
+          "points": 60027
+        },
+        {
+          "name": "La sombra",
+          "points": 41691
+        },
+        {
+          "name": "Félix Gab II",
+          "points": 32086
+        },
+        {
+          "name": "super insecto",
+          "points": 27742
+        },
+        {
+          "name": "Gojo Satoru",
+          "points": 26956
         },
         {
           "name": "tongui.",
@@ -198,12 +118,60 @@
           "display_name": "tongui. EX TOP"
         },
         {
-          "name": "super insecto",
-          "points": 27742
+          "name": "Sinner",
+          "points": 23056
+        },
+        {
+          "name": "belekas",
+          "points": 18968
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 17586
+        },
+        {
+          "name": "-Cain-",
+          "points": 13898
         },
         {
           "name": "CENIZA",
           "points": 13104
+        },
+        {
+          "name": "MOAN",
+          "points": 11432
+        },
+        {
+          "name": "TUNDRA",
+          "points": 8868
+        },
+        {
+          "name": "sanchez",
+          "points": 4993
+        },
+        {
+          "name": "Gamboaa",
+          "points": 2254
+        },
+        {
+          "name": "O T A N",
+          "points": 2127
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 1749
+        },
+        {
+          "name": "Ricardoo1y02",
+          "points": 1580
+        },
+        {
+          "name": "CATACLISMA",
+          "points": 83
+        },
+        {
+          "name": "RYU-KEN",
+          "points": 0
         },
         {
           "name": "MINUS ONE",
@@ -211,38 +179,66 @@
           "display_name": "MINUS ONE EX TOP"
         },
         {
-          "name": "ÊŘŇËŞŢØ",
-          "points": 110900
+          "name": "wilder98",
+          "points": 0
         },
         {
-          "name": "O T A N",
-          "points": 101298
+          "name": "-Barines-",
+          "points": 0
         },
         {
-          "name": "Boot",
-          "points": 106254
+          "name": "BUGHA",
+          "points": 0
+        },
+        {
+          "name": "BlastM",
+          "points": 0
+        },
+        {
+          "name": "DragoșDr",
+          "points": 0
+        },
+        {
+          "name": "Juanmi",
+          "points": 0
+        },
+        {
+          "name": "Jaix",
+          "points": 0
+        },
+        {
+          "name": "-ZEUS-",
+          "points": 0
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
           "points": 0
         },
         {
-          "name": "-INMORTAL-",
-          "points": 61735
+          "name": "lord erick",
+          "points": 0
         },
         {
-          "name": "Rittha",
-          "points": 136971
+          "name": "-Monkey-",
+          "points": 0
         },
         {
-          "name": "Sinner",
-          "points": 23056
+          "name": "The Mad King",
+          "points": 0
+        },
+        {
+          "name": "Fred000",
+          "points": 0
+        },
+        {
+          "name": "mario06",
+          "points": 0
         }
       ],
-      "source": "Jugadores_OTAN (49).csv — Samuráis 30 octubre 2026",
+      "source": "f8y1u6ev.csv — Samuráis final 31 octubre 2026",
       "data_type": "manual_import",
       "zero_points_order": "screenshot OTAN Ranking Pantalla 2026-10-16, order of zero-score members",
-      "note": "Insignias rotadas: podio Cuervos recibe TOP LAST EVENT; antiguos TOP LAST EVENT pasan a EX TOP; antiguos EX TOP se eliminan. Puntos intactos."
+      "note": "Actualización final: 56 miembros, insignias existentes conservadas; otros eventos intactos."
     },
     "nomads": {
       "players": [
