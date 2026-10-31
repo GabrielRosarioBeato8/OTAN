@@ -1,21 +1,21 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-31T01:17:45.239Z",
+  "updated_at": "2026-10-31T01:38:37.979Z",
   "events": {
     "samurai": {
       "players": [
         {
           "name": "BRAVO2-2",
-          "points": 353544
+          "points": 192450
         },
         {
           "name": "wing",
-          "points": 950021
+          "points": 411211
         },
         {
           "name": "marta",
-          "points": 102645
+          "points": 116794
         },
         {
           "name": "Jaix",
@@ -23,7 +23,7 @@
         },
         {
           "name": "-valentino-",
-          "points": 128189
+          "points": 118455
         },
         {
           "name": "-KAERION-",
@@ -44,11 +44,11 @@
         },
         {
           "name": "MAVU",
-          "points": 285216
+          "points": 60027
         },
         {
           "name": "SIRED",
-          "points": 267953,
+          "points": 65107,
           "display_name": "- SIR - ED - TOP 1 LAST EVENT"
         },
         {
@@ -61,7 +61,7 @@
         },
         {
           "name": "Lutter",
-          "points": 172781
+          "points": 164822
         },
         {
           "name": "V Λ L Σ N ッ",
@@ -77,7 +77,7 @@
         },
         {
           "name": "Gamboaa",
-          "points": 26939
+          "points": 2254
         },
         {
           "name": "lord erick",
@@ -93,19 +93,19 @@
         },
         {
           "name": "Resurgentee",
-          "points": 261912
+          "points": 523875
         },
         {
           "name": "spinspin",
-          "points": 29020
+          "points": 82926
         },
         {
           "name": "TUNDRA",
-          "points": 31953
+          "points": 8868
         },
         {
           "name": "MOAN",
-          "points": 47092
+          "points": 7503
         },
         {
           "name": "The Mad King",
@@ -117,19 +117,19 @@
         },
         {
           "name": "Lord.Carlos",
-          "points": 147757
+          "points": 675014
         },
         {
           "name": "-Cain-",
-          "points": 11519
+          "points": 13898
         },
         {
           "name": "spraj",
-          "points": 218052
+          "points": 4904
         },
         {
           "name": "Joffre GS",
-          "points": 39312
+          "points": 141990
         },
         {
           "name": "DragoșDr",
@@ -137,11 +137,11 @@
         },
         {
           "name": "CATACLISMA",
-          "points": 0
+          "points": 83
         },
         {
           "name": "Gojo Satoru",
-          "points": 8502
+          "points": 26956
         },
         {
           "name": "BlastM",
@@ -157,33 +157,33 @@
         },
         {
           "name": "-PIKACHU-",
-          "points": 195000
+          "points": 405000
         },
         {
           "name": "Félix Gabriel",
-          "points": 142307,
+          "points": 122695,
           "display_name": "Félix Gabriel TOP 3 LAST EVENT"
         },
         {
           "name": "sanchez",
-          "points": 9670
+          "points": 2640
         },
         {
           "name": "La sombra",
-          "points": 19020,
+          "points": 41691,
           "display_name": "La sombra EX TOP"
         },
         {
           "name": "destro",
-          "points": 54875
+          "points": 151686
         },
         {
           "name": "NMR",
-          "points": 24476
+          "points": 118271
         },
         {
           "name": "Ricardoo1y02",
-          "points": 12954
+          "points": 1580
         },
         {
           "name": "BUGHA",
@@ -191,19 +191,19 @@
         },
         {
           "name": "belekas",
-          "points": 2754
+          "points": 11207
         },
         {
           "name": "tongui.",
-          "points": 44784
+          "points": 25818
         },
         {
           "name": "super insecto",
-          "points": 336862
+          "points": 27742
         },
         {
           "name": "CENIZA",
-          "points": 3891,
+          "points": 13104,
           "display_name": "CENIZA EX TOP (F)"
         },
         {
@@ -213,7 +213,7 @@
         },
         {
           "name": "ÊŘŇËŞŢØ",
-          "points": 322699
+          "points": 110900
         },
         {
           "name": "O T A N",
@@ -222,7 +222,7 @@
         },
         {
           "name": "Boot",
-          "points": 48413
+          "points": 106254
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
@@ -230,16 +230,21 @@
         },
         {
           "name": "-INMORTAL-",
-          "points": 0
+          "points": 61735
         },
         {
           "name": "Rittha",
           "points": 136971
+        },
+        {
+          "name": "Sinner",
+          "points": 23056
         }
       ],
-      "source": "Clasificación OTAN actualizada manualmente",
+      "source": "Jugadores_OTAN (49).csv — Samuráis 30 octubre 2026",
       "data_type": "manual_import",
-      "zero_points_order": "screenshot OTAN Ranking Pantalla 2026-10-16, order of zero-score members"
+      "zero_points_order": "screenshot OTAN Ranking Pantalla 2026-10-16, order of zero-score members",
+      "note": "Actualizados 33 jugadores del CSV; ausentes conservan puntos anteriores; insignias y otros eventos intactos."
     },
     "nomads": {
       "players": [
