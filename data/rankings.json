@@ -768,7 +768,7 @@
           "points": 564467972
         },
         {
-          "name": "Æsr",
+          "name": "Félix Gab II",
           "points": 0
         },
         {
@@ -951,17 +951,13 @@
           "points": 157320909
         },
         {
-          "name": "Félix Gab II",
-          "points": 0
-        },
-        {
           "name": "Sinner",
           "points": 0
         }
       ],
       "source": "e36tjsgul.csv — clasificación final de Cuervos 30 octubre 2026",
       "data_type": "manual_import",
-      "note": "Puntos finales importados; Félix Gabriel y Félix Gab II son jugadores diferentes; insignias y otros eventos conservados."
+      "note": "Æsr renombrado a Félix Gab II, sin duplicar jugador. Otros eventos intactos."
     }
   }
 }
