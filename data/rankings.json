@@ -28,7 +28,7 @@
         {
           "name": "-KAERION-",
           "points": 233382,
-          "display_name": "-KAERION- TOP 2 LAST EVENT"
+          "display_name": "-KAERION- EX TOP"
         },
         {
           "name": "wilder98",
@@ -49,7 +49,7 @@
         {
           "name": "SIRED",
           "points": 65107,
-          "display_name": "- SIR - ED - TOP 1 LAST EVENT"
+          "display_name": "SIRED TOP 2 LAST EVENT"
         },
         {
           "name": "Æsr",
@@ -93,7 +93,8 @@
         },
         {
           "name": "Resurgentee",
-          "points": 523875
+          "points": 523875,
+          "display_name": "Resurgentee TOP 3 LAST EVENT"
         },
         {
           "name": "spinspin",
@@ -117,7 +118,8 @@
         },
         {
           "name": "Lord.Carlos",
-          "points": 675014
+          "points": 675014,
+          "display_name": "Lord.Carlos TOP 1 LAST EVENT"
         },
         {
           "name": "-Cain-",
@@ -162,7 +164,7 @@
         {
           "name": "Félix Gabriel",
           "points": 122695,
-          "display_name": "Félix Gabriel TOP 3 LAST EVENT"
+          "display_name": "Félix Gabriel EX TOP"
         },
         {
           "name": "sanchez",
@@ -244,7 +246,7 @@
       "source": "Jugadores_OTAN (49).csv — Samuráis 30 octubre 2026",
       "data_type": "manual_import",
       "zero_points_order": "screenshot OTAN Ranking Pantalla 2026-10-16, order of zero-score members",
-      "note": "Actualizados 33 jugadores del CSV; ausentes conservan puntos anteriores; insignias y otros eventos intactos."
+      "note": "Insignias basadas en podio final de Cuervos: Lord.Carlos 1, SIRED 2, Resurgentee 3; anteriores LAST EVENT pasan a EX TOP. Insignias especiales preservadas."
     },
     "nomads": {
       "players": [
