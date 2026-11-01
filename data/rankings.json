@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-10-31T23:34:29.466Z",
+  "updated_at": "2026-11-01T23:16:24.225Z",
   "events": {
     "samurai": {
       "players": [
@@ -249,7 +249,7 @@
         },
         {
           "name": "Lord.Carlos",
-          "points": 4206271,
+          "points": 6173512,
           "display_name": "Lord.Carlos TOP 2 LAST EVENT (F)"
         },
         {
@@ -259,11 +259,11 @@
         },
         {
           "name": "wing",
-          "points": 5775075
+          "points": 5905413
         },
         {
           "name": "BRAVO2-2",
-          "points": 1347446
+          "points": 1354655
         },
         {
           "name": "ÊŘŇËŞŢØ",
@@ -279,7 +279,7 @@
         },
         {
           "name": "destro",
-          "points": 114555
+          "points": 304168
         },
         {
           "name": "SIRED",
@@ -308,7 +308,7 @@
         },
         {
           "name": "marta",
-          "points": 567937
+          "points": 862023
         },
         {
           "name": "spraj",
@@ -316,7 +316,7 @@
         },
         {
           "name": "Boot",
-          "points": 179
+          "points": 911
         },
         {
           "name": "spinspin",
@@ -328,15 +328,15 @@
         },
         {
           "name": "Gamer366",
-          "points": 7819
+          "points": 68870
         },
         {
           "name": "MAVU",
-          "points": 18325
+          "points": 44420
         },
         {
           "name": "La sombra",
-          "points": 246044
+          "points": 2017865
         },
         {
           "name": "Félix Gab II",
@@ -348,11 +348,11 @@
         },
         {
           "name": "Gojo Satoru",
-          "points": 98857
+          "points": 120740
         },
         {
           "name": "tongui.",
-          "points": 60611
+          "points": 207887
         },
         {
           "name": "Sinner",
@@ -360,7 +360,7 @@
         },
         {
           "name": "belekas",
-          "points": 49809
+          "points": 82328
         },
         {
           "name": "SULTHAN ASHIQ",
@@ -372,7 +372,7 @@
         },
         {
           "name": "CENIZA",
-          "points": 312792
+          "points": 13495016
         },
         {
           "name": "MOAN",
@@ -380,11 +380,11 @@
         },
         {
           "name": "TUNDRA",
-          "points": 11186
+          "points": 59620
         },
         {
           "name": "sanchez",
-          "points": 7375
+          "points": 28517
         },
         {
           "name": "Gamboaa",
@@ -392,11 +392,11 @@
         },
         {
           "name": "O T A N",
-          "points": 0
+          "points": 1839768
         },
         {
           "name": "V Λ L Σ N ッ",
-          "points": 0
+          "points": 17660
         },
         {
           "name": "Ricardoo1y02",
@@ -432,7 +432,7 @@
         },
         {
           "name": "DragoșDr",
-          "points": 0
+          "points": 266
         },
         {
           "name": "Juanmi",
@@ -444,7 +444,7 @@
         },
         {
           "name": "-ZEUS-",
-          "points": 0
+          "points": 1206711
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
@@ -464,7 +464,7 @@
         },
         {
           "name": "Fred000",
-          "points": 0
+          "points": 221034
         },
         {
           "name": "mario06",
@@ -475,9 +475,9 @@
           "points": 31551
         }
       ],
-      "source": "Jugadores_OTAN (50).csv — nuevo evento Nómadas 31 octubre 2026",
+      "source": "Jugadores_OTAN (51).csv — actualización 1 noviembre 2026",
       "data_type": "manual_import",
-      "note": "Insignias Nómadas actualizadas: PIKACHU TOP 1, Lord.Carlos TOP 2 (F), Resurgentee TOP 3 (SF), SIRED EX TOP. Insignias anteriores EX TOP y PAPI DE PAPIS retiradas."
+      "note": "Puntos actualizados; se conservan los jugadores sin puntuación nueva y las insignias existentes."
     },
     "foreigners": {
       "players": [
