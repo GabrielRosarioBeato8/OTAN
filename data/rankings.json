@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-03T00:00:00Z",
+  "updated_at": "2026-11-05T03:47:00Z",
   "events": {
     "samurai": {
       "players": [
@@ -490,38 +490,47 @@
           "points": 1049805496
         },
         {
+          "name": "Gojo Satoru",
+          "points": 551235848
+        },
+        {
           "name": "-KAERION-",
           "points": 392489715
         },
         {
           "name": "CENIZA",
-          "points": 310223132
+          "points": 333513846
         },
         {
           "name": "Félix Gabriel",
-          "points": 260735421
+          "points": 292765178
         },
         {
-          "name": "Gojo Satoru",
-          "points": 199613576
+          "name": "-PIKACHU-",
+          "points": 244497719,
+          "display_name": "-PIKACHU- EX TOP"
+        },
+        {
+          "name": "MAVU",
+          "points": 195352142
+        },
+        {
+          "name": "-valentino-",
+          "points": 192046726,
+          "display_name": "-valentino- TOP 2 LAST EVENT"
         },
         {
           "name": "Wing",
           "points": 184955686
         },
         {
+          "name": "Resurgentee",
+          "points": 181653872,
+          "display_name": "Resurgentee EX TOP (SF)"
+        },
+        {
           "name": "ÊŘŇËŞŢØ",
           "points": 180443565
-        },
-        {
-          "name": "-PIKACHU-",
-          "points": 169089379,
-          "display_name": "-PIKACHU- EX TOP"
-        },
-        {
-          "name": "-valentino-",
-          "points": 168255119,
-          "display_name": "-valentino- TOP 2 LAST EVENT"
         },
         {
           "name": "marta",
@@ -536,41 +545,69 @@
           "points": 148278891
         },
         {
+          "name": "-INMORTAL-",
+          "points": 141791998
+        },
+        {
           "name": "O T A N",
           "points": 130096486,
           "display_name": "O T A N TOP 3 LAST EVENT"
         },
         {
-          "name": "MAVU",
-          "points": 96782093
+          "name": "Spraj",
+          "points": 101599181
+        },
+        {
+          "name": "Lutter",
+          "points": 92556261
+        },
+        {
+          "name": "TUNDRA",
+          "points": 90831285
+        },
+        {
+          "name": "Wilder98",
+          "points": 88697282
+        },
+        {
+          "name": "super insecto",
+          "points": 86659756
         },
         {
           "name": "-Cain-",
           "points": 82137070
         },
         {
-          "name": "Spraj",
-          "points": 53382622
+          "name": "MOAN",
+          "points": 69088171
+        },
+        {
+          "name": "Boot",
+          "points": 67044399
+        },
+        {
+          "name": "Tongui.",
+          "points": 61782716
+        },
+        {
+          "name": "RETAKE",
+          "points": 58286037
         },
         {
           "name": "Belekas",
-          "points": 50104255
+          "points": 57233118
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 56217934
         },
         {
           "name": "BRAVO2-2",
           "points": 41605902
         },
         {
-          "name": "TUNDRA",
-          "points": 32387358
-        },
-        {
-          "name": "super insecto",
-          "points": 24127531
-        },
-        {
-          "name": "MOAN",
-          "points": 15916146
+          "name": "Gamer366",
+          "points": 30826086
         },
         {
           "name": "Félix Gab II",
@@ -585,12 +622,13 @@
           "points": 9669051
         },
         {
-          "name": "Joffre GS",
-          "points": 8773503
+          "name": "-ZEUS-",
+          "points": 9330419,
+          "display_name": "-ZEUS- TOP 1 LAST EVENT"
         },
         {
-          "name": "Gamer366",
-          "points": 5857422
+          "name": "Joffre GS",
+          "points": 8773503
         },
         {
           "name": "Jerryar",
@@ -606,27 +644,11 @@
           "points": 0
         },
         {
-          "name": "V Λ L Σ N ッ",
-          "points": 0
-        },
-        {
-          "name": "Tongui.",
-          "points": 0
-        },
-        {
           "name": "Ricardoo1y02",
           "points": 0
         },
         {
-          "name": "Lutter",
-          "points": 0
-        },
-        {
           "name": "Sanchez",
-          "points": 0
-        },
-        {
-          "name": "Boot",
           "points": 0
         },
         {
@@ -646,15 +668,6 @@
           "points": 0
         },
         {
-          "name": "-INMORTAL-",
-          "points": 0
-        },
-        {
-          "name": "Resurgentee",
-          "points": 0,
-          "display_name": "Resurgentee EX TOP (SF)"
-        },
-        {
           "name": "RYU-KEN",
           "points": 0
         },
@@ -664,10 +677,6 @@
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
-          "points": 0
-        },
-        {
-          "name": "Wilder98",
           "points": 0
         },
         {
@@ -725,16 +734,11 @@
         {
           "name": "Æsr",
           "points": 0
-        },
-        {
-          "name": "-ZEUS-",
-          "points": 0,
-          "display_name": "-ZEUS- TOP 1 LAST EVENT"
         }
       ],
-      "source": "Jugadores_OTAN (53).csv",
+      "source": "Jugadores_OTAN (54).csv",
       "data_type": "new_event",
-      "note": "Nueva tabla basada en jugadores anteriores; puntos del CSV y cero para los demás."
+      "note": "Puntuaciones actualizadas; insignias conservadas y jugadores ausentes del CSV mantenidos sin cambios."
     },
     "ravens": {
       "players": [
