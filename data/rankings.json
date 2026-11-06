@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-06T01:55:00Z",
+  "updated_at": "2026-11-06T16:56:00Z",
   "events": {
     "samurai": {
       "players": [
@@ -499,7 +499,7 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 380756935
+          "points": 415769711
         },
         {
           "name": "CENIZA",
@@ -528,6 +528,10 @@
           "display_name": "-valentino- TOP 2 LAST EVENT"
         },
         {
+          "name": "BRAVO2-2",
+          "points": 191461068
+        },
+        {
           "name": "ÊŘŇËŞŢØ",
           "points": 190459873
         },
@@ -541,16 +545,12 @@
           "display_name": "Resurgentee EX TOP (SF)"
         },
         {
-          "name": "BRAVO2-2",
-          "points": 165285752
+          "name": "Lutter",
+          "points": 164927143
         },
         {
           "name": "marta",
           "points": 160965538
-        },
-        {
-          "name": "Lutter",
-          "points": 152688872
         },
         {
           "name": "Juanmi",
@@ -570,6 +570,10 @@
           "display_name": "O T A N TOP 3 LAST EVENT"
         },
         {
+          "name": "spraj",
+          "points": 118509139
+        },
+        {
           "name": "Fred000",
           "points": 114381927
         },
@@ -582,8 +586,8 @@
           "points": 106616853
         },
         {
-          "name": "spraj",
-          "points": 101599181
+          "name": "Gamer366",
+          "points": 93341866
         },
         {
           "name": "super insecto",
@@ -594,16 +598,12 @@
           "points": 88697282
         },
         {
-          "name": "Gamer366",
-          "points": 85023917
-        },
-        {
           "name": "-Cain-",
           "points": 82137070
         },
         {
           "name": "belekas",
-          "points": 64737597
+          "points": 70070490
         },
         {
           "name": "tongui.",
@@ -618,12 +618,24 @@
           "points": 27464077
         },
         {
+          "name": "La sombra",
+          "points": 27307171
+        },
+        {
           "name": "Joffre GS",
           "points": 23802649
         },
         {
+          "name": "Rittha",
+          "points": 16986872
+        },
+        {
           "name": "spinspin",
           "points": 13175361
+        },
+        {
+          "name": "The Mad King",
+          "points": 12511390
         },
         {
           "name": "Gamboaa",
@@ -639,63 +651,19 @@
           "display_name": "-ZEUS- TOP 1 LAST EVENT"
         },
         {
-          "name": "The Mad King",
-          "points": 6079112
+          "name": "K1ller666",
+          "points": 6519882
         },
         {
           "name": "Ricardoo1y02",
           "points": 3637429
         },
         {
-          "name": "Jaix",
-          "points": 0
-        },
-        {
-          "name": "Sinner",
-          "points": 0
+          "name": "Frankito",
+          "points": 192030
         },
         {
           "name": "RYU-KEN",
-          "points": 0
-        },
-        {
-          "name": "-Monkey-",
-          "points": 0
-        },
-        {
-          "name": "lord erick",
-          "points": 0
-        },
-        {
-          "name": "SULTHAN ASHIQ",
-          "points": 0
-        },
-        {
-          "name": "el baron rojo",
-          "points": 0
-        },
-        {
-          "name": "DragoșDr",
-          "points": 0
-        },
-        {
-          "name": "BlastM",
-          "points": 0
-        },
-        {
-          "name": "-Barines-",
-          "points": 0
-        },
-        {
-          "name": "mario06",
-          "points": 0
-        },
-        {
-          "name": "sanchez",
-          "points": 0
-        },
-        {
-          "name": "La sombra",
           "points": 0
         },
         {
@@ -703,17 +671,57 @@
           "points": 0
         },
         {
+          "name": "-Barines-",
+          "points": 0
+        },
+        {
+          "name": "sanchez",
+          "points": 0
+        },
+        {
+          "name": "BlastM",
+          "points": 0
+        },
+        {
+          "name": "DragoșDr",
+          "points": 0
+        },
+        {
+          "name": "Jaix",
+          "points": 0
+        },
+        {
           "name": "りﾉ丂ムﾑ乇ﾑ",
           "points": 0
         },
         {
-          "name": "Rittha",
+          "name": "-Monkey-",
+          "points": 0
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 0
+        },
+        {
+          "name": "lord erick",
+          "points": 0
+        },
+        {
+          "name": "mario06",
+          "points": 0
+        },
+        {
+          "name": "el baron rojo",
+          "points": 0
+        },
+        {
+          "name": "Sinner",
           "points": 0
         }
       ],
-      "source": "Jugadores_OTAN (55).csv",
-      "data_type": "new_event",
-      "note": "55 jugadores; puntos actualizados, insignias previas conservadas."
+      "source": "dj09ff7s.csv",
+      "data_type": "final",
+      "note": "Resultado final de Invasión Extranjera, 5 de noviembre de 2026; insignias conservadas"
     },
     "ravens": {
       "players": [
