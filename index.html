@@ -8,7 +8,7 @@ function nombreConInsignia(nombre){return nombre;}
 
 async function cargarClasificaciones(){
  try{
-  const respuesta=await fetch('./data/rankings.json?t='+Date.now(),{cache:'no-store'});
+  const respuesta=await fetch('./data/rankings.json?v=extranjeros-final-20261106&t='+Date.now(),{cache:'no-store'});
   if(!respuesta.ok)throw new Error('Sin datos');
   const payload=await respuesta.json();
   for(const nombre of Object.keys(eventos)){if(nombre!=="SAMURÁIS"&&nombre!=="NÓMADAS")eventos[nombre].datos=[];}
