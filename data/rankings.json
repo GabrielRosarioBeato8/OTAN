@@ -1,182 +1,199 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-06T16:56:00Z",
+  "updated_at": "2026-11-07T02:15:00Z",
   "events": {
     "samurai": {
       "players": [
         {
-          "name": "-PIKACHU-",
-          "points": 912036
-        },
-        {
-          "name": "Lord.Carlos",
-          "points": 675014,
-          "display_name": "Lord.Carlos TOP 1 LAST EVENT"
-        },
-        {
           "name": "Resurgentee",
-          "points": 523875,
-          "display_name": "Resurgentee TOP 3 LAST EVENT (F)"
+          "points": 922284,
+          "display_name": "Resurgentee EX TOP (F)"
         },
         {
           "name": "wing",
-          "points": 411211
+          "points": 581889
         },
         {
-          "name": "BRAVO2-2",
-          "points": 262195
+          "name": "Lord.Carlos",
+          "points": 521495
         },
         {
-          "name": "ÊŘŇËŞŢØ",
-          "points": 208288
-        },
-        {
-          "name": "NMR",
-          "points": 179065
-        },
-        {
-          "name": "Lutter",
-          "points": 164822
-        },
-        {
-          "name": "destro",
-          "points": 151686
-        },
-        {
-          "name": "SIRED",
-          "points": 146749,
-          "display_name": "SIRED TOP 2 LAST EVENT"
-        },
-        {
-          "name": "Joffre GS",
-          "points": 141990
-        },
-        {
-          "name": "Rittha",
-          "points": 139479
-        },
-        {
-          "name": "-KAERION-",
-          "points": 129931
-        },
-        {
-          "name": "Félix Gabriel",
-          "points": 122695
-        },
-        {
-          "name": "-valentino-",
-          "points": 118455
-        },
-        {
-          "name": "marta",
-          "points": 116794
-        },
-        {
-          "name": "spraj",
-          "points": 110372
-        },
-        {
-          "name": "Boot",
-          "points": 106254
-        },
-        {
-          "name": "spinspin",
-          "points": 82926
-        },
-        {
-          "name": "-INMORTAL-",
-          "points": 61735
-        },
-        {
-          "name": "Gamer366",
-          "points": 60680
-        },
-        {
-          "name": "MAVU",
-          "points": 60027
-        },
-        {
-          "name": "La sombra",
-          "points": 41691
-        },
-        {
-          "name": "Félix Gab II",
-          "points": 32086
+          "name": "-PIKACHU-",
+          "points": 415000
         },
         {
           "name": "super insecto",
-          "points": 27742
+          "points": 309774
         },
         {
-          "name": "Gojo Satoru",
-          "points": 26956
+          "name": "SIRED",
+          "points": 240972,
+          "display_name": "SIRED TOP 1 LAST EVENT"
         },
         {
-          "name": "tongui.",
-          "points": 25818,
-          "display_name": "tongui. EX TOP"
+          "name": "spraj",
+          "points": 217384
         },
         {
-          "name": "Sinner",
-          "points": 23056
+          "name": "BRAVO2-2",
+          "points": 208472
         },
         {
-          "name": "belekas",
-          "points": 18968
-        },
-        {
-          "name": "SULTHAN ASHIQ",
-          "points": 17586
+          "name": "marta",
+          "points": 207212
         },
         {
           "name": "-Cain-",
-          "points": 13898
+          "points": 205334
         },
         {
-          "name": "CENIZA",
-          "points": 13104
+          "name": "Fred000",
+          "points": 190914
+        },
+        {
+          "name": "MAVU",
+          "points": 172863
+        },
+        {
+          "name": "Lutter",
+          "points": 172261
+        },
+        {
+          "name": "tongui.",
+          "points": 166257
+        },
+        {
+          "name": "ÊŘŇËŞŢØ",
+          "points": 159789
+        },
+        {
+          "name": "RYU-KEN",
+          "points": 134373
+        },
+        {
+          "name": "-valentino-",
+          "points": 132731,
+          "display_name": "-valentino- EX TOP"
+        },
+        {
+          "name": "Frankito",
+          "points": 130236
+        },
+        {
+          "name": "Gamer366",
+          "points": 106997
+        },
+        {
+          "name": "spinspin",
+          "points": 100197
+        },
+        {
+          "name": "NMR",
+          "points": 72361
+        },
+        {
+          "name": "destro",
+          "points": 62712
+        },
+        {
+          "name": "Félix Gabriel",
+          "points": 57142
         },
         {
           "name": "MOAN",
-          "points": 11432
+          "points": 52042
+        },
+        {
+          "name": "-INMORTAL-",
+          "points": 50670
         },
         {
           "name": "TUNDRA",
-          "points": 8868
+          "points": 37499
         },
         {
-          "name": "sanchez",
-          "points": 4993
-        },
-        {
-          "name": "Gamboaa",
-          "points": 2254
+          "name": "Gojo Satoru",
+          "points": 21293,
+          "display_name": "Gojo Satoru TOP 2 LAST EVENT"
         },
         {
           "name": "O T A N",
-          "points": 2127
+          "points": 20771,
+          "display_name": "O T A N EX TOP"
         },
         {
-          "name": "V Λ L Σ N ッ",
-          "points": 1749
+          "name": "el baron rojo",
+          "points": 18855
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 17485
+        },
+        {
+          "name": "CENIZA",
+          "points": 14060
+        },
+        {
+          "name": "belekas",
+          "points": 11041
+        },
+        {
+          "name": "Gamboaa",
+          "points": 1880
+        },
+        {
+          "name": "K1ller666",
+          "points": 1880
+        },
+        {
+          "name": "Boot",
+          "points": 1730
         },
         {
           "name": "Ricardoo1y02",
           "points": 1580
         },
         {
-          "name": "CATACLISMA",
-          "points": 83
+          "name": "Joffre GS",
+          "points": 0
         },
         {
-          "name": "RYU-KEN",
+          "name": "Rittha",
+          "points": 0
+        },
+        {
+          "name": "-KAERION-",
+          "points": 0,
+          "display_name": "-KAERION- TOP 3 LAST EVENT"
+        },
+        {
+          "name": "La sombra",
+          "points": 0
+        },
+        {
+          "name": "Félix Gab II",
+          "points": 0
+        },
+        {
+          "name": "Sinner",
+          "points": 0
+        },
+        {
+          "name": "sanchez",
+          "points": 0
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 0
+        },
+        {
+          "name": "CATACLISMA",
           "points": 0
         },
         {
           "name": "MINUS ONE",
-          "points": 0,
-          "display_name": "MINUS ONE EX TOP"
+          "points": 0
         },
         {
           "name": "wilder98",
@@ -208,7 +225,8 @@
         },
         {
           "name": "-ZEUS-",
-          "points": 0
+          "points": 0,
+          "display_name": "-ZEUS- EX TOP"
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
@@ -227,18 +245,13 @@
           "points": 0
         },
         {
-          "name": "Fred000",
-          "points": 0
-        },
-        {
           "name": "mario06",
           "points": 0
         }
       ],
-      "source": "f8y1u6ev.csv — Samuráis final 31 octubre 2026",
-      "data_type": "manual_import",
-      "zero_points_order": "screenshot OTAN Ranking Pantalla 2026-10-16, order of zero-score members",
-      "note": "Actualización final: 56 miembros, insignias existentes conservadas; otros eventos intactos."
+      "source": "Jugadores_OTAN (56).csv",
+      "data_type": "new_event",
+      "note": "Nueva tabla Samuráis 6 noviembre 2026. 36 jugadores con puntos del CSV; miembros anteriores ausentes conservados con 0 puntos. Insignias transferidas de Extranjeros final."
     },
     "nomads": {
       "players": [
