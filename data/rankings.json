@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-08T23:30:00Z",
+  "updated_at": "2026-11-09T22:00:00Z",
   "events": {
     "samurai": {
       "players": [
@@ -270,12 +270,12 @@
         },
         {
           "name": "-PIKACHU-",
-          "points": 118,
+          "points": 1549402,
           "display_name": "-PIKACHU- TOP 2 LAST EVENT"
         },
         {
           "name": "wing",
-          "points": 2254186,
+          "points": 2336394,
           "display_name": "wing TOP 3 LAST EVENT"
         },
         {
@@ -284,24 +284,24 @@
         },
         {
           "name": "super insecto",
-          "points": 81221
+          "points": 1556726
         },
         {
           "name": "SIRED",
-          "points": 46691648,
+          "points": 46835790,
           "display_name": "SIRED EX TOP"
         },
         {
           "name": "BRAVO2-2",
-          "points": 1587062
+          "points": 1591946
         },
         {
           "name": "spraj",
-          "points": 7218
+          "points": 196075
         },
         {
           "name": "wilder98",
-          "points": 0
+          "points": 2570777
         },
         {
           "name": "marta",
@@ -317,7 +317,7 @@
         },
         {
           "name": "MAVU",
-          "points": 219139
+          "points": 256177
         },
         {
           "name": "Lutter",
@@ -325,7 +325,7 @@
         },
         {
           "name": "tongui.",
-          "points": 33279
+          "points": 42600
         },
         {
           "name": "ÊŘŇËŞŢØ",
@@ -337,7 +337,7 @@
         },
         {
           "name": "Juanmi",
-          "points": 0
+          "points": 2273128
         },
         {
           "name": "Rittha",
@@ -349,44 +349,44 @@
         },
         {
           "name": "Frankito",
-          "points": 2042123
+          "points": 2158645
         },
         {
           "name": "-KAERION-",
-          "points": 0,
+          "points": 2503006,
           "display_name": "-KAERION- EX TOP"
         },
         {
           "name": "Félix Gabriel",
-          "points": 2212433
+          "points": 2704288
         },
         {
           "name": "Gamer366",
-          "points": 383418
+          "points": 634178
         },
         {
           "name": "spinspin",
-          "points": 965637
+          "points": 1325268
         },
         {
           "name": "el baron rojo",
-          "points": 149413
+          "points": 174543
         },
         {
           "name": "destro",
-          "points": 170086
+          "points": 231924
         },
         {
           "name": "Joffre GS",
-          "points": 359880
+          "points": 450212
         },
         {
           "name": "NMR",
-          "points": 11098
+          "points": 23252
         },
         {
           "name": "MOAN",
-          "points": 2152039
+          "points": 2171826
         },
         {
           "name": "-INMORTAL-",
@@ -394,15 +394,15 @@
         },
         {
           "name": "TUNDRA",
-          "points": 907591
+          "points": 1558756
         },
         {
           "name": "SULTHAN ASHIQ",
-          "points": 0
+          "points": 1290511
         },
         {
           "name": "Félix Gab II",
-          "points": 211659
+          "points": 1477714
         },
         {
           "name": "Boot",
@@ -414,12 +414,12 @@
         },
         {
           "name": "Gojo Satoru",
-          "points": 563832,
+          "points": 577993,
           "display_name": "Gojo Satoru EX TOP"
         },
         {
           "name": "belekas",
-          "points": 48101
+          "points": 56719
         },
         {
           "name": "The Mad King",
@@ -427,11 +427,11 @@
         },
         {
           "name": "CENIZA",
-          "points": 12031521
+          "points": 12031693
         },
         {
           "name": "fito",
-          "points": 1013669
+          "points": 1014856
         },
         {
           "name": "Gamboaa",
@@ -443,15 +443,15 @@
         },
         {
           "name": "Ricardoo1y02",
-          "points": 0
+          "points": 97219
         },
         {
           "name": "-ZEUS-",
-          "points": 0
+          "points": 1126406
         },
         {
           "name": "MINUS ONE",
-          "points": 0
+          "points": 35759
         },
         {
           "name": "-Barines-",
@@ -516,11 +516,27 @@
         {
           "name": "LM18",
           "points": 462
+        },
+        {
+          "name": "Rapid Bucuresti",
+          "points": 825838
+        },
+        {
+          "name": "Nikol",
+          "points": 5889
+        },
+        {
+          "name": "Paja2000",
+          "points": 55
+        },
+        {
+          "name": "ÆrchĐemon",
+          "points": 32843
         }
       ],
-      "source": "Jugadores_OTAN (59).csv — 2026-11-08",
+      "source": "Jugadores_OTAN (61).csv — 2026-11-09",
       "data_type": "manual_import",
-      "note": "Actualización de puntos del evento Nómadas; miembros ausentes en el CSV conservados con cero puntos e insignias existentes preservadas."
+      "note": "Actualización de Nómadas: 54 jugadores del CSV; ausentes conservados con 0 puntos e insignias existentes preservadas."
     },
     "foreigners": {
       "players": [
