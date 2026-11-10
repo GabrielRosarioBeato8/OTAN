@@ -30,13 +30,15 @@ async function cargarHistorial(){
  const escapar=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
  const registros=[];
  try{
-  const [antiguo,actuales,nuevoSamurai,samuraiFinal,nomadasPrevios]=await Promise.all([
+  const [antiguo,actuales,nuevoSamurai,samuraiFinal,nomadasPrevios,cuervosPrevios]=await Promise.all([
    fetch('./data/history/samurais-2026-10-17.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
    fetch('./data/history/registros-2026-10-23.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
    fetch('./data/history/samurais-2026-10-27.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
    fetch('./data/history/samurais-2026-10-31-final.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
-   fetch('./data/history/nomadas-2026-11-07-previa.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
+   fetch('./data/history/nomadas-2026-11-07-previa.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
+   fetch('./data/history/cuervos-2026-11-10-previa.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
   ]);
+  if(cuervosPrevios?.players?.length)registros.push({titulo:cuervosPrevios.title,fecha:cuervosPrevios.saved_on,players:cuervosPrevios.players.map(p=>({name:p.display_name||p.name,points:Number(p.points)||0})),clase:'Respaldo anterior a la nueva tabla de Cuervos'});
   if(nomadasPrevios?.players?.length)registros.push({titulo:nomadasPrevios.title,fecha:nomadasPrevios.saved_on,players:nomadasPrevios.players.map(p=>({name:p.display_name||p.name,points:Number(p.points)||0})),clase:'Respaldo anterior a la nueva tabla'});
   if(samuraiFinal?.players?.length)registros.push({titulo:samuraiFinal.title,fecha:samuraiFinal.saved_on,players:samuraiFinal.players,clase:'Clasificación final archivada'});
   if(nuevoSamurai?.players?.length)registros.push({titulo:nuevoSamurai.title,fecha:nuevoSamurai.saved_on,players:nuevoSamurai.players,clase:'Última clasificación disponible'});
