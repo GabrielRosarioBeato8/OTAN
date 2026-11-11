@@ -104,10 +104,12 @@ const fisuraAlternaDatos={bruja:{},dragon:{}};
 function renderFisuraAlterna(){
  const tipo=document.getElementById("fisuraTipo").value;
  document.getElementById("fisuraHongo").classList.toggle("hidden",tipo!=="hongo");
+ document.querySelector("#fisuraHongo .fisura-title").style.background="#20784b";
  document.getElementById("fisuraAlterna").classList.toggle("hidden",tipo==="hongo");
  if(tipo==="hongo")return;
  const nombre=tipo==="bruja"?"BRUJA":"DRAGÓN";
  document.getElementById("fisuraAlternaTitle").textContent="FISURA OTAN | "+nombre;
+ document.getElementById("fisuraAlternaTitle").style.background=tipo==="bruja"?"#9225a8":"#9d351d";
  document.getElementById("fisuraAlternaNote").textContent=tipo==="bruja"?"Nivel 1: mínimo 5 puntos adicionales respecto a los puntos base actuales de Fisura. Pendiente de nueva clasificación.":"Registro de Dragón preparado para los niveles 1 al 12. Pendiente de resultados.";
  const esc=t=>String(t).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
  const jugadores=fisuraData.map(p=>p.name);
