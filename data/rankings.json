@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-11T23:14:00Z",
+  "updated_at": "2026-11-12T23:35:00Z",
   "events": {
     "samurai": {
       "players": [
@@ -783,7 +783,7 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 1611460919
+          "points": 1875000481
         },
         {
           "name": "-KAERION-",
@@ -798,16 +798,20 @@
           "points": 261979167
         },
         {
+          "name": "tongui.",
+          "points": 250379717
+        },
+        {
           "name": "MAVU",
           "points": 241020456
         },
         {
-          "name": "tongui.",
-          "points": 230112383
-        },
-        {
           "name": "O T A N",
           "points": 211041508
+        },
+        {
+          "name": "BRAVO2-2",
+          "points": 200672768
         },
         {
           "name": "super insecto",
@@ -835,57 +839,73 @@
           "points": 188720097
         },
         {
-          "name": "BRAVO2-2",
-          "points": 177922534
+          "name": "Frankito",
+          "points": 175167257
         },
         {
           "name": "Juanmi",
           "points": 170454528
         },
         {
-          "name": "Frankito",
-          "points": 152574553
+          "name": "destro",
+          "points": 133637300
         },
         {
-          "name": "destro",
-          "points": 126818743
+          "name": "SULTHAN ASHIQ",
+          "points": 131176367
+        },
+        {
+          "name": "Lutter",
+          "points": 118814706
+        },
+        {
+          "name": "Gojo Satoru",
+          "points": 115318863
         },
         {
           "name": "fito",
           "points": 114620394
         },
         {
+          "name": "Fred000",
+          "points": 100574927
+        },
+        {
           "name": "La sombra",
           "points": 97883738
         },
         {
-          "name": "SULTHAN ASHIQ",
-          "points": 94571997
-        },
-        {
-          "name": "Gojo Satoru",
-          "points": 86174247
-        },
-        {
-          "name": "Lutter",
-          "points": 85415806
+          "name": "-valentino-",
+          "points": 91072010
         },
         {
           "name": "Lord.Carlos",
-          "points": 71253629,
+          "points": 83656508,
           "display_name": "Lord.Carlos TOP 3 LAST EVENT"
+        },
+        {
+          "name": "K1ller666",
+          "points": 58783831
         },
         {
           "name": "Rittha",
           "points": 58457784
         },
         {
-          "name": "Fred000",
-          "points": 49150164
-        },
-        {
           "name": "spraj",
           "points": 48725058
+        },
+        {
+          "name": "ÆrchĐemon",
+          "points": 46455370
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 44491728
+        },
+        {
+          "name": "Gamer366",
+          "points": 36146123
         },
         {
           "name": "Tiranvs35",
@@ -896,36 +916,36 @@
           "points": 32757215
         },
         {
+          "name": "-ZEUS-",
+          "points": 29238725
+        },
+        {
           "name": "Joffre GS",
-          "points": 27193046
-        },
-        {
-          "name": "ÆrchĐemon",
-          "points": 23104060
-        },
-        {
-          "name": "Gamer366",
-          "points": 20990275
+          "points": 28967144
         },
         {
           "name": "DragoșDr",
           "points": 18019437
         },
         {
-          "name": "TUNDRA",
-          "points": 14382123
+          "name": "BlastM",
+          "points": 16260284
         },
         {
-          "name": "K1ller666",
-          "points": 13127243
+          "name": "TUNDRA",
+          "points": 14382123
         },
         {
           "name": "MOAN",
           "points": 8079087
         },
         {
-          "name": "-ZEUS-",
-          "points": 6246617
+          "name": "Gamboaa",
+          "points": 5369389
+        },
+        {
+          "name": "Ricardoo1y02",
+          "points": 1322207
         },
         {
           "name": "CENIZA",
@@ -934,10 +954,6 @@
         },
         {
           "name": "Nikol",
-          "points": 0
-        },
-        {
-          "name": "-valentino-",
           "points": 0
         },
         {
@@ -954,15 +970,7 @@
           "display_name": "RYU-KEN (PROTECTION MODE)"
         },
         {
-          "name": "V Λ L Σ N ッ",
-          "points": 0
-        },
-        {
           "name": "-Monkey-",
-          "points": 0
-        },
-        {
-          "name": "Gamboaa",
           "points": 0
         },
         {
@@ -1004,10 +1012,6 @@
           "points": 0
         },
         {
-          "name": "BlastM",
-          "points": 0
-        },
-        {
           "name": "-Barines-",
           "points": 0
         },
@@ -1025,10 +1029,6 @@
           "points": 0
         },
         {
-          "name": "Ricardoo1y02",
-          "points": 0
-        },
-        {
           "name": "belekas",
           "points": 0
         },
@@ -1041,9 +1041,9 @@
           "points": 0
         }
       ],
-      "source": "Clasificación Alianza O.T.A.N, Cuervo Sangriento, CSV 11/11/2026",
-      "data_type": "manual_import",
-      "note": "64 jugadores. Insignias heredadas del podio final de Nómadas y de sus insignias previas."
+      "source": "Jugadores_OTAN (69).csv",
+      "data_type": "actualizacion",
+      "note": "64 jugadores de O.T.A.N; puntos del CSV recibido el 12 noviembre 2026. Insignias existentes conservadas."
     }
   }
 }
