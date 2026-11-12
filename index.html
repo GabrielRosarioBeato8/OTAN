@@ -127,7 +127,7 @@ function renderFisuraAlterna(){
  }).join('');
  const totales=Array.from({length:12},(_,j)=>jugadores.filter(n=>registros[n]?.[j]===true).length);
  document.getElementById("fisuraAlternaFoot").innerHTML='<tr><td colspan="2">Jugadores que completaron</td>'+totales.map(n=>'<td>'+n+'</td>').join('')+'<td>'+totales.reduce((a,b)=>a+b,0)+'</td></tr>';
- document.getElementById("fisuraAlternaSummary").textContent=tipo==="bruja"?(totales[0]+" jugadores completaron el nivel 1 de Bruja · "+(jugadores.length-totales[0])+" pendientes · Corte 11/11/2026"):jugadores.length+" jugadores registrados · Aún no hay umbrales confirmados de Dragón.";
+ document.getElementById("fisuraAlternaSummary").textContent=tipo==="bruja"?(totales[4]+" jugadores completaron el nivel 5 de Bruja · "+(jugadores.length-totales[4])+" pendientes · Corte 12/11/2026"):jugadores.length+" jugadores registrados · Aún no hay umbrales confirmados de Dragón.";
 }
 document.getElementById("fisuraTipo").addEventListener("change",renderFisuraAlterna);renderFisuraAlterna();
 
