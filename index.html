@@ -44,6 +44,8 @@ async function cargarHistorial(){
    fetch('./data/history/nomadas-2026-11-07-previa.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
    fetch('./data/history/cuervos-2026-11-10-previa.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
   ]);
+  const cuervosPreFinal=await fetch('./data/history/cuervos-2026-11-13-previa-final.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+  if(cuervosPreFinal?.players?.length)registros.push({titulo:cuervosPreFinal.title,fecha:cuervosPreFinal.saved_on,players:cuervosPreFinal.players.map(p=>({name:p.display_name||p.name,points:Number(p.points)||0})),clase:'Respaldo antes del puntaje final de Cuervos'});
   if(cuervosPrevios?.players?.length)registros.push({titulo:cuervosPrevios.title,fecha:cuervosPrevios.saved_on,players:cuervosPrevios.players.map(p=>({name:p.display_name||p.name,points:Number(p.points)||0})),clase:'Respaldo anterior a la nueva tabla de Cuervos'});
   if(nomadasPrevios?.players?.length)registros.push({titulo:nomadasPrevios.title,fecha:nomadasPrevios.saved_on,players:nomadasPrevios.players.map(p=>({name:p.display_name||p.name,points:Number(p.points)||0})),clase:'Respaldo anterior a la nueva tabla'});
   if(samuraiFinal?.players?.length)registros.push({titulo:samuraiFinal.title,fecha:samuraiFinal.saved_on,players:samuraiFinal.players,clase:'Clasificación final archivada'});
