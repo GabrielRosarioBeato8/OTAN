@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-12T23:35:00Z",
+  "updated_at": "2026-11-13T19:45:00Z",
   "events": {
     "samurai": {
       "players": [
@@ -783,7 +783,7 @@
         },
         {
           "name": "Félix Gabriel",
-          "points": 1875000481
+          "points": 2219339361
         },
         {
           "name": "-KAERION-",
@@ -818,6 +818,10 @@
           "points": 199490999
         },
         {
+          "name": "ÊŘŇËŞŢØ",
+          "points": 194430360
+        },
+        {
           "name": "wing",
           "points": 193924465,
           "display_name": "wing EX TOP"
@@ -825,10 +829,6 @@
         {
           "name": "NMR",
           "points": 191395015
-        },
-        {
-          "name": "ÊŘŇËŞŢØ",
-          "points": 191195397
         },
         {
           "name": "MINUS ONE",
@@ -839,12 +839,25 @@
           "points": 188720097
         },
         {
+          "name": "-valentino-",
+          "points": 188345865
+        },
+        {
+          "name": "Lord.Carlos",
+          "points": 187540250,
+          "display_name": "Lord.Carlos TOP 3 LAST EVENT"
+        },
+        {
           "name": "Frankito",
           "points": 175167257
         },
         {
           "name": "Juanmi",
           "points": 170454528
+        },
+        {
+          "name": "Lutter",
+          "points": 167256708
         },
         {
           "name": "destro",
@@ -855,33 +868,20 @@
           "points": 131176367
         },
         {
-          "name": "Lutter",
-          "points": 118814706
-        },
-        {
           "name": "Gojo Satoru",
-          "points": 115318863
+          "points": 121577029
         },
         {
           "name": "fito",
           "points": 114620394
         },
         {
+          "name": "La sombra",
+          "points": 112549298
+        },
+        {
           "name": "Fred000",
           "points": 100574927
-        },
-        {
-          "name": "La sombra",
-          "points": 97883738
-        },
-        {
-          "name": "-valentino-",
-          "points": 91072010
-        },
-        {
-          "name": "Lord.Carlos",
-          "points": 83656508,
-          "display_name": "Lord.Carlos TOP 3 LAST EVENT"
         },
         {
           "name": "K1ller666",
@@ -892,20 +892,20 @@
           "points": 58457784
         },
         {
+          "name": "ÆrchĐemon",
+          "points": 52893246
+        },
+        {
+          "name": "Gamer366",
+          "points": 50504030
+        },
+        {
           "name": "spraj",
           "points": 48725058
         },
         {
-          "name": "ÆrchĐemon",
-          "points": 46455370
-        },
-        {
           "name": "V Λ L Σ N ッ",
           "points": 44491728
-        },
-        {
-          "name": "Gamer366",
-          "points": 36146123
         },
         {
           "name": "Tiranvs35",
@@ -940,8 +940,16 @@
           "points": 8079087
         },
         {
+          "name": "belekas",
+          "points": 7997180
+        },
+        {
           "name": "Gamboaa",
           "points": 5369389
+        },
+        {
+          "name": "spinspin",
+          "points": 3749971
         },
         {
           "name": "Ricardoo1y02",
@@ -987,10 +995,6 @@
           "display_name": "Resurgentee EX TOP"
         },
         {
-          "name": "spinspin",
-          "points": 0
-        },
-        {
           "name": "The Mad King",
           "points": 0
         },
@@ -1029,10 +1033,6 @@
           "points": 0
         },
         {
-          "name": "belekas",
-          "points": 0
-        },
-        {
           "name": "りﾉ丂ムﾑ乇ﾑ",
           "points": 0
         },
@@ -1041,9 +1041,9 @@
           "points": 0
         }
       ],
-      "source": "Jugadores_OTAN (69).csv",
-      "data_type": "actualizacion",
-      "note": "64 jugadores de O.T.A.N; puntos del CSV recibido el 12 noviembre 2026. Insignias existentes conservadas."
+      "source": "ai92nd7o.csv — puntaje final 2026-11-12",
+      "data_type": "final",
+      "note": "64 miembros; última fila del CSV de seguimiento. Insignias previas conservadas. Corte final de Cuervos."
     }
   }
 }
