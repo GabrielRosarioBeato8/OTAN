@@ -7,18 +7,15 @@
       "players": [
         {
           "name": "ÊŘŇËŞŢØ",
-          "points": 593667,
-          "display_name": "ÊŘŇËŞŢØ TOP 1 LAST EVENT"
+          "points": 593667
         },
         {
           "name": "Lutter",
-          "points": 178735,
-          "display_name": "Lutter TOP 2 LAST EVENT"
+          "points": 178735
         },
         {
           "name": "tongui.",
-          "points": 172641,
-          "display_name": "tongui. TOP 3 LAST EVENT"
+          "points": 172641
         },
         {
           "name": "Resurgentee",
@@ -35,7 +32,7 @@
         {
           "name": "Félix Gabriel",
           "points": 109331,
-          "display_name": "Félix Gabriel EX TOP"
+          "display_name": "Félix Gabriel TOP 2 LAST EVENT"
         },
         {
           "name": "marta",
@@ -99,7 +96,8 @@
         },
         {
           "name": "Lord.Carlos",
-          "points": 0
+          "points": 0,
+          "display_name": "Lord.Carlos EX TOP"
         },
         {
           "name": "super insecto",
@@ -108,7 +106,7 @@
         {
           "name": "SIRED",
           "points": 0,
-          "display_name": "SIRED EX TOP (F)"
+          "display_name": "SIRED TOP 1 LAST EVENT (F)"
         },
         {
           "name": "spraj",
@@ -145,7 +143,7 @@
         {
           "name": "-KAERION-",
           "points": 0,
-          "display_name": "-KAERION- EX TOP"
+          "display_name": "-KAERION- TOP 3 LAST EVENT"
         },
         {
           "name": "Gamer366",
@@ -177,7 +175,8 @@
         },
         {
           "name": "CENIZA",
-          "points": 0
+          "points": 0,
+          "display_name": "CENIZA EX TOP"
         },
         {
           "name": "Gamboaa",
@@ -262,7 +261,7 @@
       ],
       "source": "Jugadores_OTAN (71).csv — 22 jugadores",
       "data_type": "partial",
-      "note": "22 jugadores con puntos del CSV; demás miembros 0 (no mezclar puntos del evento anterior). Insignias derivadas del último Cuervos; sin PROTECTION MODE."
+      "note": "22 puntajes actuales del archivo (71); resto 0. Insignias heredadas del podio FINAL de Cuervos (SIRED, Félix Gabriel, -KAERION-), no del podio provisional de Samuráis. Sin PROTECTION MODE."
     },
     "nomads": {
       "players": [
