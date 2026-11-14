@@ -6,17 +6,9 @@
     "samurai": {
       "players": [
         {
-          "name": "Resurgentee",
-          "points": 922284,
-          "display_name": "Resurgentee EX TOP (F)"
-        },
-        {
-          "name": "-PIKACHU-",
-          "points": 701000
-        },
-        {
-          "name": "wing",
-          "points": 613612
+          "name": "ÊŘŇËŞŢØ",
+          "points": 593667,
+          "display_name": "ÊŘŇËŞŢØ TOP 1 LAST EVENT"
         },
         {
           "name": "Lord.Carlos",
@@ -29,11 +21,7 @@
         {
           "name": "SIRED",
           "points": 243462,
-          "display_name": "SIRED TOP 1 LAST EVENT"
-        },
-        {
-          "name": "BRAVO2-2",
-          "points": 243182
+          "display_name": "SIRED EX TOP (F)"
         },
         {
           "name": "spraj",
@@ -44,10 +32,6 @@
           "points": 212439
         },
         {
-          "name": "marta",
-          "points": 207212
-        },
-        {
           "name": "-Cain-",
           "points": 205334
         },
@@ -56,24 +40,26 @@
           "points": 190914
         },
         {
-          "name": "MAVU",
-          "points": 172863
-        },
-        {
           "name": "Lutter",
-          "points": 172261
+          "points": 178735,
+          "display_name": "Lutter TOP 2 LAST EVENT"
         },
         {
           "name": "tongui.",
-          "points": 166257
-        },
-        {
-          "name": "ÊŘŇËŞŢØ",
-          "points": 163075
+          "points": 172641,
+          "display_name": "tongui. TOP 3 LAST EVENT"
         },
         {
           "name": "RYU-KEN",
           "points": 158622
+        },
+        {
+          "name": "Resurgentee",
+          "points": 154494
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 151020
         },
         {
           "name": "Juanmi",
@@ -85,79 +71,69 @@
         },
         {
           "name": "-valentino-",
-          "points": 132731,
-          "display_name": "-valentino- EX TOP"
+          "points": 132731
         },
         {
-          "name": "Frankito",
-          "points": 130236
+          "name": "MOAN",
+          "points": 123912
         },
         {
           "name": "-KAERION-",
           "points": 115472,
-          "display_name": "-KAERION- TOP 3 LAST EVENT"
+          "display_name": "-KAERION- EX TOP"
         },
         {
           "name": "Félix Gabriel",
-          "points": 112318
+          "points": 109331,
+          "display_name": "Félix Gabriel EX TOP"
         },
         {
           "name": "Gamer366",
           "points": 106997
         },
         {
-          "name": "spinspin",
-          "points": 100197
+          "name": "marta",
+          "points": 106615
         },
         {
           "name": "el baron rojo",
           "points": 91634
         },
         {
-          "name": "destro",
-          "points": 87381
-        },
-        {
-          "name": "Joffre GS",
-          "points": 82795
+          "name": "O T A N",
+          "points": 76817
         },
         {
           "name": "NMR",
           "points": 72361
         },
         {
-          "name": "MOAN",
-          "points": 56374
-        },
-        {
           "name": "-INMORTAL-",
           "points": 50670
         },
         {
-          "name": "TUNDRA",
-          "points": 49404
+          "name": "Joffre GS",
+          "points": 49482
         },
         {
-          "name": "SULTHAN ASHIQ",
-          "points": 44889
+          "name": "Boot",
+          "points": 46468
         },
         {
           "name": "Félix Gab II",
           "points": 41202
         },
         {
-          "name": "Boot",
-          "points": 29070
+          "name": "wing",
+          "points": 35918
         },
         {
-          "name": "O T A N",
-          "points": 28205,
-          "display_name": "O T A N EX TOP"
+          "name": "BRAVO2-2",
+          "points": 35776
         },
         {
-          "name": "Gojo Satoru",
-          "points": 21293,
-          "display_name": "Gojo Satoru TOP 2 LAST EVENT"
+          "name": "-PIKACHU-",
+          "points": 20710
         },
         {
           "name": "belekas",
@@ -168,12 +144,32 @@
           "points": 19360
         },
         {
+          "name": "Frankito",
+          "points": 18157
+        },
+        {
           "name": "CENIZA",
           "points": 15745
         },
         {
           "name": "fito",
-          "points": 11172
+          "points": 14871
+        },
+        {
+          "name": "spinspin",
+          "points": 13844
+        },
+        {
+          "name": "ÆrchĐemon",
+          "points": 11624
+        },
+        {
+          "name": "TUNDRA",
+          "points": 10210
+        },
+        {
+          "name": "destro",
+          "points": 2507
         },
         {
           "name": "Gamboaa",
@@ -188,9 +184,16 @@
           "points": 1580
         },
         {
+          "name": "MAVU",
+          "points": 1019
+        },
+        {
           "name": "-ZEUS-",
-          "points": 683,
-          "display_name": "-ZEUS- EX TOP"
+          "points": 683
+        },
+        {
+          "name": "Gojo Satoru",
+          "points": 471
         },
         {
           "name": "MINUS ONE",
@@ -257,9 +260,9 @@
           "points": 0
         }
       ],
-      "source": "3zil9y04k.csv",
-      "data_type": "final",
-      "note": "Resultado final de Samuráis, 6 noviembre 2026. Puntos exactos de la última fila del CSV. Insignias conservadas; jugadores anteriores ausentes conservados con 0 puntos."
+      "source": "Jugadores_OTAN (71).csv — 22 jugadores",
+      "data_type": "partial",
+      "note": "Actualizados únicamente los puntos de 22 jugadores del CSV; puntos anteriores del resto conservados. Insignias recalculadas tras Cuervos; sin PROTECTION MODE."
     },
     "nomads": {
       "players": [
