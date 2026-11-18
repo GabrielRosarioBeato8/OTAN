@@ -44,6 +44,8 @@ async function cargarHistorial(){
    fetch('./data/history/nomadas-2026-11-07-previa.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
    fetch('./data/history/cuervos-2026-11-10-previa.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
   ]);
+  const extranjerosRespaldo17=await fetch('./data/history/extranjeros-2026-11-17-previa.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+  if(extranjerosRespaldo17?.players?.length)registros.push({titulo:extranjerosRespaldo17.title,fecha:extranjerosRespaldo17.saved_on,players:extranjerosRespaldo17.players.map(p=>({name:p.display_name||p.name,points:Number(p.points)||0})),clase:'Respaldo antes de actualizar Extranjeros'});
   const nomadasRespaldo16=await fetch('./data/history/nomadas-2026-11-16-previa.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
   if(nomadasRespaldo16?.players?.length)registros.push({titulo:nomadasRespaldo16.title,fecha:nomadasRespaldo16.saved_on,players:nomadasRespaldo16.players.map(p=>({name:p.display_name||p.name,points:Number(p.points)||0})),clase:'Respaldo antes de actualizar Nómadas'});
   const nomadasRespaldo15=await fetch('./data/history/nomadas-2026-11-15-previa.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
