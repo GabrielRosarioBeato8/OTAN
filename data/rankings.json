@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-18T03:53:02.135Z",
+  "updated_at": "2026-11-18T03:57:42.771Z",
   "events": {
     "samurai": {
       "players": [
@@ -271,7 +271,7 @@
       "players": [
         {
           "name": "wing",
-          "points": 4338300
+          "points": 4389009
         },
         {
           "name": "SULTHAN ASHIQ",
@@ -353,7 +353,7 @@
         },
         {
           "name": "super insecto",
-          "points": 655706,
+          "points": 656339,
           "display_name": "super insecto TOP 3 LAST EVENT"
         },
         {
@@ -409,7 +409,7 @@
         },
         {
           "name": "Boot",
-          "points": 39295
+          "points": 105890
         },
         {
           "name": "La sombra",
@@ -496,9 +496,9 @@
           "points": 0
         }
       ],
-      "source": "Jugadores_OTAN (74).csv",
-      "data_type": "partial_rankings",
-      "note": "Actualización parcial de 31 puntajes el 16/11/2026; otros jugadores conservan su puntaje anterior."
+      "source": "6kerc9pa.csv",
+      "data_type": "final",
+      "note": "Puntos finales del último corte del CSV; se mantienen los 55 miembros y las insignias existentes. Los 9 jugadores ausentes del archivo conservan sus últimos puntos registrados."
     },
     "foreigners": {
       "players": [
