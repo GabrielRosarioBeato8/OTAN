@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-18T04:07:35.821Z",
+  "updated_at": "2026-11-18T23:33:13.718Z",
   "events": {
     "samurai": {
       "players": [
@@ -503,48 +503,89 @@
     "foreigners": {
       "players": [
         {
+          "name": "SIRED",
+          "points": 523768556,
+          "display_name": "SIRED EX TOP"
+        },
+        {
+          "name": "Félix Gabriel",
+          "points": 318017636,
+          "display_name": "Félix Gabriel EX TOP (F)"
+        },
+        {
+          "name": "wilder98",
+          "points": 295502707
+        },
+        {
+          "name": "MAVU",
+          "points": 272215473
+        },
+        {
           "name": "wing",
           "points": 217726454,
           "display_name": "wing TOP 2 LAST EVENT"
         },
         {
+          "name": "-KAERION-",
+          "points": 202996027
+        },
+        {
           "name": "ÊŘŇËŞŢØ",
-          "points": 132267094,
+          "points": 185998622,
           "display_name": "ÊŘŇËŞŢØ EX TOP"
         },
         {
-          "name": "SIRED",
-          "points": 132236012,
-          "display_name": "SIRED EX TOP"
-        },
-        {
-          "name": "Félix Gabriel",
-          "points": 123404226,
-          "display_name": "Félix Gabriel EX TOP (F)"
-        },
-        {
-          "name": "MAVU",
-          "points": 122416333
+          "name": "destro",
+          "points": 127786763
         },
         {
           "name": "-INMORTAL-",
           "points": 118430235
         },
         {
-          "name": "destro",
-          "points": 112827815
+          "name": "tongui.",
+          "points": 93339410
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
-          "points": 45561064
+          "points": 89133043
+        },
+        {
+          "name": "NMR",
+          "points": 79293828
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 78703201,
+          "display_name": "SULTHAN ASHIQ TOP 3 LAST EVENT"
         },
         {
           "name": "Resurgentee",
-          "points": 45070316
+          "points": 76079256
+        },
+        {
+          "name": "Gamer366",
+          "points": 75325125
+        },
+        {
+          "name": "Juanmi",
+          "points": 70258078
+        },
+        {
+          "name": "Lutter",
+          "points": 60171401
         },
         {
           "name": "MOAN",
-          "points": 40814411
+          "points": 51472837
+        },
+        {
+          "name": "TUNDRA",
+          "points": 43944711
+        },
+        {
+          "name": "Gojo Satoru",
+          "points": 40673807
         },
         {
           "name": "super insecto",
@@ -556,40 +597,32 @@
           "points": 30496057
         },
         {
-          "name": "tongui.",
-          "points": 25328301
-        },
-        {
-          "name": "Gamer366",
-          "points": 21859799
-        },
-        {
           "name": "spraj",
           "points": 21701200
         },
         {
-          "name": "TUNDRA",
-          "points": 18224236
+          "name": "Fred000",
+          "points": 21651973
         },
         {
-          "name": "Gojo Satoru",
-          "points": 13469503
+          "name": "Joffre GS",
+          "points": 15915640
         },
         {
-          "name": "Lutter",
-          "points": 7118041
+          "name": "RETAKE",
+          "points": 13350814
         },
         {
-          "name": "-KAERION-",
-          "points": 0
+          "name": "sanchez",
+          "points": 8596920
         },
         {
-          "name": "wilder98",
-          "points": 0
+          "name": "-ZEUS-",
+          "points": 5609079
         },
         {
-          "name": "Juanmi",
-          "points": 0
+          "name": "spinspin",
+          "points": 5581014
         },
         {
           "name": "Félix Gab II",
@@ -597,10 +630,6 @@
         },
         {
           "name": "V Λ L Σ N ッ",
-          "points": 0
-        },
-        {
-          "name": "Fred000",
           "points": 0
         },
         {
@@ -616,19 +645,6 @@
           "points": 0
         },
         {
-          "name": "SULTHAN ASHIQ",
-          "points": 0,
-          "display_name": "SULTHAN ASHIQ TOP 3 LAST EVENT"
-        },
-        {
-          "name": "-ZEUS-",
-          "points": 0
-        },
-        {
-          "name": "spinspin",
-          "points": 0
-        },
-        {
           "name": "The Mad King",
           "points": 0
         },
@@ -637,15 +653,7 @@
           "points": 0
         },
         {
-          "name": "Joffre GS",
-          "points": 0
-        },
-        {
           "name": "DragoșDr",
-          "points": 0
-        },
-        {
-          "name": "RETAKE",
           "points": 0
         },
         {
@@ -657,19 +665,7 @@
           "points": 0
         },
         {
-          "name": "-PIKACHU-",
-          "points": 0
-        },
-        {
-          "name": "sanchez",
-          "points": 0
-        },
-        {
           "name": "La sombra",
-          "points": 0
-        },
-        {
-          "name": "NMR",
           "points": 0
         },
         {
