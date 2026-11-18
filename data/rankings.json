@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-18T03:57:42.771Z",
+  "updated_at": "2026-11-18T04:07:35.821Z",
   "events": {
     "samurai": {
       "players": [
@@ -504,15 +504,18 @@
       "players": [
         {
           "name": "wing",
-          "points": 217726454
+          "points": 217726454,
+          "display_name": "wing TOP 2 LAST EVENT"
         },
         {
           "name": "ÊŘŇËŞŢØ",
-          "points": 132267094
+          "points": 132267094,
+          "display_name": "ÊŘŇËŞŢØ EX TOP"
         },
         {
           "name": "SIRED",
-          "points": 132236012
+          "points": 132236012,
+          "display_name": "SIRED EX TOP"
         },
         {
           "name": "Félix Gabriel",
@@ -545,7 +548,8 @@
         },
         {
           "name": "super insecto",
-          "points": 36715066
+          "points": 36715066,
+          "display_name": "super insecto EX TOP"
         },
         {
           "name": "O T A N",
@@ -613,7 +617,8 @@
         },
         {
           "name": "SULTHAN ASHIQ",
-          "points": 0
+          "points": 0,
+          "display_name": "SULTHAN ASHIQ TOP 3 LAST EVENT"
         },
         {
           "name": "-ZEUS-",
