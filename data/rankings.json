@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-18T23:33:13.718Z",
+  "updated_at": "2026-11-20T03:16:29.631Z",
   "events": {
     "samurai": {
       "players": [
@@ -503,6 +503,10 @@
     "foreigners": {
       "players": [
         {
+          "name": "MAVU",
+          "points": 526205669
+        },
+        {
           "name": "SIRED",
           "points": 523768556,
           "display_name": "SIRED EX TOP"
@@ -517,10 +521,6 @@
           "points": 295502707
         },
         {
-          "name": "MAVU",
-          "points": 272215473
-        },
-        {
           "name": "wing",
           "points": 217726454,
           "display_name": "wing TOP 2 LAST EVENT"
@@ -531,94 +531,118 @@
         },
         {
           "name": "ÊŘŇËŞŢØ",
-          "points": 185998622,
+          "points": 192618752,
           "display_name": "ÊŘŇËŞŢØ EX TOP"
         },
         {
-          "name": "destro",
-          "points": 127786763
-        },
-        {
-          "name": "-INMORTAL-",
-          "points": 118430235
+          "name": "りﾉ丂ムﾑ乇ﾑ",
+          "points": 180098827
         },
         {
           "name": "tongui.",
-          "points": 93339410
+          "points": 164269576
         },
         {
-          "name": "りﾉ丂ムﾑ乇ﾑ",
-          "points": 89133043
+          "name": "-INMORTAL-",
+          "points": 164075487
+        },
+        {
+          "name": "destro",
+          "points": 148747425
         },
         {
           "name": "NMR",
-          "points": 79293828
+          "points": 146694921
+        },
+        {
+          "name": "Gojo Satoru",
+          "points": 129695711
+        },
+        {
+          "name": "Lutter",
+          "points": 116143202
+        },
+        {
+          "name": "TUNDRA",
+          "points": 113886871
+        },
+        {
+          "name": "MOAN",
+          "points": 108129711
+        },
+        {
+          "name": "Juanmi",
+          "points": 107409305
         },
         {
           "name": "SULTHAN ASHIQ",
-          "points": 78703201,
+          "points": 105912400,
           "display_name": "SULTHAN ASHIQ TOP 3 LAST EVENT"
+        },
+        {
+          "name": "La sombra",
+          "points": 100153509
+        },
+        {
+          "name": "Gamer366",
+          "points": 91142421
+        },
+        {
+          "name": "Fred000",
+          "points": 89757139
+        },
+        {
+          "name": "MINUS ONE",
+          "points": 82374336
         },
         {
           "name": "Resurgentee",
           "points": 76079256
         },
         {
-          "name": "Gamer366",
-          "points": 75325125
-        },
-        {
-          "name": "Juanmi",
-          "points": 70258078
-        },
-        {
-          "name": "Lutter",
-          "points": 60171401
-        },
-        {
-          "name": "MOAN",
-          "points": 51472837
-        },
-        {
-          "name": "TUNDRA",
-          "points": 43944711
-        },
-        {
-          "name": "Gojo Satoru",
-          "points": 40673807
+          "name": "RETAKE",
+          "points": 65110644
         },
         {
           "name": "super insecto",
-          "points": 36715066,
+          "points": 63755552,
           "display_name": "super insecto EX TOP"
         },
         {
           "name": "O T A N",
-          "points": 30496057
+          "points": 43300914
         },
         {
           "name": "spraj",
-          "points": 21701200
-        },
-        {
-          "name": "Fred000",
-          "points": 21651973
+          "points": 42057298
         },
         {
           "name": "Joffre GS",
-          "points": 15915640
+          "points": 36792179
         },
         {
-          "name": "RETAKE",
-          "points": 13350814
+          "name": "-ZEUS-",
+          "points": 30322764
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 19771581
+        },
+        {
+          "name": "A Little Death",
+          "points": 18781877
+        },
+        {
+          "name": "Boot",
+          "points": 13371737
+        },
+        {
+          "name": "K1ller666",
+          "points": 9183428
         },
         {
           "name": "sanchez",
           "points": 8596920
-        },
-        {
-          "name": "-ZEUS-",
-          "points": 5609079
         },
         {
           "name": "spinspin",
@@ -626,10 +650,6 @@
         },
         {
           "name": "Félix Gab II",
-          "points": 0
-        },
-        {
-          "name": "V Λ L Σ N ッ",
           "points": 0
         },
         {
@@ -649,10 +669,6 @@
           "points": 0
         },
         {
-          "name": "el baron rojo",
-          "points": 0
-        },
-        {
           "name": "DragoșDr",
           "points": 0
         },
@@ -665,15 +681,7 @@
           "points": 0
         },
         {
-          "name": "La sombra",
-          "points": 0
-        },
-        {
           "name": "Ricardoo1y02",
-          "points": 0
-        },
-        {
-          "name": "K1ller666",
           "points": 0
         },
         {
@@ -681,17 +689,13 @@
           "points": 0
         },
         {
-          "name": "MINUS ONE",
-          "points": 0
-        },
-        {
-          "name": "Boot",
+          "name": "el baron rojo",
           "points": 0
         }
       ],
-      "source": "Jugadores_OTAN_46.csv",
+      "source": "Jugadores_OTAN_45 (2).csv",
       "data_type": "partial",
-      "note": "46 jugadores del archivo; únicamente Félix Gabriel conserva EX TOP (F). Tabla anterior guardada en historial."
+      "note": "45 puntajes del archivo. Se conserva el registro de el baron rojo, ausente del archivo, y las insignias existentes."
     },
     "ravens": {
       "players": [
