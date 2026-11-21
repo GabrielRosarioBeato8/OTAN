@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-20T03:16:29.631Z",
+  "updated_at": "2026-11-21T01:42:20.851Z",
   "events": {
     "samurai": {
       "players": [
@@ -559,12 +559,20 @@
           "points": 129695711
         },
         {
+          "name": "MINUS ONE",
+          "points": 124972468
+        },
+        {
           "name": "Lutter",
           "points": 116143202
         },
         {
           "name": "TUNDRA",
           "points": 113886871
+        },
+        {
+          "name": "Gamer366",
+          "points": 113637469
         },
         {
           "name": "MOAN",
@@ -584,20 +592,16 @@
           "points": 100153509
         },
         {
-          "name": "Gamer366",
-          "points": 91142421
-        },
-        {
           "name": "Fred000",
           "points": 89757139
         },
         {
-          "name": "MINUS ONE",
-          "points": 82374336
-        },
-        {
           "name": "Resurgentee",
           "points": 76079256
+        },
+        {
+          "name": "spinspin",
+          "points": 70004136
         },
         {
           "name": "RETAKE",
@@ -609,20 +613,20 @@
           "display_name": "super insecto EX TOP"
         },
         {
+          "name": "spraj",
+          "points": 47677703
+        },
+        {
           "name": "O T A N",
           "points": 43300914
         },
         {
-          "name": "spraj",
-          "points": 42057298
+          "name": "-ZEUS-",
+          "points": 40946645
         },
         {
           "name": "Joffre GS",
           "points": 36792179
-        },
-        {
-          "name": "-ZEUS-",
-          "points": 30322764
         },
         {
           "name": "V Λ L Σ N ッ",
@@ -637,6 +641,10 @@
           "points": 13371737
         },
         {
+          "name": "The Mad King",
+          "points": 10450318
+        },
+        {
           "name": "K1ller666",
           "points": 9183428
         },
@@ -645,27 +653,15 @@
           "points": 8596920
         },
         {
-          "name": "spinspin",
-          "points": 5581014
-        },
-        {
-          "name": "Félix Gab II",
+          "name": "CENIZA",
           "points": 0
         },
         {
-          "name": "-Monkey-",
+          "name": "-Barines-",
           "points": 0
         },
         {
           "name": "Gamboaa",
-          "points": 0
-        },
-        {
-          "name": "lord erick",
-          "points": 0
-        },
-        {
-          "name": "The Mad King",
           "points": 0
         },
         {
@@ -677,25 +673,25 @@
           "points": 0
         },
         {
-          "name": "-Barines-",
+          "name": "Félix Gab II",
+          "points": 0
+        },
+        {
+          "name": "-Monkey-",
+          "points": 0
+        },
+        {
+          "name": "lord erick",
           "points": 0
         },
         {
           "name": "Ricardoo1y02",
           "points": 0
-        },
-        {
-          "name": "CENIZA",
-          "points": 0
-        },
-        {
-          "name": "el baron rojo",
-          "points": 0
         }
       ],
-      "source": "Jugadores_OTAN_45 (2).csv",
-      "data_type": "partial",
-      "note": "45 puntajes del archivo. Se conserva el registro de el baron rojo, ausente del archivo, y las insignias existentes."
+      "source": "fbkk9941h.csv",
+      "data_type": "final",
+      "note": "45 miembros del archivo final. Las nueve columnas sin puntuación se registran con 0 puntos."
     },
     "ravens": {
       "players": [
