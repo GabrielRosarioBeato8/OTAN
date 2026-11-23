@@ -1,0 +1,194 @@
+{
+  "players": [
+    {
+      "name": "wing",
+      "points": 3549661
+    },
+    {
+      "name": "V Λ L Σ N ッ",
+      "points": 3172066
+    },
+    {
+      "name": "SIRED",
+      "points": 374593,
+      "display_name": "SIRED EX TOP"
+    },
+    {
+      "name": "りﾉ丂ムﾑ乇ﾑ",
+      "points": 337623
+    },
+    {
+      "name": "spinspin",
+      "points": 244642
+    },
+    {
+      "name": "spraj",
+      "points": 214310
+    },
+    {
+      "name": "destro",
+      "points": 209308
+    },
+    {
+      "name": "La sombra",
+      "points": 104394
+    },
+    {
+      "name": "Félix Gabriel",
+      "points": 85208,
+      "display_name": "Félix Gabriel EX TOP"
+    },
+    {
+      "name": "-KAERION-",
+      "points": 73508
+    },
+    {
+      "name": "Boot",
+      "points": 50590,
+      "display_name": "Boot TOP 2 LAST EVENT"
+    },
+    {
+      "name": "tongui.",
+      "points": 40068
+    },
+    {
+      "name": "lord erick",
+      "points": 33805
+    },
+    {
+      "name": "MAVU",
+      "points": 19266,
+      "display_name": "MAVU TOP 1 LAST EVENT (F)"
+    },
+    {
+      "name": "SULTHAN ASHIQ",
+      "points": 19176
+    },
+    {
+      "name": "RETAKE",
+      "points": 16685
+    },
+    {
+      "name": "Resurgentee",
+      "points": 11679,
+      "display_name": "Resurgentee TOP 3 LAST EVENT"
+    },
+    {
+      "name": "CENIZA",
+      "points": 10099
+    },
+    {
+      "name": "Gamer366",
+      "points": 8368
+    },
+    {
+      "name": "-Barines-",
+      "points": 4157
+    },
+    {
+      "name": "K1ller666",
+      "points": 2674
+    },
+    {
+      "name": "super insecto",
+      "points": 1838
+    },
+    {
+      "name": "-INMORTAL-",
+      "points": 1583
+    },
+    {
+      "name": "The Mad King",
+      "points": 1311
+    },
+    {
+      "name": "sanchez",
+      "points": 674
+    },
+    {
+      "name": "MINUS ONE",
+      "points": 301
+    },
+    {
+      "name": "ÊŘŇËŞŢØ",
+      "points": 0
+    },
+    {
+      "name": "Lutter",
+      "points": 0
+    },
+    {
+      "name": "NMR",
+      "points": 0
+    },
+    {
+      "name": "-ZEUS-",
+      "points": 0
+    },
+    {
+      "name": "Joffre GS",
+      "points": 0
+    },
+    {
+      "name": "TUNDRA",
+      "points": 0
+    },
+    {
+      "name": "Fred000",
+      "points": 0
+    },
+    {
+      "name": "MOAN",
+      "points": 0
+    },
+    {
+      "name": "O T A N",
+      "points": 0
+    },
+    {
+      "name": "Gojo Satoru",
+      "points": 0
+    },
+    {
+      "name": "wilder98",
+      "points": 0
+    },
+    {
+      "name": "Juanmi",
+      "points": 0
+    },
+    {
+      "name": "A Little Death",
+      "points": 0
+    },
+    {
+      "name": "Gamboaa",
+      "points": 0
+    },
+    {
+      "name": "DragoșDr",
+      "points": 0
+    },
+    {
+      "name": "BlastM",
+      "points": 0
+    },
+    {
+      "name": "Félix Gab II",
+      "points": 0
+    },
+    {
+      "name": "-Monkey-",
+      "points": 0
+    },
+    {
+      "name": "Ricardoo1y02",
+      "points": 0
+    }
+  ],
+  "source": "Jugadores_OTAN (77).csv",
+  "data_type": "partial",
+  "note": "Corte parcial: se incorporan los puntos de 23 jugadores del CSV. Los demás conservan su último puntaje registrado. Insignias del cierre de Samuráis.",
+  "title": "Invasión Nómada · corte previo a la segunda actualización",
+  "saved_on": "22/11/2026"
+}
