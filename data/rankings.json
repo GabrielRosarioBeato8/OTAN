@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-22T05:28:07.974Z",
+  "updated_at": "2026-11-23T03:51:30.365Z",
   "events": {
     "samurai": {
       "players": [
@@ -203,7 +203,12 @@
         },
         {
           "name": "V Λ L Σ N ッ",
-          "points": 2779966
+          "points": 3172066
+        },
+        {
+          "name": "SIRED",
+          "points": 374593,
+          "display_name": "SIRED EX TOP"
         },
         {
           "name": "りﾉ丂ムﾑ乇ﾑ",
@@ -215,29 +220,46 @@
         },
         {
           "name": "spraj",
-          "points": 186504
+          "points": 214310
+        },
+        {
+          "name": "destro",
+          "points": 209308
         },
         {
           "name": "La sombra",
           "points": 104394
         },
         {
-          "name": "Boot",
-          "points": 50291,
-          "display_name": "Boot TOP 2 LAST EVENT"
+          "name": "Félix Gabriel",
+          "points": 85208,
+          "display_name": "Félix Gabriel EX TOP"
         },
         {
           "name": "-KAERION-",
-          "points": 25515
+          "points": 73508
+        },
+        {
+          "name": "Boot",
+          "points": 50590,
+          "display_name": "Boot TOP 2 LAST EVENT"
         },
         {
           "name": "tongui.",
-          "points": 24842
+          "points": 40068
+        },
+        {
+          "name": "lord erick",
+          "points": 33805
         },
         {
           "name": "MAVU",
           "points": 19266,
           "display_name": "MAVU TOP 1 LAST EVENT (F)"
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 19176
         },
         {
           "name": "RETAKE",
@@ -257,21 +279,24 @@
           "points": 8368
         },
         {
-          "name": "destro",
-          "points": 5163
+          "name": "-Barines-",
+          "points": 4157
+        },
+        {
+          "name": "K1ller666",
+          "points": 2674
         },
         {
           "name": "super insecto",
           "points": 1838
         },
         {
-          "name": "The Mad King",
-          "points": 1311
+          "name": "-INMORTAL-",
+          "points": 1583
         },
         {
-          "name": "Félix Gabriel",
-          "points": 860,
-          "display_name": "Félix Gabriel EX TOP"
+          "name": "The Mad King",
+          "points": 1311
         },
         {
           "name": "sanchez",
@@ -294,16 +319,7 @@
           "points": 0
         },
         {
-          "name": "SIRED",
-          "points": 0,
-          "display_name": "SIRED EX TOP"
-        },
-        {
           "name": "-ZEUS-",
-          "points": 0
-        },
-        {
-          "name": "SULTHAN ASHIQ",
           "points": 0
         },
         {
@@ -335,23 +351,11 @@
           "points": 0
         },
         {
-          "name": "-INMORTAL-",
-          "points": 0
-        },
-        {
           "name": "Juanmi",
           "points": 0
         },
         {
           "name": "A Little Death",
-          "points": 0
-        },
-        {
-          "name": "K1ller666",
-          "points": 0
-        },
-        {
-          "name": "-Barines-",
           "points": 0
         },
         {
@@ -375,17 +379,13 @@
           "points": 0
         },
         {
-          "name": "lord erick",
-          "points": 0
-        },
-        {
           "name": "Ricardoo1y02",
           "points": 0
         }
       ],
-      "source": "Jugadores_OTAN (76).csv",
+      "source": "Jugadores_OTAN (77).csv",
       "data_type": "partial",
-      "note": "Nuevo corte de Nómadas con los 45 miembros de Samuráis. El CSV aporta puntos para 20 jugadores y los otros 25 figuran con 0 provisional. Insignias del cierre de Samuráis."
+      "note": "Corte parcial: se incorporan los puntos de 23 jugadores del CSV. Los demás conservan su último puntaje registrado. Insignias del cierre de Samuráis."
     },
     "foreigners": {
       "players": [
