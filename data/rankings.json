@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-23T03:51:30.365Z",
+  "updated_at": "2026-11-23T03:59:10.345Z",
   "events": {
     "samurai": {
       "players": [
@@ -240,6 +240,10 @@
           "points": 73508
         },
         {
+          "name": "Félix Gab II",
+          "points": 65163
+        },
+        {
           "name": "Boot",
           "points": 50590,
           "display_name": "Boot TOP 2 LAST EVENT"
@@ -247,6 +251,10 @@
         {
           "name": "tongui.",
           "points": 40068
+        },
+        {
+          "name": "Gojo Satoru",
+          "points": 36285
         },
         {
           "name": "lord erick",
@@ -260,6 +268,10 @@
         {
           "name": "SULTHAN ASHIQ",
           "points": 19176
+        },
+        {
+          "name": "ÊŘŇËŞŢØ",
+          "points": 18860
         },
         {
           "name": "RETAKE",
@@ -288,7 +300,7 @@
         },
         {
           "name": "super insecto",
-          "points": 1838
+          "points": 2322
         },
         {
           "name": "-INMORTAL-",
@@ -305,10 +317,6 @@
         {
           "name": "MINUS ONE",
           "points": 301
-        },
-        {
-          "name": "ÊŘŇËŞŢØ",
-          "points": 0
         },
         {
           "name": "Lutter",
@@ -343,10 +351,6 @@
           "points": 0
         },
         {
-          "name": "Gojo Satoru",
-          "points": 0
-        },
-        {
           "name": "wilder98",
           "points": 0
         },
@@ -371,10 +375,6 @@
           "points": 0
         },
         {
-          "name": "Félix Gab II",
-          "points": 0
-        },
-        {
           "name": "-Monkey-",
           "points": 0
         },
@@ -383,9 +383,9 @@
           "points": 0
         }
       ],
-      "source": "Jugadores_OTAN (77).csv",
+      "source": "b05q9rhu.csv",
       "data_type": "partial",
-      "note": "Corte parcial: se incorporan los puntos de 23 jugadores del CSV. Los demás conservan su último puntaje registrado. Insignias del cierre de Samuráis."
+      "note": "Corte parcial. Se conserva el mayor puntaje registrado entre el corte anterior y el último corte del CSV. Los jugadores que no figuran con puntos en el CSV conservan su puntaje anterior."
     },
     "foreigners": {
       "players": [
