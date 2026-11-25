@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-23T03:59:10.345Z",
+  "updated_at": "2026-11-25T02:24:11.596Z",
   "events": {
     "samurai": {
       "players": [
@@ -199,11 +199,15 @@
       "players": [
         {
           "name": "wing",
-          "points": 3549661
+          "points": 3598693
         },
         {
           "name": "V Λ L Σ N ッ",
-          "points": 3172066
+          "points": 3543990
+        },
+        {
+          "name": "ÊŘŇËŞŢØ",
+          "points": 1513848
         },
         {
           "name": "SIRED",
@@ -215,25 +219,42 @@
           "points": 337623
         },
         {
+          "name": "spraj",
+          "points": 270069
+        },
+        {
           "name": "spinspin",
           "points": 244642
         },
         {
-          "name": "spraj",
-          "points": 214310
+          "name": "destro",
+          "points": 216374
         },
         {
-          "name": "destro",
-          "points": 209308
+          "name": "tongui.",
+          "points": 108105
+        },
+        {
+          "name": "Félix Gabriel",
+          "points": 106402,
+          "display_name": "Félix Gabriel EX TOP"
         },
         {
           "name": "La sombra",
           "points": 104394
         },
         {
-          "name": "Félix Gabriel",
-          "points": 85208,
-          "display_name": "Félix Gabriel EX TOP"
+          "name": "Gojo Satoru",
+          "points": 103035
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 102553
+        },
+        {
+          "name": "MAVU",
+          "points": 83227,
+          "display_name": "MAVU TOP 1 LAST EVENT (F)"
         },
         {
           "name": "-KAERION-",
@@ -244,42 +265,25 @@
           "points": 65163
         },
         {
+          "name": "lord erick",
+          "points": 56603
+        },
+        {
+          "name": "RETAKE",
+          "points": 52210
+        },
+        {
           "name": "Boot",
           "points": 50590,
           "display_name": "Boot TOP 2 LAST EVENT"
         },
         {
-          "name": "tongui.",
-          "points": 40068
-        },
-        {
-          "name": "Gojo Satoru",
-          "points": 36285
-        },
-        {
-          "name": "lord erick",
-          "points": 33805
-        },
-        {
-          "name": "MAVU",
-          "points": 19266,
-          "display_name": "MAVU TOP 1 LAST EVENT (F)"
-        },
-        {
-          "name": "SULTHAN ASHIQ",
-          "points": 19176
-        },
-        {
-          "name": "ÊŘŇËŞŢØ",
-          "points": 18860
-        },
-        {
-          "name": "RETAKE",
-          "points": 16685
+          "name": "super insecto",
+          "points": 29657
         },
         {
           "name": "Resurgentee",
-          "points": 11679,
+          "points": 20316,
           "display_name": "Resurgentee TOP 3 LAST EVENT"
         },
         {
@@ -299,12 +303,8 @@
           "points": 2674
         },
         {
-          "name": "super insecto",
-          "points": 2322
-        },
-        {
           "name": "-INMORTAL-",
-          "points": 1583
+          "points": 2123
         },
         {
           "name": "The Mad King",
@@ -313,6 +313,10 @@
         {
           "name": "sanchez",
           "points": 674
+        },
+        {
+          "name": "O T A N",
+          "points": 455
         },
         {
           "name": "MINUS ONE",
@@ -344,10 +348,6 @@
         },
         {
           "name": "MOAN",
-          "points": 0
-        },
-        {
-          "name": "O T A N",
           "points": 0
         },
         {
@@ -383,9 +383,9 @@
           "points": 0
         }
       ],
-      "source": "b05q9rhu.csv",
-      "data_type": "partial",
-      "note": "Corte parcial. Se conserva el mayor puntaje registrado entre el corte anterior y el último corte del CSV. Los jugadores que no figuran con puntos en el CSV conservan su puntaje anterior."
+      "source": "nkbrq9h3.csv",
+      "data_type": "final",
+      "note": "Puntos finales del último corte de Nómadas. Se conservan los 45 miembros y el mayor puntaje registrado por jugador."
     },
     "foreigners": {
       "players": [
