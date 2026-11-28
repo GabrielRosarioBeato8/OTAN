@@ -1,7 +1,7 @@
 {
   "game": "e4k",
   "server": "EmpirefourkingdomsExGG_2",
-  "updated_at": "2026-11-25T02:52:00.228Z",
+  "updated_at": "2026-11-28T03:51:07Z",
   "events": {
     "samurai": {
       "players": [
@@ -583,38 +583,87 @@
     "ravens": {
       "players": [
         {
-          "name": "wing",
-          "points": 0,
-          "display_name": "wing TOP 1 LAST EVENT"
-        },
-        {
-          "name": "V Λ L Σ N ッ",
-          "points": 0,
-          "display_name": "V Λ L Σ N ッ TOP 2 LAST EVENT"
-        },
-        {
-          "name": "ÊŘŇËŞŢØ",
-          "points": 0,
-          "display_name": "ÊŘŇËŞŢØ TOP 3 LAST EVENT"
-        },
-        {
-          "name": "SIRED",
-          "points": 0
-        },
-        {
-          "name": "りﾉ丂ムﾑ乇ﾑ",
-          "points": 0
-        },
-        {
-          "name": "spraj",
-          "points": 0
-        },
-        {
-          "name": "destro",
-          "points": 0
+          "name": "La sombra",
+          "points": 214555858
         },
         {
           "name": "tongui.",
+          "points": 210589585
+        },
+        {
+          "name": "Lutter",
+          "points": 204553332
+        },
+        {
+          "name": "-Barines-",
+          "points": 202163257
+        },
+        {
+          "name": "V Λ L Σ N ッ",
+          "points": 191992126
+        },
+        {
+          "name": "-INMORTAL-",
+          "points": 185421310
+        },
+        {
+          "name": "sanchez",
+          "points": 170400730
+        },
+        {
+          "name": "SIRED",
+          "points": 139987269
+        },
+        {
+          "name": "super insecto",
+          "points": 114292901
+        },
+        {
+          "name": "destro",
+          "points": 101070657
+        },
+        {
+          "name": "Gamer366",
+          "points": 81021048
+        },
+        {
+          "name": "-KAERION-",
+          "points": 71990418
+        },
+        {
+          "name": "MINUS ONE",
+          "points": 63146802
+        },
+        {
+          "name": "lord erick",
+          "points": 54628238
+        },
+        {
+          "name": "SULTHAN ASHIQ",
+          "points": 46723413
+        },
+        {
+          "name": "RETAKE",
+          "points": 45263167
+        },
+        {
+          "name": "Resurgentee",
+          "points": 42397922
+        },
+        {
+          "name": "Fred000",
+          "points": 35545317
+        },
+        {
+          "name": "Gojo Satoru",
+          "points": 20632109
+        },
+        {
+          "name": "wing",
+          "points": 0
+        },
+        {
+          "name": "MAVU",
           "points": 0
         },
         {
@@ -622,77 +671,7 @@
           "points": 0
         },
         {
-          "name": "Gojo Satoru",
-          "points": 0
-        },
-        {
-          "name": "SULTHAN ASHIQ",
-          "points": 0
-        },
-        {
-          "name": "MAVU",
-          "points": 0,
-          "display_name": "MAVU EX TOP (F)"
-        },
-        {
-          "name": "-KAERION-",
-          "points": 0
-        },
-        {
-          "name": "Félix Gab II",
-          "points": 0
-        },
-        {
-          "name": "lord erick",
-          "points": 0
-        },
-        {
-          "name": "RETAKE",
-          "points": 0
-        },
-        {
-          "name": "super insecto",
-          "points": 0
-        },
-        {
-          "name": "Resurgentee",
-          "points": 0,
-          "display_name": "Resurgentee EX TOP"
-        },
-        {
           "name": "CENIZA",
-          "points": 0
-        },
-        {
-          "name": "Gamer366",
-          "points": 0
-        },
-        {
-          "name": "-Barines-",
-          "points": 0
-        },
-        {
-          "name": "K1ller666",
-          "points": 0
-        },
-        {
-          "name": "-INMORTAL-",
-          "points": 0
-        },
-        {
-          "name": "The Mad King",
-          "points": 0
-        },
-        {
-          "name": "sanchez",
-          "points": 0
-        },
-        {
-          "name": "O T A N",
-          "points": 0
-        },
-        {
-          "name": "MINUS ONE",
           "points": 0
         },
         {
@@ -700,7 +679,7 @@
           "points": 0
         },
         {
-          "name": "Lutter",
+          "name": "spraj",
           "points": 0
         },
         {
@@ -708,15 +687,31 @@
           "points": 0
         },
         {
+          "name": "Gamboaa",
+          "points": 0
+        },
+        {
+          "name": "O T A N",
+          "points": 0
+        },
+        {
           "name": "Juanmi",
           "points": 0
         },
         {
-          "name": "Fred000",
+          "name": "ÊŘŇËŞŢØ",
+          "points": 0
+        },
+        {
+          "name": "Félix Gab II",
           "points": 0
         },
         {
           "name": "DragoșDr",
+          "points": 0
+        },
+        {
+          "name": "K1ller666",
           "points": 0
         },
         {
@@ -730,11 +725,19 @@
         {
           "name": "-Monkey-",
           "points": 0
+        },
+        {
+          "name": "りﾉ丂ムﾑ乇ﾑ",
+          "points": 0
+        },
+        {
+          "name": "The Mad King",
+          "points": 0
         }
       ],
-      "source": "nkbrq9h3(1).csv — lista de miembros",
+      "source": "uu6e2md5.csv",
       "data_type": "partial",
-      "note": "Nueva tabla con 36 miembros confirmados de OTAN. Puntos en 0 provisional hasta recibir el primer corte de Cuervos. Insignias del cierre de Nómadas."
+      "note": "Puntos del último corte del CSV (26 de noviembre de 2026)."
     }
   }
 }
