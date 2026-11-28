@@ -50,18 +50,17 @@
 #en-paloma th:first-child{border-right-color:#41556b}
 #en-paloma tr>:nth-child(2){text-align:left;padding-left:clamp(16px,3vw,32px)}
 #en-paloma td:last-child{width:28%;white-space:nowrap}
-.last-top-badge{display:inline-flex;align-items:center;gap:6px;margin:2px 0 2px 8px;padding:3px 8px 3px 6px;border:1px solid var(--top-edge);border-radius:5px;background:linear-gradient(155deg,var(--top-shine),#211a19 72%);box-shadow:inset 0 1px #ffffff25,0 1px 2px #0004;color:var(--top-text);font:800 10px/1.2 Arial,sans-serif;letter-spacing:.045em;white-space:nowrap;vertical-align:middle}
-.last-top-1{--top-edge:#ad792c;--top-shine:#644019;--top-text:#ffe3a4}.last-top-2{--top-edge:#8798ad;--top-shine:#435066;--top-text:#e6eefb}.last-top-3{--top-edge:#ac6c4e;--top-shine:#633c32;--top-text:#ffcfb7}
-.last-top-flame{position:relative;display:inline-grid;place-items:end center;width:13px;height:16px;flex:none;filter:drop-shadow(0 0 2px #ff6a3d99)}
-.last-top-flame::before,.last-top-flame::after{content:'';grid-area:1/1;clip-path:polygon(49% 0,68% 19%,66% 37%,83% 28%,96% 54%,95% 76%,79% 94%,53% 100%,27% 96%,9% 79%,4% 60%,16% 39%,28% 52%,42% 33%)}
-.last-top-flame::before{width:13px;height:16px;background:linear-gradient(#fff1aa,#ff9d36 47%,#d83916)}
-.last-top-flame::after{width:7px;height:8px;background:linear-gradient(#fff4bc,#ffb849)}
 .monthly-medals{display:inline-flex;flex-wrap:wrap;gap:7px;margin-inline-start:8px;vertical-align:middle}
 .monthly-medal{display:inline-flex;align-items:center;flex-direction:column;min-width:31px;color:#362a20;font:700 11px/1.1 Arial,sans-serif;white-space:nowrap}
 .monthly-medal-icon{display:inline-flex;position:relative;align-items:center;justify-content:center;width:29px;height:16px}
 .monthly-medal-icon::before,.monthly-medal-icon::after{content:'';position:absolute;top:1px;width:12px;height:11px;background:var(--medal-color);clip-path:polygon(0 0,100% 48%,100% 100%,52% 94%,21% 66%,44% 65%,9% 37%,33% 41%)}
 .monthly-medal-icon::before{left:0}.monthly-medal-icon::after{right:0;transform:scaleX(-1)}
 .monthly-medal-icon i{width:11px;height:11px;z-index:1;border:1px solid #382818;border-radius:50%;background:var(--medal-color);box-shadow:inset 0 0 0 2px #ffffff60}
+.monthly-medal-podium .monthly-medal-icon{width:35px;height:23px;isolation:isolate}
+.monthly-medal-podium .monthly-medal-icon::before,.monthly-medal-podium .monthly-medal-icon::after{top:7px;width:14px;height:12px;background:linear-gradient(155deg,#e6fbff,var(--medal-color) 45%,#28778c);filter:drop-shadow(0 1px #173c49)}
+.monthly-medal-podium .monthly-medal-icon i{width:14px;height:14px;border-color:#205062;background:radial-gradient(circle at 35% 28%,#effcff,var(--medal-color) 60%,#22758c);box-shadow:0 0 0 1px #f5dfac,0 1px 3px #482411}
+.medal-fire{position:absolute;inset:-2px 0 0;z-index:-1;filter:drop-shadow(0 0 2px #f6863b)}
+.medal-fire::before{content:'';position:absolute;inset:0;background:linear-gradient(#fff1a3,#ffac40 35%,#f46527 65%,#ad3216);clip-path:polygon(0 50%,12% 62%,9% 33%,25% 50%,29% 16%,40% 42%,54% 0,61% 38%,74% 19%,76% 49%,93% 30%,88% 62%,100% 49%,95% 78%,81% 94%,50% 100%,19% 94%,5% 78%)}
 .medal-diamante{--medal-color:#52acc7}.medal-oro{--medal-color:#e2ab34}.medal-plata{--medal-color:#8aabb9}.medal-bronce{--medal-color:#c57145}.medal-hierro{--medal-color:#65717d}
 </style></head><body><main class="wrap"><header class="banner">OTAN&nbsp; | &nbsp;<span id="eventTitle">INVASIÓN NÓMADA</span> · CLASIFICACIÓN</header><div class="note">DISEÑO ORIGINAL OTAN IMPERIAL · Clasificaciones automáticas sujetas a verificación</div><nav class="nav"><button class="active" data-tab="ranking">Clasificación</button><button data-tab="history">Historial de eventos</button><button data-tab="stats">Estadísticas</button><button data-tab="fisura">Fisura OTAN</button><button data-tab="baseFisura">Puntos base Fisura</button><button data-tab="escuadrones">Escuadrones Fisura (NUEVO)</button><button data-tab="honor" type="button">Honor</button><button data-tab="en-paloma" type="button">En Paloma</button></nav><section class="section hidden" id="en-paloma" aria-labelledby="paloma-title">
   <header><h2 class="fisura-title" id="paloma-title">Zee Take · En Paloma</h2><div class="paloma-percentages"><span class="paloma-protected"><strong>76.92%</strong> En Paloma</span><span class="paloma-unprotected"><strong>23.08%</strong> Sin Paloma</span></div><figure class="paloma-chart" role="img" aria-label="Zee Take: 76.92% En Paloma y 23.08% Sin Paloma"><div class="paloma-ring" aria-hidden="true"><div class="paloma-ring-label">En Paloma<strong>76.92%</strong></div></div></figure><p class="fisura-note">65 jugadores · 50 En Paloma · 15 Sin Paloma según la exportación del 26 de noviembre de 2026</p></header>
@@ -204,7 +203,10 @@ function countMonthlyMedals(results,month){
   result.players.forEach((name,index)=>{
    const medals=counts.get(name)||new Map();
    const tier=league(index);
-   medals.set(tier,(medals.get(tier)||0)+1);
+   const tally=medals.get(tier)||{count:0,podium:false};
+   tally.count++;
+   tally.podium ||= index<3;
+   medals.set(tier,tally);
    counts.set(name,medals);
   });
  }
@@ -214,19 +216,13 @@ function renderMonthlyMedals(name){
  const counts=monthlyMedals.get(name);
  if(!counts)return '';
  const medals=medalLeagues.filter(tier=>counts.has(tier)).map(tier=>{
-  const count=counts.get(tier);
-  const label=tier+' ×'+count;
-  return `<span class="monthly-medal medal-${tier.toLowerCase()}" role="img" aria-label="${label}" title="${label}"><span class="monthly-medal-icon" aria-hidden="true"><i></i></span><span aria-hidden="true">×${count}</span></span>`;
+  const {count,podium}=counts.get(tier);
+  const label=tier+' ×'+count+(podium?' · Podio':'');
+  return `<span class="monthly-medal medal-${tier.toLowerCase()}${podium?' monthly-medal-podium':''}" role="img" aria-label="${label}" title="${label}"><span class="monthly-medal-icon" aria-hidden="true">${podium?'<span class="medal-fire"></span>':''}<i></i></span><span aria-hidden="true">×${count}</span></span>`;
  });
  return `<span class="monthly-medals">${medals.join('')}</span>`;
 }
-function renderRankingName(displayName){
- const escaped=displayName.replaceAll('&','&amp;').replaceAll('<','&lt;');
- const badge=/ (TOP ([123]) LAST EVENT(?: \((?:SF|F)\))?)$/i.exec(escaped);
- if(!badge)return escaped;
- return escaped.slice(0,badge.index)+`<span class="last-top-badge last-top-${badge[2]}"><span class="last-top-flame" aria-hidden="true"></span>${badge[1]}</span>`;
-}
-function render(){const ev=eventos[actual];const jugadores=[...ev.datos].sort((a,b)=>b[1]-a[1]);total=jugadores.reduce((s,x)=>s+x[1],0);const activos=jugadores.filter(x=>x[1]>0).length;document.querySelector('.banner').style.background=ev.color;document.querySelector('.banner').style.color=ev.texto||'#ffffff';document.querySelector('#eventTitle').textContent=ev.titulo;document.querySelector('#dataStatus').textContent=ev.datos.length?'Clasificación cargada de datos verificados.':'Aún no se han cargado datos verificados de '+actual+'.';let q=document.querySelector('#search').value.toLowerCase();document.querySelector('#rows').innerHTML=jugadores.length?jugadores.map((x,i)=>({x,i})).filter(o=>o.x[0].toLowerCase().includes(q)).map(({x,i})=>`<tr class="${league(i).toLowerCase()} ${i<3?'top'+(i+1):''}"><td>${i+1}</td><td>${renderRankingName(x[0])}${actual==='SAMURÁIS'?renderMonthlyMedals(x[2]??x[0]):''}</td><td>${fmt(x[1])}</td><td>${league(i)}</td><td>${total?(x[1]/total*100).toFixed(1).replace('.',','):0}%</td><td>${x[1]?'ACTIVO':'SIN PUNTOS'}</td></tr>`).join(''):'<tr><td colspan="6" style="text-align:center;padding:30px;background:#e8f1f9">Aún no hay datos para este evento.</td></tr>';const stats=[['MIEMBROS',jugadores.length],['PROMEDIO',activos?fmt(Math.round(total/activos)):'—'],['LÍDER DEL TOP',jugadores.length?jugadores[0][0].replace(/\s+PAPI DE PAPIS$/i,'').replace(/\s+TOP\s+\d+\s+LAST\s+EVENT.*$/i,'').replace(/\s+EX\s+TOP(?:\s*\([^)]*\))?$/i,''):'—'],['ACTIVOS',activos],['CAPACIDAD',65],['EVENTO',actual],['PUNTOS OTAN',fmt(total)]];document.querySelector('#topstats').innerHTML=stats.map((s,i)=>`<div class="stat"><label>${s[0]}</label><strong ${i===2?'class="leader"':''}>${s[1]}</strong></div>`).join('');}
+function render(){const ev=eventos[actual];const jugadores=[...ev.datos].sort((a,b)=>b[1]-a[1]);total=jugadores.reduce((s,x)=>s+x[1],0);const activos=jugadores.filter(x=>x[1]>0).length;document.querySelector('.banner').style.background=ev.color;document.querySelector('.banner').style.color=ev.texto||'#ffffff';document.querySelector('#eventTitle').textContent=ev.titulo;document.querySelector('#dataStatus').textContent=ev.datos.length?'Clasificación cargada de datos verificados.':'Aún no se han cargado datos verificados de '+actual+'.';let q=document.querySelector('#search').value.toLowerCase();document.querySelector('#rows').innerHTML=jugadores.length?jugadores.map((x,i)=>({x,i})).filter(o=>o.x[0].toLowerCase().includes(q)).map(({x,i})=>`<tr class="${league(i).toLowerCase()} ${i<3?'top'+(i+1):''}"><td>${i+1}</td><td>${x[0].replaceAll('&','&amp;').replaceAll('<','&lt;')}${actual==='SAMURÁIS'?renderMonthlyMedals(x[2]??x[0]):''}</td><td>${fmt(x[1])}</td><td>${league(i)}</td><td>${total?(x[1]/total*100).toFixed(1).replace('.',','):0}%</td><td>${x[1]?'ACTIVO':'SIN PUNTOS'}</td></tr>`).join(''):'<tr><td colspan="6" style="text-align:center;padding:30px;background:#e8f1f9">Aún no hay datos para este evento.</td></tr>';const stats=[['MIEMBROS',jugadores.length],['PROMEDIO',activos?fmt(Math.round(total/activos)):'—'],['LÍDER DEL TOP',jugadores.length?jugadores[0][0].replace(/\s+PAPI DE PAPIS$/i,'').replace(/\s+TOP\s+\d+\s+LAST\s+EVENT.*$/i,'').replace(/\s+EX\s+TOP(?:\s*\([^)]*\))?$/i,''):'—'],['ACTIVOS',activos],['CAPACIDAD',65],['EVENTO',actual],['PUNTOS OTAN',fmt(total)]];document.querySelector('#topstats').innerHTML=stats.map((s,i)=>`<div class="stat"><label>${s[0]}</label><strong ${i===2?'class="leader"':''}>${s[1]}</strong></div>`).join('');}
 document.querySelector('#search').addEventListener('input',render);document.querySelectorAll('[data-tab]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('[data-tab]').forEach(x=>x.classList.toggle('active',x===b));['ranking','history','stats','fisura','baseFisura','escuadrones','honor','en-paloma'].forEach(id=>document.getElementById(id).classList.toggle('hidden',id!==b.dataset.tab));const banner=document.querySelector('.banner');if(b.dataset.tab==='en-paloma'){banner.style.background='#20784b';banner.style.color='#ffffff';document.querySelector('#eventTitle').textContent='ZEE TAKE · EN PALOMA';}else if(b.dataset.tab==='honor'){banner.style.background='#482329';banner.style.color='#ffe6b7';document.querySelector('#eventTitle').textContent='CLASIFICACIÓN DE HONOR';}else if(b.dataset.tab==='history'){banner.style.background=eventos['SAMURÁIS'].color;banner.style.color=eventos['SAMURÁIS'].texto||'#ffffff';document.querySelector('#eventTitle').textContent='INVASIÓN SAMURÁI';}else{banner.style.background=eventos[actual].color;banner.style.color=eventos[actual].texto||'#ffffff';document.querySelector('#eventTitle').textContent=eventos[actual].titulo;}}));document.querySelector('#event').addEventListener('change',e=>{actual=e.target.value;document.querySelector('#search').value='';render()});render();
 const ids={'SAMURÁIS':'samurai','NÓMADAS':'nomads','EXTRANJEROS':'foreigners','CUERVOS':'ravens'};
 function nombreConInsignia(nombre){return nombre;}
