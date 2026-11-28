@@ -66,8 +66,21 @@
 .official-history{margin-block:16px 24px;padding:12px 16px;background:#fff;border:1px solid #d5e0ec}
 .official-history h3{margin-top:0}.official-history details{padding:8px 0;border-top:1px solid #d5e0ec}.official-history summary{cursor:pointer;font-weight:bold}
 .official-history figure{margin:10px 0}.official-history img{display:block;width:auto;max-width:100%;height:auto}.official-history a{display:inline-block;margin-top:8px}
-#kingdom-ranking table{min-width:760px}#kingdom-ranking tbody tr:nth-child(odd){background:#e6edf5}
-#kingdom-ranking th:nth-child(2){width:24%}#kingdom-ranking th:first-child{width:7%}
+#kingdom-ranking table{min-width:760px;border-collapse:separate;border-spacing:0 5px}
+#kingdom-ranking th{background:#213d5b;padding:7px 3px}
+#kingdom-ranking th:nth-child(2){width:23%;padding-inline-start:12px}#kingdom-ranking th:first-child{width:7%}#kingdom-ranking th:last-child{width:7%}
+#kingdom-ranking td{background:#e8f1f9;height:57px;padding:4px 3px}
+#kingdom-ranking td:nth-child(2){padding-inline-start:12px;font-weight:bold}
+#kingdom-ranking tbody td:first-child{border-inline-start:4px solid transparent}
+#kingdom-ranking tr[data-rank="1"] td:first-child{border-color:#e2ab34}
+#kingdom-ranking tr[data-rank="2"] td:first-child{border-color:#8aabb9}
+#kingdom-ranking tr[data-rank="3"] td:first-child{border-color:#c57145}
+#kingdom-ranking .kingdom-medal{display:inline-flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-height:37px}
+#kingdom-ranking .kingdom-medal-icon{display:flex;align-items:center;justify-content:center;height:27px}
+#kingdom-ranking .kingdom-medal-icon .monthly-medal-icon{transform:scale(1.15)}
+#kingdom-ranking .kingdom-medal small{color:#203b58;font:700 11px/1.1 Arial,sans-serif}
+#kingdom-ranking th .kingdom-medal small{color:#fff;font-size:9px}
+#kingdom-ranking td:last-child{font-weight:bold;color:#203b58}
 .monthly-medals{overflow-x:auto;scrollbar-width:none}.monthly-medals:focus-visible{outline:1px solid #704a16}
 </style></head><body><main class="wrap"><header class="banner">OTAN&nbsp; | &nbsp;<span id="eventTitle">INVASIÓN NÓMADA</span> · CLASIFICACIÓN</header><div class="note">DISEÑO ORIGINAL OTAN IMPERIAL · Clasificaciones automáticas sujetas a verificación</div><nav class="nav"><button class="active" data-tab="ranking">Clasificación</button><button data-tab="history">Historial de eventos</button><button data-tab="stats">Liga de Reino</button><button data-tab="fisura">Fisura OTAN</button><button data-tab="baseFisura">Puntos base Fisura</button><button data-tab="escuadrones">Escuadrones Fisura (NUEVO)</button><button data-tab="honor" type="button">Honor</button><button data-tab="en-paloma" type="button">En Paloma</button></nav><section class="section hidden" id="en-paloma" aria-labelledby="paloma-title">
   <header><h2 class="fisura-title" id="paloma-title">Zee Take · En Paloma</h2><div class="paloma-percentages"><span class="paloma-protected"><strong>76.92%</strong> En Paloma</span><span class="paloma-unprotected"><strong>23.08%</strong> Sin Paloma</span></div><figure class="paloma-chart" role="img" aria-label="Zee Take: 76.92% En Paloma y 23.08% Sin Paloma"><div class="paloma-ring" aria-hidden="true"><div class="paloma-ring-label">En Paloma<strong>76.92%</strong></div></div></figure><p class="fisura-note">65 jugadores · 50 En Paloma · 15 Sin Paloma según la exportación del 26 de noviembre de 2026</p></header>
@@ -289,6 +302,14 @@ async function cargarClasificaciones(){
 const monthPicker=document.querySelector('#kingdom-month');
 const monthLabel=month=>new Intl.DateTimeFormat('es-DO',{month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(month+'-01T00:00:00Z'));
 const escapeLeagueName=name=>name.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
+function kingdomMedalIcon(tier,index){
+ if(index<3)return `<span class="monthly-podium-emblem top-${index+1}"><img src="${podiumEmblems[index]}" alt="" width="26" height="26"></span>`;
+ return `<span class="monthly-medal-icon medal-${tier.toLowerCase()}" aria-hidden="true"><i></i></span>`;
+}
+function kingdomMedal(tier,index,count){
+ const label=count===undefined?tier:tier+' ×'+count;
+ return `<span class="kingdom-medal" role="img" aria-label="${label}" title="${label}"><span class="kingdom-medal-icon" aria-hidden="true">${kingdomMedalIcon(tier,index)}</span><small aria-hidden="true">${count===undefined?tier:'×'+count}</small></span>`;
+}
 function renderKingdomLeague(){
  if(!monthPicker.value)return;
  const order=['TOP 1','TOP 2','TOP 3',...medalLeagues];
@@ -302,9 +323,9 @@ function renderKingdomLeague(){
  let rank=0;
  const rows=entrants.map((entry,i)=>{
   if(!i||compare(entry,entrants[i-1]))rank=i+1;
-  return `<tr><td>${rank}</td><td>${escapeLeagueName(entry.name)}</td>${entry.counts.map(count=>`<td>${count||'—'}</td>`).join('')}<td>${entry.counts.reduce((a,b)=>a+b,0)}</td></tr>`;
+  return `<tr data-rank="${rank}"><td>${rank}</td><td>${escapeLeagueName(entry.name)}</td>${entry.counts.map((count,index)=>`<td>${count?kingdomMedal(order[index],index,count):''}</td>`).join('')}<td>${entry.counts.reduce((a,b)=>a+b,0)}</td></tr>`;
  });
- document.querySelector('#kingdom-ranking').innerHTML=`<table aria-label="Liga de Reino"><thead><tr><th scope="col">Puesto</th><th scope="col">Jugador</th>${order.map(tier=>`<th scope="col">${tier}</th>`).join('')}<th scope="col">Total</th></tr></thead><tbody>${rows.join('')}</tbody></table>`;
+ document.querySelector('#kingdom-ranking').innerHTML=`<table aria-label="Liga de Reino"><thead><tr><th scope="col">Puesto</th><th scope="col">Jugador</th>${order.map((tier,index)=>`<th scope="col">${kingdomMedal(tier,index)}</th>`).join('')}<th scope="col">Total</th></tr></thead><tbody>${rows.join('')}</tbody></table>`;
 }
 function selectMedalMonth(){
  monthlyMedals=countMonthlyMedals(officialResults,monthPicker.value);
