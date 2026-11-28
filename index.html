@@ -69,7 +69,7 @@
 #kingdom-ranking table{min-width:760px;border-collapse:separate;border-spacing:0 5px}
 #kingdom-ranking th{background:#213d5b;padding:7px 3px}
 #kingdom-ranking th:nth-child(2){width:23%;padding-inline-start:12px}#kingdom-ranking th:first-child{width:7%}#kingdom-ranking th:last-child{width:7%}
-#kingdom-ranking td{background:#e8f1f9;height:57px;padding:4px 3px}
+#kingdom-ranking td{height:57px;padding:4px 3px}
 #kingdom-ranking td:nth-child(2){padding-inline-start:12px;font-weight:bold}
 #kingdom-ranking tbody td:first-child{border-inline-start:4px solid transparent}
 #kingdom-ranking tr[data-rank="1"] td:first-child{border-color:#e2ab34}
@@ -323,7 +323,7 @@ function renderKingdomLeague(){
  let rank=0;
  const rows=entrants.map((entry,i)=>{
   if(!i||compare(entry,entrants[i-1]))rank=i+1;
-  return `<tr data-rank="${rank}"><td>${rank}</td><td>${escapeLeagueName(entry.name)}</td>${entry.counts.map((count,index)=>`<td>${count?kingdomMedal(order[index],index,count):''}</td>`).join('')}<td>${entry.counts.reduce((a,b)=>a+b,0)}</td></tr>`;
+  return `<tr class="${league(rank-1).toLowerCase()} ${rank<=3?`top${rank}`:''}" data-rank="${rank}"><td>${rank}</td><td>${escapeLeagueName(entry.name)}</td>${entry.counts.map((count,index)=>`<td>${count?kingdomMedal(order[index],index,count):''}</td>`).join('')}<td>${entry.counts.reduce((a,b)=>a+b,0)}</td></tr>`;
  });
  document.querySelector('#kingdom-ranking').innerHTML=`<table aria-label="Liga de Reino"><thead><tr><th scope="col">Puesto</th><th scope="col">Jugador</th>${order.map((tier,index)=>`<th scope="col">${kingdomMedal(tier,index)}</th>`).join('')}<th scope="col">Total</th></tr></thead><tbody>${rows.join('')}</tbody></table>`;
 }
